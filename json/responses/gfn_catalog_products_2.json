@@ -1,0 +1,905 @@
+{
+	"products": [
+		{
+			"id": "9b3b84b6-0735-43bf-97f9-6c8d8fedde04",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b3b84b6-0735-43bf-97f9-6c8d8fedde04",
+			"title": "Metal Ornament, Round",
+			"styleCode": "ORNM_RND",
+			"material": null,
+			"description": "Aluminium round hanging ornament. Printed on one side only and supplied with a ribbon for hanging.",
+			"specifications": "Crafted for durability and elegance, this metal Christmas ornament adds a timeless touch to holiday decor. Ideal for showcasing unique prints, its sleek design ensures it blends seamlessly into any festive setting."
+		},
+		{
+			"id": "9b3b9d57-9746-42cb-9c40-2e79af9ab9b2",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b3b9d57-9746-42cb-9c40-2e79af9ab9b2",
+			"title": "Metal Ornament, Victorian",
+			"styleCode": "ORNM_BNX",
+			"material": null,
+			"description": "Aluminium Victorian shaped hanging ornament. Printed on one side only and includes ribbon for hanging.",
+			"specifications": "Crafted for durability and elegance, this metal Christmas ornament adds a timeless touch to holiday decor. Ideal for showcasing unique prints, its sleek design ensures it blends seamlessly into any festive setting."
+		},
+		{
+			"id": "9b3ba8c6-de96-45a1-ad62-5d60e362536b",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b3ba8c6-de96-45a1-ad62-5d60e362536b",
+			"title": "Water Bottle, Stainless Steel, 500ml",
+			"styleCode": "WTRB_SS",
+			"material": null,
+			"description": "A 500ml stainless steel water bottle",
+			"specifications": "Experience the perfect blend of functionality and style with our 500ml stainless steel water bottle. Durable and eco-friendly, this bottle keeps your drinks at the ideal temperature, whether hot or cold. Its sleek design ensures it fits effortlessly into your daily routine, making hydration simple and stylish."
+		},
+		{
+			"id": "9b3d24d7-bb4a-4237-aeca-630729276238",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b3d24d7-bb4a-4237-aeca-630729276238",
+			"title": "Mug, 10oz, Two Tone",
+			"styleCode": "MU10_TT",
+			"material": null,
+			"description": "A straight sided ceramic mug with a high gloss finish. Coloured inside and handle. Dishwasher and microwave safe. Shipped in a double-walled cardboard smash-proof mailer box.",
+			"specifications": "Enjoy your favorite beverages in our premium 10oz two-tone mug. Ideal for both hot and cold drinks, this durable mug is a perfect addition to your daily routine. Carefully crafted for easy handling and cleaning, ensure a seamless experience with every sip."
+		},
+		{
+			"id": "9b3d2c17-d9fb-416c-ba8a-8e17174ea80c",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b3d2c17-d9fb-416c-ba8a-8e17174ea80c",
+			"title": "Cushion, Velour, Square, One Print",
+			"styleCode": "CSH_VLS1",
+			"material": null,
+			"description": "Super soft 100% Polyester Velour Square Cushion with a removable cover with a hidden zip. Cushions printed one side only have a pre-made 'easy-back' which is a buff colour. Design area left transparent will print white as per the base fabric colour. Suitable for all over sublimation printing.",
+			"specifications": "Experience the ultimate comfort with our soft and durable polyester cushion, perfect for adding a touch of personalized elegance to any space. This cushion features a high-quality, machine-washable cover for easy care and maintenance, ensuring long-lasting vibrancy in your home or office."
+		},
+		{
+			"id": "9b3d30c7-1103-4b64-a079-54759ca7790a",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b3d30c7-1103-4b64-a079-54759ca7790a",
+			"title": "Cushion, Velour, Rectangular, One Print",
+			"styleCode": "CSH_VLR1",
+			"material": null,
+			"description": "Super soft 100% Polyester Velour Rectangular Cushion with a removable cover with a hidden zip. Cushions printed one side only have a pre-made 'easy-back' which is a buff colour. Design area left transparent will print white as per the base fabric colour. Suitable for all over sublimation printing.",
+			"specifications": "Experience the ultimate comfort with our soft and durable polyester cushion, perfect for adding a touch of personalized elegance to any space. This cushion features a high-quality, machine-washable cover for easy care and maintenance, ensuring long-lasting vibrancy in your home or office."
+		},
+		{
+			"id": "9b3d38a2-ce0c-43eb-8fae-608e592ecc41",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b3d38a2-ce0c-43eb-8fae-608e592ecc41",
+			"title": "Water Bottle, Aluminium, 600ml",
+			"styleCode": "WTRB_AL",
+			"material": null,
+			"description": "600ml aluminium water bottle with 2 caps included.",
+			"specifications": "Experience the perfect blend of functionality and style with our 500ml stainless steel water bottle. Durable and eco-friendly, this bottle keeps your drinks at the ideal temperature, whether hot or cold. Its sleek design ensures it fits effortlessly into your daily routine, making hydration simple and stylish."
+		},
+		{
+			"id": "9b3d3ccb-cc23-464a-aef5-e55fd5198373",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b3d3ccb-cc23-464a-aef5-e55fd5198373",
+			"title": "Towel",
+			"styleCode": "TWL_AOP",
+			"material": null,
+			"description": "Description TBC",
+			"specifications": "Indulge in the luxurious softness of our high-quality beach towel, perfect for your seaside adventures or poolside relaxation. Crafted for comfort and durability, this towel is designed to be ultra-absorbent and quick to dry, ensuring a cozy experience every time. Ideal for personal use or as a thoughtful gift, it comes with easy care instructions for a lasting freshness."
+		},
+		{
+			"id": "9b3d41e1-121c-42f8-b47f-4d40091218d0",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b3d41e1-121c-42f8-b47f-4d40091218d0",
+			"title": "Tea Towel, All Over Print",
+			"styleCode": "TTWL_AOP",
+			"material": null,
+			"description": "100% 5oz cotton, 50 x 70 cm tea towel",
+			"specifications": "This premium, high-absorbency tea towel is perfect for both kitchen use and dining aesthetics. Crafted for durability, it features a soft, quick-drying fabric ideal for daily use and care. Machine washable, it ensures easy maintenance for a fresh, clean look in any home."
+		},
+		{
+			"id": "9b3d46c4-e9e2-4135-bfb5-b4b941629a9b",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b3d46c4-e9e2-4135-bfb5-b4b941629a9b",
+			"title": "Tote Bag, All Over Print",
+			"styleCode": "TTBG_AOP",
+			"material": null,
+			"description": "Description tbc",
+			"specifications": "Elevate your everyday style with our high-quality tote bag. Crafted for durability and convenience, it's perfect for carrying your essentials with ease. Featuring strong handles and ample storage space, it's ideal for both daily use and special occasions. Care instructions: Machine washable for effortless maintenance."
+		},
+		{
+			"id": "9b3d506e-e0f4-4399-bd89-de220b6401dc",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b3d506e-e0f4-4399-bd89-de220b6401dc",
+			"title": "Rock Slate, 20x20cm",
+			"styleCode": "RKST",
+			"material": null,
+			"description": "Description tbc",
+			"specifications": "Experience the charm and durability of our high-quality rock slate, perfect for showcasing vivid prints and photographs. This unique piece, with its natural, rustic edge, adds a touch of elegance to any decor. Ideal for both indoor and outdoor use, it promises to maintain its beauty over time. Care is straightforward, requiring only gentle cleaning to preserve its stunning appearance."
+		},
+		{
+			"id": "9b3d5643-4975-4beb-af14-5329bae251d1",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b3d5643-4975-4beb-af14-5329bae251d1",
+			"title": "Santa Sack - All Over Print",
+			"styleCode": "SNT_SCK",
+			"material": null,
+			"description": "A 100% Polyester draw string Santa sack. 85cm x 55cm. Design is repeated on the back.",
+			"specifications": "Crafted for festive occasions, this durable and spacious sack is perfect for holding all your holiday gifts. With its sturdy construction, it's designed to last through countless seasons, making it an essential for any celebration. Care is simple: just wash gently and air dry to keep it looking its best."
+		},
+		{
+			"id": "9b3d60b6-3be9-43e7-9d6c-6b831234dac3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b3d60b6-3be9-43e7-9d6c-6b831234dac3",
+			"title": "Santa Stocking, All Over Print",
+			"styleCode": "SNT_STCK",
+			"material": null,
+			"description": "Description tbc",
+			"specifications": "Crafted for festive occasions, this durable and spacious sack is perfect for holding all your holiday gifts. With its sturdy construction, it's designed to last through countless seasons, making it an essential for any celebration. Care is simple: just wash gently and air dry to keep it looking its best."
+		},
+		{
+			"id": "9b3d6d37-fe19-4c4f-91ce-625a2284d580",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b3d6d37-fe19-4c4f-91ce-625a2284d580",
+			"title": "Mug, 15oz, White",
+			"styleCode": "MU15_WHI",
+			"material": null,
+			"description": "A bright white straight sided ceramic mug with a high gloss finish. Dishwasher and microwave safe. Shipped in a double-walled cardboard smash-proof mailer box.",
+			"specifications": "Experience the perfect start to your mornings with our premium 15oz mug. Crafted for durability and designed for versatility, this mug ensures your favorite beverages are enjoyed in style. Featuring a classic, sleek shape, it's ideal for any hot or cold drink. Care is easy, simply hand wash to preserve its quality."
+		},
+		{
+			"id": "9b3d6ee7-f968-475a-a00b-4f776795e8c7",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b3d6ee7-f968-475a-a00b-4f776795e8c7",
+			"title": "Camping Mug, 8oz, White",
+			"styleCode": "MUCM_WHI",
+			"material": null,
+			"description": "Description tbc",
+			"specifications": "Experience the perfect blend of functionality and style with our ceramic camping mug. Ideal for both indoor and outdoor use, this durable, high-quality mug ensures your drinks stay at the perfect temperature. Care is simple: hand wash recommended to maintain its pristine condition. Ideal for personalizing with your unique touch."
+		},
+		{
+			"id": "9b3ef013-106c-43f8-ab0d-70fefc83d67e",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b3ef013-106c-43f8-ab0d-70fefc83d67e",
+			"title": "Snap On Phone Case",
+			"styleCode": "PC_SNAP",
+			"material": null,
+			"description": "Description tbc",
+			"specifications": null
+		},
+		{
+			"id": "9b3ef246-0e6f-477e-b02f-49d37a4bb8eb",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b3ef246-0e6f-477e-b02f-49d37a4bb8eb",
+			"title": "Snap On Tough Phone Case",
+			"styleCode": "PC_TOUG",
+			"material": null,
+			"description": "Description TBC",
+			"specifications": null
+		},
+		{
+			"id": "9b3ef6df-46fd-4c79-96ff-c8e88e025881",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b3ef6df-46fd-4c79-96ff-c8e88e025881",
+			"title": "Samsung Snap On Phone Case",
+			"styleCode": "SS_SNAP",
+			"material": null,
+			"description": "Description tbc",
+			"specifications": null
+		},
+		{
+			"id": "9b3ef7d7-a261-4af5-b014-37b44e87d1cf",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b3ef7d7-a261-4af5-b014-37b44e87d1cf",
+			"title": "Samsung Snap On Tough Phone Case",
+			"styleCode": "SS_TOUG",
+			"material": null,
+			"description": "Description TBC",
+			"specifications": null
+		},
+		{
+			"id": "9b3f3309-2bbd-4f42-acc5-af8b0b59bd6d",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b3f3309-2bbd-4f42-acc5-af8b0b59bd6d",
+			"title": "Canvas, Square",
+			"styleCode": "CVS_ST0",
+			"material": null,
+			"description": "A square, bright white 100% Recycled Polyester canvas. The specialised coating maximises colour and depth in the image. It has excellent light fastness, a uniform waterproof surface and is stretched over a 1.5\"\" pine wood. Framed canvases float inside a premium FSC certified wood frame.",
+			"specifications": "Experience the perfect blend of durability and eco-conscious crafting with our 260gsm polyester canvas. Supported by a robust 38mm thick, sustainably sourced pine frame, this canvas brings your custom designs to life with vibrant, water-based inks. Ideal for adding a touch of personal flair to any space."
+		},
+		{
+			"id": "9b3f64b4-a252-4509-9b03-248c6632d69d",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b3f64b4-a252-4509-9b03-248c6632d69d",
+			"title": "Canvas, 2:1 Ratio, Landscape",
+			"styleCode": "CVS_ST2L",
+			"material": null,
+			"description": "A rectangular, landscape, bright white 100% Recycled Polyester canvas. The specialised coating maximises colour and depth in the image. It has excellent light fastness, a uniform waterproof surface and is stretched over a 1.5 pine wood. Framed canvases float inside a premium FSC certified wood frame.",
+			"specifications": "Experience the perfect blend of durability and eco-conscious crafting with our 260gsm polyester canvas. Supported by a robust 38mm thick, sustainably sourced pine frame, this canvas brings your custom designs to life with vibrant, water-based inks. Ideal for adding a touch of personal flair to any space."
+		},
+		{
+			"id": "9b3f8b34-951e-4cfd-8e84-0d3e620072c2",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b3f8b34-951e-4cfd-8e84-0d3e620072c2",
+			"title": "Canvas, 2:1 Ratio, Portrait",
+			"styleCode": "CVS_ST2P",
+			"material": null,
+			"description": "A rectangular, portrait, bright white 100% Recycled Polyester canvas. The specialised coating maximises colour and depth in the image. It has excellent light fastness, a uniform waterproof surface and is stretched over a 1.5 pine wood. Framed canvases float inside a premium FSC certified wood frame.",
+			"specifications": "Experience the perfect blend of durability and eco-conscious crafting with our 260gsm polyester canvas. Supported by a robust 38mm thick, sustainably sourced pine frame, this canvas brings your custom designs to life with vibrant, water-based inks. Ideal for adding a touch of personal flair to any space."
+		},
+		{
+			"id": "9b3fa1db-1e8d-4d81-b0c5-3544602f1314",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b3fa1db-1e8d-4d81-b0c5-3544602f1314",
+			"title": "Canvas, 3:2 Ratio, Landscape",
+			"styleCode": "CVS_ST3L",
+			"material": null,
+			"description": "A rectangular, landscape, bright white 100% Recycled Polyester canvas. The specialised coating maximises colour and depth in the image. It has excellent light fastness, a uniform waterproof surface and is stretched over a 1.5 pine wood. Framed canvases float inside a premium FSC certified wood frame.",
+			"specifications": "Experience the perfect blend of durability and eco-conscious crafting with our 260gsm polyester canvas. Supported by a robust 38mm thick, sustainably sourced pine frame, this canvas brings your custom designs to life with vibrant, water-based inks. Ideal for adding a touch of personal flair to any space."
+		},
+		{
+			"id": "9b3fc32d-d4fa-43b8-88e3-538ddfd3827f",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b3fc32d-d4fa-43b8-88e3-538ddfd3827f",
+			"title": "Canvas, 3:2 Ratio, Portrait",
+			"styleCode": "CVS_ST3P",
+			"material": null,
+			"description": "A rectangular, portrait, bright white polyester canvas. The specialised coating maximises colour and depth in the image. It has excellent light fastness, a uniform waterproof surface and is stretched over a 1.5 pine wood. Framed canvases float inside a premium FSC certified wood frame.",
+			"specifications": "Experience the perfect blend of durability and eco-conscious crafting with our 260gsm polyester canvas. Supported by a robust 38mm thick, sustainably sourced pine frame, this canvas brings your custom designs to life with vibrant, water-based inks. Ideal for adding a touch of personal flair to any space."
+		},
+		{
+			"id": "9b3fc789-bec6-4da2-915a-b7e30799a837",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b3fc789-bec6-4da2-915a-b7e30799a837",
+			"title": "Canvas, 4:3 Ratio, Landscape",
+			"styleCode": "CVS_ST4L",
+			"material": null,
+			"description": "A rectangular, landscape, bright white 100% Recycled Polyester canvas. The specialised coating maximises colour and depth in the image. It has excellent light fastness, a uniform waterproof surface and is stretched over a 1.5 pine wood. Framed canvases float inside a premium FSC certified wood frame.",
+			"specifications": "Experience the perfect blend of durability and eco-conscious crafting with our 260gsm polyester canvas. Supported by a robust 38mm thick, sustainably sourced pine frame, this canvas brings your custom designs to life with vibrant, water-based inks. Ideal for adding a touch of personal flair to any space."
+		},
+		{
+			"id": "9b3fcb0c-fb4e-4746-96da-3646205c8f4d",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b3fcb0c-fb4e-4746-96da-3646205c8f4d",
+			"title": "Canvas, 4:3 Ratio, Portrait",
+			"styleCode": "CVS_ST4P",
+			"material": null,
+			"description": "A rectangular, portrait, bright white 100% Recycled Polyester canvas. The specialised coating maximises colour and depth in the image. It has excellent light fastness, a uniform waterproof surface and is stretched over a 1.5 pine wood. Framed canvases float inside a premium FSC certified wood frame.",
+			"specifications": "Experience the perfect blend of durability and eco-conscious crafting with our 260gsm polyester canvas. Supported by a robust 38mm thick, sustainably sourced pine frame, this canvas brings your custom designs to life with vibrant, water-based inks. Ideal for adding a touch of personal flair to any space."
+		},
+		{
+			"id": "9b4100f6-ac11-4abc-9d0a-9d0138b24110",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b4100f6-ac11-4abc-9d0a-9d0138b24110",
+			"title": "Canvas, 5:4 Ratio, Landscape",
+			"styleCode": "CVS_ST5L",
+			"material": null,
+			"description": "A rectangular, landscape, bright white 100% Recycled Polyester canvas. The specialised coating maximises colour and depth in the image. It has excellent light fastness, a uniform waterproof surface and is stretched over a 1.5 pine wood. Framed canvases float inside a premium FSC certified wood frame.",
+			"specifications": "Experience the perfect blend of durability and eco-conscious crafting with our 260gsm polyester canvas. Supported by a robust 38mm thick, sustainably sourced pine frame, this canvas brings your custom designs to life with vibrant, water-based inks. Ideal for adding a touch of personal flair to any space."
+		},
+		{
+			"id": "9b410483-2a25-40a5-8aa5-677ba6859557",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b410483-2a25-40a5-8aa5-677ba6859557",
+			"title": "Canvas, 5:4 Ratio, Portrait",
+			"styleCode": "CVS_ST5P",
+			"material": null,
+			"description": "A rectangular, portrait, bright white 100% Recycled Polyester canvas. The specialised coating maximises colour and depth in the image. It has excellent light fastness, a uniform waterproof surface and is stretched over a 1.5 pine wood. Framed canvases float inside a premium FSC certified wood frame.",
+			"specifications": "Experience the perfect blend of durability and eco-conscious crafting with our 260gsm polyester canvas. Supported by a robust 38mm thick, sustainably sourced pine frame, this canvas brings your custom designs to life with vibrant, water-based inks. Ideal for adding a touch of personal flair to any space."
+		},
+		{
+			"id": "9b410cb3-1cda-4737-b8ed-0b75982197b2",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b410cb3-1cda-4737-b8ed-0b75982197b2",
+			"title": "Fine Art, Smooth, Square",
+			"styleCode": "FAP_S_0",
+			"material": null,
+			"description": "description TBC",
+			"specifications": "Discover the elegance and durability of our fine art prints, expertly crafted on 220gsm smooth, acid-free paper for exceptional vibrancy and longevity. Encased in a sustainably sourced wooden frame, these prints bring a touch of sophistication to any space, ensuring your chosen art stands out with unmatched clarity and colour."
+		},
+		{
+			"id": "9b4112d8-5314-4ac2-be19-6ee996b38c23",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b4112d8-5314-4ac2-be19-6ee996b38c23",
+			"title": "Fine Art, Smooth, 1:27 Ratio, Landscape",
+			"styleCode": "FAP_S_1L",
+			"material": null,
+			"description": "Description TBC",
+			"specifications": "Discover the elegance and durability of our fine art prints, expertly crafted on 220gsm smooth, acid-free paper for exceptional vibrancy and longevity. Encased in a sustainably sourced wooden frame, these prints bring a touch of sophistication to any space, ensuring your chosen art stands out with unmatched clarity and colour."
+		},
+		{
+			"id": "9b411532-02ac-486a-ac57-e42e73beff07",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b411532-02ac-486a-ac57-e42e73beff07",
+			"title": "Fine Art, Smooth, 1:27 Ratio, Portrait",
+			"styleCode": "FAP_S_1P",
+			"material": null,
+			"description": "Description TBC",
+			"specifications": "Discover the elegance and durability of our fine art prints, expertly crafted on 220gsm smooth, acid-free paper for exceptional vibrancy and longevity. Encased in a sustainably sourced wooden frame, these prints bring a touch of sophistication to any space, ensuring your chosen art stands out with unmatched clarity and colour."
+		},
+		{
+			"id": "9b411b52-69a9-4035-82c1-1c496c5ae5e6",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b411b52-69a9-4035-82c1-1c496c5ae5e6",
+			"title": "Fine Art, Smooth, 3:2 Ratio, Landscape",
+			"styleCode": "FAP_S_3L",
+			"material": null,
+			"description": "Description TBC",
+			"specifications": "Discover the elegance and durability of our fine art prints, expertly crafted on 220gsm smooth, acid-free paper for exceptional vibrancy and longevity. Encased in a sustainably sourced wooden frame, these prints bring a touch of sophistication to any space, ensuring your chosen art stands out with unmatched clarity and colour."
+		},
+		{
+			"id": "9b411f2f-31d0-4ff8-8afa-e1d8abc8d707",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b411f2f-31d0-4ff8-8afa-e1d8abc8d707",
+			"title": "Fine Art, Smooth, 3:2 Ratio, Portrait",
+			"styleCode": "FAP_S_3P",
+			"material": null,
+			"description": "Description TBC",
+			"specifications": "Discover the elegance and durability of our fine art prints, expertly crafted on 220gsm smooth, acid-free paper for exceptional vibrancy and longevity. Encased in a sustainably sourced wooden frame, these prints bring a touch of sophistication to any space, ensuring your chosen art stands out with unmatched clarity and colour."
+		},
+		{
+			"id": "9b417649-1a4d-4fe1-bdc0-135dc533f932",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b417649-1a4d-4fe1-bdc0-135dc533f932",
+			"title": "Fine Art, Smooth, 4:3 Ratio, Landscape",
+			"styleCode": "FAP_S_4L",
+			"material": null,
+			"description": "Description TBC",
+			"specifications": "Discover the elegance and durability of our fine art prints, expertly crafted on 220gsm smooth, acid-free paper for exceptional vibrancy and longevity. Encased in a sustainably sourced wooden frame, these prints bring a touch of sophistication to any space, ensuring your chosen art stands out with unmatched clarity and colour."
+		},
+		{
+			"id": "9b41796f-770c-46b3-8c58-e96b0c7e03b4",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b41796f-770c-46b3-8c58-e96b0c7e03b4",
+			"title": "Fine Art, Smooth, 4:3 Ratio, Portrait",
+			"styleCode": "FAP_S_4P",
+			"material": null,
+			"description": "Description TBC",
+			"specifications": "Discover the elegance and durability of our fine art prints, expertly crafted on 220gsm smooth, acid-free paper for exceptional vibrancy and longevity. Encased in a sustainably sourced wooden frame, these prints bring a touch of sophistication to any space, ensuring your chosen art stands out with unmatched clarity and colour."
+		},
+		{
+			"id": "9b4185f2-7047-4031-8955-e9058bb6c6b6",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b4185f2-7047-4031-8955-e9058bb6c6b6",
+			"title": "Fine Art, Smooth, 5:4 Ratio, Landscape",
+			"styleCode": "FAP_S_5L",
+			"material": null,
+			"description": "Description TBC",
+			"specifications": "Discover the elegance and durability of our fine art prints, expertly crafted on 220gsm smooth, acid-free paper for exceptional vibrancy and longevity. Encased in a sustainably sourced wooden frame, these prints bring a touch of sophistication to any space, ensuring your chosen art stands out with unmatched clarity and colour."
+		},
+		{
+			"id": "9b418a88-f512-4bd1-a13d-08f00aa07e43",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b418a88-f512-4bd1-a13d-08f00aa07e43",
+			"title": "Fine Art, Smooth, 5:4 Ratio, Portrait",
+			"styleCode": "FAP_S_5P",
+			"material": null,
+			"description": "Description TBC",
+			"specifications": "Discover the elegance and durability of our fine art prints, expertly crafted on 220gsm smooth, acid-free paper for exceptional vibrancy and longevity. Encased in a sustainably sourced wooden frame, these prints bring a touch of sophistication to any space, ensuring your chosen art stands out with unmatched clarity and colour."
+		},
+		{
+			"id": "9b419985-51ec-487f-8055-381885486df5",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b419985-51ec-487f-8055-381885486df5",
+			"title": "Fine Art, Smooth, A-Sizes, Landscape",
+			"styleCode": "FAP_S_AL",
+			"material": null,
+			"description": "Description TBC",
+			"specifications": "Discover the elegance and durability of our fine art prints, expertly crafted on 220gsm smooth, acid-free paper for exceptional vibrancy and longevity. Encased in a sustainably sourced wooden frame, these prints bring a touch of sophistication to any space, ensuring your chosen art stands out with unmatched clarity and colour."
+		},
+		{
+			"id": "9b41a39c-ceb8-450c-b495-d47fc6d76918",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b41a39c-ceb8-450c-b495-d47fc6d76918",
+			"title": "Fine Art, Smooth, A-Sizes, Portrait",
+			"styleCode": "FAP_S_AP",
+			"material": null,
+			"description": "Description TBC",
+			"specifications": "Discover the elegance and durability of our fine art prints, expertly crafted on 220gsm smooth, acid-free paper for exceptional vibrancy and longevity. Encased in a sustainably sourced wooden frame, these prints bring a touch of sophistication to any space, ensuring your chosen art stands out with unmatched clarity and colour."
+		},
+		{
+			"id": "9b431602-220c-4ceb-8c38-87df92aa423d",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b431602-220c-4ceb-8c38-87df92aa423d",
+			"title": "Fine Art, Textured, Square",
+			"styleCode": "FAP_T_0",
+			"material": null,
+			"description": "Description TBC",
+			"specifications": "Discover the elegance and durability of our fine art prints, expertly crafted on 300gsm textured, acid-free paper for exceptional vibrancy and longevity. Encased in a sustainably sourced wooden frame, these prints bring a touch of sophistication to any space, ensuring your chosen art stands out with unmatched clarity and color."
+		},
+		{
+			"id": "9b4317a3-0641-4364-b329-6e82f7f401a5",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b4317a3-0641-4364-b329-6e82f7f401a5",
+			"title": "Fine Art, Textured, 1:27 Ratio, Landscape",
+			"styleCode": "FAP_T_1L",
+			"material": null,
+			"description": "Description TBC",
+			"specifications": "Discover the elegance and durability of our fine art prints, expertly crafted on 300gsm textured, acid-free paper for exceptional vibrancy and longevity. Encased in a sustainably sourced wooden frame, these prints bring a touch of sophistication to any space, ensuring your chosen art stands out with unmatched clarity and color."
+		},
+		{
+			"id": "9b431891-cceb-44e9-b15f-3c9df985ef22",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b431891-cceb-44e9-b15f-3c9df985ef22",
+			"title": "Fine Art, Textured, 1:27 Ratio, Portrait",
+			"styleCode": "FAP_T_1P",
+			"material": null,
+			"description": "Description TBC",
+			"specifications": "Discover the elegance and durability of our fine art prints, expertly crafted on 300gsm textured, acid-free paper for exceptional vibrancy and longevity. Encased in a sustainably sourced wooden frame, these prints bring a touch of sophistication to any space, ensuring your chosen art stands out with unmatched clarity and color."
+		},
+		{
+			"id": "9b431edc-3773-4d73-8fa7-c0988cb9a178",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b431edc-3773-4d73-8fa7-c0988cb9a178",
+			"title": "Fine Art, Textured, 3:2 Ratio, Landscape",
+			"styleCode": "FAP_T_3L",
+			"material": null,
+			"description": "Description TBC",
+			"specifications": "Discover the elegance and durability of our fine art prints, expertly crafted on 300gsm textured, acid-free paper for exceptional vibrancy and longevity. Encased in a sustainably sourced wooden frame, these prints bring a touch of sophistication to any space, ensuring your chosen art stands out with unmatched clarity and color."
+		},
+		{
+			"id": "9b432235-1161-4290-8582-34da7b29b8fd",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b432235-1161-4290-8582-34da7b29b8fd",
+			"title": "Fine Art, Textured, 3:2 Ratio, Portrait",
+			"styleCode": "FAP_T_3P",
+			"material": null,
+			"description": "Description TBC",
+			"specifications": "Discover the elegance and durability of our fine art prints, expertly crafted on 300gsm textured, acid-free paper for exceptional vibrancy and longevity. Encased in a sustainably sourced wooden frame, these prints bring a touch of sophistication to any space, ensuring your chosen art stands out with unmatched clarity and color."
+		},
+		{
+			"id": "9b432673-5d36-406d-b7b6-958ef3027221",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b432673-5d36-406d-b7b6-958ef3027221",
+			"title": "Fine Art, Textured, 4:3 Ratio, Landscape",
+			"styleCode": "FAP_T_4L",
+			"material": null,
+			"description": "Description TBC",
+			"specifications": "Discover the elegance and durability of our fine art prints, expertly crafted on 300gsm textured, acid-free paper for exceptional vibrancy and longevity. Encased in a sustainably sourced wooden frame, these prints bring a touch of sophistication to any space, ensuring your chosen art stands out with unmatched clarity and color."
+		},
+		{
+			"id": "9b432a2e-9f8b-489e-b4b0-c6cbb8b15049",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b432a2e-9f8b-489e-b4b0-c6cbb8b15049",
+			"title": "Fine Art, Textured, 4:3 Ratio, Portrait",
+			"styleCode": "FAP_T_4P",
+			"material": null,
+			"description": "Description TBC",
+			"specifications": "Discover the elegance and durability of our fine art prints, expertly crafted on 300gsm textured, acid-free paper for exceptional vibrancy and longevity. Encased in a sustainably sourced wooden frame, these prints bring a touch of sophistication to any space, ensuring your chosen art stands out with unmatched clarity and color."
+		},
+		{
+			"id": "9b432faa-db9a-4919-82c7-317fc70e462b",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b432faa-db9a-4919-82c7-317fc70e462b",
+			"title": "Fine Art, Textured, 5:4 Ratio, Landscape",
+			"styleCode": "FAP_T_5L",
+			"material": null,
+			"description": "Description TBC",
+			"specifications": "Discover the elegance and durability of our fine art prints, expertly crafted on 300gsm textured, acid-free paper for exceptional vibrancy and longevity. Encased in a sustainably sourced wooden frame, these prints bring a touch of sophistication to any space, ensuring your chosen art stands out with unmatched clarity and color."
+		},
+		{
+			"id": "9b433531-c744-4806-be69-0da66fe2e739",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b433531-c744-4806-be69-0da66fe2e739",
+			"title": "Fine Art, Textured, 5:4 Ratio, Portrait",
+			"styleCode": "FAP_T_5P",
+			"material": null,
+			"description": "Description TBC",
+			"specifications": "Discover the elegance and durability of our fine art prints, expertly crafted on 300gsm textured, acid-free paper for exceptional vibrancy and longevity. Encased in a sustainably sourced wooden frame, these prints bring a touch of sophistication to any space, ensuring your chosen art stands out with unmatched clarity and color."
+		},
+		{
+			"id": "9b433cd9-be76-4008-b915-7e938b3d14e4",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b433cd9-be76-4008-b915-7e938b3d14e4",
+			"title": "Fine Art, Textured, A-Sizes, Landscape",
+			"styleCode": "FAP_T_AL",
+			"material": null,
+			"description": "Description TBC",
+			"specifications": "Discover the elegance and durability of our fine art prints, expertly crafted on 300gsm textured, acid-free paper for exceptional vibrancy and longevity. Encased in a sustainably sourced wooden frame, these prints bring a touch of sophistication to any space, ensuring your chosen art stands out with unmatched clarity and color."
+		},
+		{
+			"id": "9b434200-8fbb-4f15-89d9-6861fc784198",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b434200-8fbb-4f15-89d9-6861fc784198",
+			"title": "Fine Art, Textured, A-Sizes, Portrait",
+			"styleCode": "FAP_T_AP",
+			"material": null,
+			"description": "Description TBC",
+			"specifications": "Discover the elegance and durability of our fine art prints, expertly crafted on 300gsm textured, acid-free paper for exceptional vibrancy and longevity. Encased in a sustainably sourced wooden frame, these prints bring a touch of sophistication to any space, ensuring your chosen art stands out with unmatched clarity and color."
+		},
+		{
+			"id": "9b434bb8-b419-4788-b83c-43e9df1aa601",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b434bb8-b419-4788-b83c-43e9df1aa601",
+			"title": "Poster, Matte, Square",
+			"styleCode": "PST_M_0",
+			"material": null,
+			"description": "Description TBC",
+			"specifications": "Crafted for longevity and visual appeal, this framed print features premium 200gsm, matt paper resistant to scratches. It's encased in a 30mm thick, sustainably sourced wooden frame, complemented by clear 1.2mm acrylic glass, fully sealed, and equipped with a hanging kit for easy display."
+		},
+		{
+			"id": "9b434d0a-2626-4505-8618-5ef3c777004e",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b434d0a-2626-4505-8618-5ef3c777004e",
+			"title": "Poster, Matte, Unframed, 1:27 Ratio, Landscape",
+			"styleCode": "PST_M_1L",
+			"material": null,
+			"description": "Description TBC",
+			"specifications": "Crafted for longevity and visual appeal, this framed print features premium 200gsm, matt paper resistant to scratches. It's encased in a 30mm thick, sustainably sourced wooden frame, complemented by clear 1.2mm acrylic glass, fully sealed, and equipped with a hanging kit for easy display."
+		},
+		{
+			"id": "9b434dfc-fe71-4084-879a-922d8e7a201c",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b434dfc-fe71-4084-879a-922d8e7a201c",
+			"title": "Poster, Matte, Unframed, 1:27 Ratio, Portrait",
+			"styleCode": "PST_M_1P",
+			"material": null,
+			"description": "Description TBC",
+			"specifications": "Crafted for longevity and visual appeal, this framed print features premium 200gsm, matt paper resistant to scratches. It's encased in a 30mm thick, sustainably sourced wooden frame, complemented by clear 1.2mm acrylic glass, fully sealed, and equipped with a hanging kit for easy display."
+		},
+		{
+			"id": "9b43777f-9f0b-4947-a9d1-68f9fb8c0ea8",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b43777f-9f0b-4947-a9d1-68f9fb8c0ea8",
+			"title": "Poster, Matte, 3:2 Ratio, Landscape",
+			"styleCode": "PST_M_3L",
+			"material": null,
+			"description": "Description TBC",
+			"specifications": "Crafted for longevity and visual appeal, this framed print features premium 200gsm, matt paper resistant to scratches. It's encased in a 30mm thick, sustainably sourced wooden frame, complemented by clear 1.2mm acrylic glass, fully sealed, and equipped with a hanging kit for easy display."
+		},
+		{
+			"id": "9b437aca-f28b-4b92-af99-458d20cbbdf1",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b437aca-f28b-4b92-af99-458d20cbbdf1",
+			"title": "Poster, Matte, 3:2 Ratio, Portrait",
+			"styleCode": "PST_M_3P",
+			"material": null,
+			"description": "Crafted for longevity and visual appeal, this framed print features premium 200gsm, matt paper resistant to scratches. It's encased in a 30mm thick, sustainably sourced wooden frame, complemented by clear 1.2mm acrylic glass, fully sealed, and equipped with a hanging kit for easy display.",
+			"specifications": "TBC"
+		},
+		{
+			"id": "9b437fe4-897a-4356-9f04-afeaccff982c",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b437fe4-897a-4356-9f04-afeaccff982c",
+			"title": "Poster, Matte, 4:3 Ratio, Landscape",
+			"styleCode": "PST_M_4L",
+			"material": null,
+			"description": "Description TBC",
+			"specifications": "Crafted for longevity and visual appeal, this framed print features premium 200gsm, matt paper resistant to scratches. It's encased in a 30mm thick, sustainably sourced wooden frame, complemented by clear 1.2mm acrylic glass, fully sealed, and equipped with a hanging kit for easy display."
+		},
+		{
+			"id": "9b4383dc-c994-4869-8831-0d432fde68cb",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b4383dc-c994-4869-8831-0d432fde68cb",
+			"title": "Poster, Matte, 4:3 Ratio, Portrait",
+			"styleCode": "PST_M_4P",
+			"material": null,
+			"description": "Description TBC",
+			"specifications": "Crafted for longevity and visual appeal, this framed print features premium 200gsm, matt paper resistant to scratches. It's encased in a 30mm thick, sustainably sourced wooden frame, complemented by clear 1.2mm acrylic glass, fully sealed, and equipped with a hanging kit for easy display."
+		},
+		{
+			"id": "9b438816-4b78-4b81-b88d-53eb2578a4bc",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b438816-4b78-4b81-b88d-53eb2578a4bc",
+			"title": "Poster, Matte, 5:4 Ratio, Landscape",
+			"styleCode": "PST_M_5L",
+			"material": null,
+			"description": "Description TBC",
+			"specifications": "Crafted for longevity and visual appeal, this framed print features premium 200gsm, matt paper resistant to scratches. It's encased in a 30mm thick, sustainably sourced wooden frame, complemented by clear 1.2mm acrylic glass, fully sealed, and equipped with a hanging kit for easy display."
+		},
+		{
+			"id": "9b438e21-20de-4c7d-bc38-4fc8de151fba",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b438e21-20de-4c7d-bc38-4fc8de151fba",
+			"title": "Poster, Matte, 5:4 Ratio, Portrait",
+			"styleCode": "PST_M_5P",
+			"material": null,
+			"description": "Description TBC",
+			"specifications": "Crafted for longevity and visual appeal, this framed print features premium 200gsm, matt paper resistant to scratches. It's encased in a 30mm thick, sustainably sourced wooden frame, complemented by clear 1.2mm acrylic glass, fully sealed, and equipped with a hanging kit for easy display."
+		},
+		{
+			"id": "9b43946b-c448-421c-86af-35c647030f69",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b43946b-c448-421c-86af-35c647030f69",
+			"title": "Poster, Matte, A-Sizes, Landscape",
+			"styleCode": "PST_M_AL",
+			"material": null,
+			"description": "Description TBC",
+			"specifications": "Crafted for longevity and visual appeal, this framed print features premium 200gsm, matt paper resistant to scratches. It's encased in a 30mm thick, sustainably sourced wooden frame, complemented by clear 1.2mm acrylic glass, fully sealed, and equipped with a hanging kit for easy display."
+		},
+		{
+			"id": "9b43a806-b9f3-4be9-b487-f6803ab35007",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b43a806-b9f3-4be9-b487-f6803ab35007",
+			"title": "Poster, Silk, Square",
+			"styleCode": "PST_S_0",
+			"material": null,
+			"description": "Description TBC",
+			"specifications": "Crafted for longevity and visual appeal, this framed print features premium 200gsm, matt paper resistant to scratches. It's encased in a 30mm thick, sustainably sourced wooden frame, complemented by clear 1.2mm acrylic glass, fully sealed, and equipped with a hanging kit for easy display."
+		},
+		{
+			"id": "9b43a9ff-b1de-4a81-b667-d467fce8c0ec",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b43a9ff-b1de-4a81-b667-d467fce8c0ec",
+			"title": "Poster, Silk, Unframed, 1:27 Ratio, Landscape",
+			"styleCode": "PST_S_1L",
+			"material": null,
+			"description": "Description TBC",
+			"specifications": "Crafted for longevity and visual appeal, this framed print features premium 200gsm, silk paper resistant to scratches. It's encased in a 30mm thick, sustainably sourced wooden frame, complemented by clear 1.2mm acrylic glass, fully sealed, and equipped with a hanging kit for easy display."
+		},
+		{
+			"id": "9b43ab51-9835-42e6-9861-e4fdd2a790a9",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b43ab51-9835-42e6-9861-e4fdd2a790a9",
+			"title": "Poster, Silk, Unframed, 1:27 Ratio, Portrait",
+			"styleCode": "PST_S_1P",
+			"material": null,
+			"description": "Description TBC",
+			"specifications": "Crafted for longevity and visual appeal, this framed print features premium 200gsm, silk paper resistant to scratches. It's encased in a 30mm thick, sustainably sourced wooden frame, complemented by clear 1.2mm acrylic glass, fully sealed, and equipped with a hanging kit for easy display."
+		},
+		{
+			"id": "9b43b32b-aefd-42f8-ab24-72adaeb91308",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b43b32b-aefd-42f8-ab24-72adaeb91308",
+			"title": "Poster, Silk, 3:2 Ratio, Landscape",
+			"styleCode": "PST_S_3L",
+			"material": null,
+			"description": "Description TBC",
+			"specifications": "Crafted for longevity and visual appeal, this framed print features premium 200gsm, silk paper resistant to scratches. It's encased in a 30mm thick, sustainably sourced wooden frame, complemented by clear 1.2mm acrylic glass, fully sealed, and equipped with a hanging kit for easy display."
+		},
+		{
+			"id": "9b43bbbc-482d-4cc5-8ffe-3a356c06664a",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b43bbbc-482d-4cc5-8ffe-3a356c06664a",
+			"title": "Poster, Silk, 3:2 Ratio, Portrait",
+			"styleCode": "PST_S_3P",
+			"material": null,
+			"description": "Description TBC",
+			"specifications": "Crafted for longevity and visual appeal, this framed print features premium 200gsm, semi-gloss paper resistant to scratches. It's encased in a 30mm thick, sustainably sourced wooden frame, complemented by clear 1.2mm acrylic glass, fully sealed, and equipped with a hanging kit for easy display."
+		},
+		{
+			"id": "9b43d17e-6c38-4e19-979b-953943d460d4",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b43d17e-6c38-4e19-979b-953943d460d4",
+			"title": "Poster, Silk, 4:3 Ratio, Landscape",
+			"styleCode": "PST_S_4L",
+			"material": null,
+			"description": "Description TBC",
+			"specifications": "Crafted for longevity and visual appeal, this framed print features premium 200gsm, silk paper resistant to scratches. It's encased in a 30mm thick, sustainably sourced wooden frame, complemented by clear 1.2mm acrylic glass, fully sealed, and equipped with a hanging kit for easy display."
+		},
+		{
+			"id": "9b43d990-ff45-4730-b198-ba36cd1a2466",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b43d990-ff45-4730-b198-ba36cd1a2466",
+			"title": "Poster, Silk, 4:3 Ratio, Portrait",
+			"styleCode": "PST_S_4P",
+			"material": null,
+			"description": "Description TBC",
+			"specifications": "Crafted for longevity and visual appeal, this framed print features premium 200gsm, silk paper resistant to scratches. It's encased in a 30mm thick, sustainably sourced wooden frame, complemented by clear 1.2mm acrylic glass, fully sealed, and equipped with a hanging kit for easy display."
+		},
+		{
+			"id": "9b43e320-c654-45dd-b919-8d0da3919a7b",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b43e320-c654-45dd-b919-8d0da3919a7b",
+			"title": "Poster, Silk, 5:4 Ratio, Landscape",
+			"styleCode": "PST_S_5L",
+			"material": null,
+			"description": "Description TBC",
+			"specifications": "Crafted for longevity and visual appeal, this framed print features premium 200gsm, silk paper resistant to scratches. It's encased in a 30mm thick, sustainably sourced wooden frame, complemented by clear 1.2mm acrylic glass, fully sealed, and equipped with a hanging kit for easy display."
+		},
+		{
+			"id": "9b440eac-70f2-42ca-a6fc-7a13a56f9c1a",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b440eac-70f2-42ca-a6fc-7a13a56f9c1a",
+			"title": "Poster, Silk, 5:4 Ratio, Portrait",
+			"styleCode": "PST_S_5P",
+			"material": null,
+			"description": "Description TBC",
+			"specifications": "Crafted for longevity and visual appeal, this framed print features premium 200gsm, silk paper resistant to scratches. It's encased in a 30mm thick, sustainably sourced wooden frame, complemented by clear 1.2mm acrylic glass, fully sealed, and equipped with a hanging kit for easy display."
+		},
+		{
+			"id": "9b44146f-6946-4827-95e9-f3d8116d605e",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b44146f-6946-4827-95e9-f3d8116d605e",
+			"title": "Poster, Silk, A-Sizes, Landscape",
+			"styleCode": "PST_S_AL",
+			"material": null,
+			"description": "Description TBC",
+			"specifications": "Crafted for longevity and visual appeal, this framed print features premium 200gsm, silk paper resistant to scratches. It's encased in a 30mm thick, sustainably sourced wooden frame, complemented by clear 1.2mm acrylic glass, fully sealed, and equipped with a hanging kit for easy display."
+		},
+		{
+			"id": "9b441c64-e08d-4f20-b59c-6b8a18638ef9",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b441c64-e08d-4f20-b59c-6b8a18638ef9",
+			"title": "Poster, Silk, A-Sizes, Portrait",
+			"styleCode": "PST_S_AP",
+			"material": null,
+			"description": "Description TBC",
+			"specifications": "Crafted for longevity and visual appeal, this framed print features premium 200gsm, silk paper resistant to scratches. It's encased in a 30mm thick, sustainably sourced wooden frame, complemented by clear 1.2mm acrylic glass, fully sealed, and equipped with a hanging kit for easy display."
+		},
+		{
+			"id": "9b4773aa-280a-40e0-abb9-15fc70bcbd86",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b4773aa-280a-40e0-abb9-15fc70bcbd86",
+			"title": "Recycled cotton maxi tote",
+			"styleCode": "W925",
+			"material": null,
+			"description": null,
+			"specifications": "Discover the eco-friendly choice with our recycled cotton tote bag, perfect for everyday use. Crafted entirely from pre-consumer recycled materials, this durable bag offers a large capacity to accommodate all your essentials, designed for versatile carrying options, whether by hand or over the shoulder. Ideal for those who value sustainability and style."
+		},
+		{
+			"id": "9b4773e9-03c1-4483-8c74-f5357519bd3b",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b4773e9-03c1-4483-8c74-f5357519bd3b",
+			"title": "Bag for life - long handles",
+			"styleCode": "W101",
+			"material": null,
+			"description": null,
+			"specifications": "This versatile tote bag is designed for convenience and practicality, suitable for both hand carry and shoulder use with its 67cm long handles. Its construction adheres to rigorous standards, ensuring it's both durable and responsibly made. Ideal for a variety of occasions, this bag combines functionality with a commitment to ethical production practices."
+		},
+		{
+			"id": "9b4773f2-c94a-430d-a8d5-e2d51061a4c8",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b4773f2-c94a-430d-a8d5-e2d51061a4c8",
+			"title": "Cotton stuff bag",
+			"styleCode": "W115",
+			"material": null,
+			"description": null,
+			"specifications": "Discover our versatile cotton stuff bag, ideal for daily use with a secure rope draw cord closure. Crafted with attention to quality and sustainability, it's perfect for carrying your essentials in style."
+		},
+		{
+			"id": "9b4773f7-776f-483c-b08e-978563058d50",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b4773f7-776f-483c-b08e-978563058d50",
+			"title": "Premium Cotton tote",
+			"styleCode": "W201",
+			"material": null,
+			"description": null,
+			"specifications": "Discover the ideal tote for everyday elegance and practicality. Crafted from premium cotton, this durable tote features a generous size to carry all your essentials comfortably either by hand or over the shoulder. Its high-quality fabric ensures your items are carried in style."
+		},
+		{
+			"id": "9b4773f8-e551-48cb-9ddd-16f4dbb57e9f",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b4773f8-e551-48cb-9ddd-16f4dbb57e9f",
+			"title": "Organic premium cotton tote",
+			"styleCode": "W261",
+			"material": null,
+			"description": null,
+			"specifications": "Crafted from high-quality organic cotton, this durable tote is perfect for daily use, offering a comfortable carry, whether by hand or over the shoulder, with its generous 67cm handle length. Ideal for personal or professional needs, it seamlessly blends style and functionality."
+		},
+		{
+			"id": "9b4773fa-98f7-4b03-b177-06845b8b2727",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b4773fa-98f7-4b03-b177-06845b8b2727",
+			"title": "Oversized canvas tote bag",
+			"styleCode": "W696",
+			"material": null,
+			"description": null,
+			"specifications": "Discover our versatile canvas tote bag, perfect for everyday use with its extra-large capacity and durable construction. Featuring soft webbing handles, it offers maximum comfort whether carried by hand or over the shoulder, making it an ideal choice for any occasion."
+		},
+		{
+			"id": "9b4773fb-fd01-4410-864d-9bc4aedbdfa2",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b4773fb-fd01-4410-864d-9bc4aedbdfa2",
+			"title": "Tea towel",
+			"styleCode": "W701",
+			"material": null,
+			"description": null,
+			"specifications": "Discover the perfect addition to your kitchen essentials with this versatile tea towel. Designed with a convenient corner tab for easy hanging, it combines functionality with simplicity. Ideal for everyday use, this tea towel is made with care to ensure durability and ease of care."
+		},
+		{
+			"id": "9b4773fd-268f-4f44-bb3f-a76ab463b6a5",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b4773fd-268f-4f44-bb3f-a76ab463b6a5",
+			"title": "Organic cotton tea towel",
+			"styleCode": "W710",
+			"material": "Certified Organic Cotton",
+			"description": "These tea towels are made from organic cotton - a strong, smooth and absorbent natural fibre. Organic also means no nasty chemicals around our food. Made by Westford Mill.",
+			"specifications": "100% organic cotton\nCertified by Global Organic Textile Standard (GOTS).\nHanging loop.\n170 gsm\n\n50 x 70 cm"
+		},
+		{
+			"id": "9b4773fe-eda0-4d67-9bb0-bb7c94cd4a33",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b4773fe-eda0-4d67-9bb0-bb7c94cd4a33",
+			"title": "EarthAware\u00ae Organic Bag for Life",
+			"styleCode": "W801",
+			"material": "Organic Cotton",
+			"description": "A heavier weight alternative. Crafted from premium, heavyweight organic fabric, this versatile bag offers both hand and shoulder carrying options with its 67cm handle, ensuring durability and comfort for everyday use. Ideal for those who value eco-friendly choices. Made by Westford Mill.",
+			"specifications": "DTG Application\n100% Organic cotton canvas 340gsm\nOrganic Content Standard 100 \u2013 Certification\nPremium heavyweight fabric"
+		},
+		{
+			"id": "9b477400-8dc3-4002-85dc-d179ef592716",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b477400-8dc3-4002-85dc-d179ef592716",
+			"title": "Recycled cotton tote",
+			"styleCode": "W901",
+			"material": null,
+			"description": null,
+			"specifications": "Discover the sustainable choice with our eco-friendly tote, crafted from 100% pre-consumer recycled cotton. Perfect for daily use, it offers versatility with its hand and shoulder carry options, ensuring both comfort and durability. Ideal for those who value sustainability."
+		},
+		{
+			"id": "9b477782-b6bb-4583-914f-c110ca850165",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b477782-b6bb-4583-914f-c110ca850165",
+			"title": "College hoodie",
+			"styleCode": "JH001",
+			"material": null,
+			"description": null,
+			"specifications": "Embrace comfort and versatility with our hoodie, featuring a soft inner fabric, a double fabric hood with adjustable cords, and a convenient kangaroo pouch pocket. Crafted for durability with twin-needle stitching and ribbed cuffs and hem, it's perfect for everyday wear."
+		},
+		{
+			"id": "9b477b43-d940-435e-a20e-fdfcbdcb2d6a",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b477b43-d940-435e-a20e-fdfcbdcb2d6a",
+			"title": "Rainbow tie-dye hoodie",
+			"styleCode": "8777",
+			"material": null,
+			"description": null,
+			"specifications": "Double-needle stitched neckline and sleeves. Shoulder-to-shoulder taping. Hand-dyed with superior colorfastness. Quarter turned to eliminate centre crease. No-shrink premium cotton. Pouch pocket. Matching drawstring. WRAP certified."
+		},
+		{
+			"id": "9b477b53-a8a7-4a13-b9ab-c580d359632c",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b477b53-a8a7-4a13-b9ab-c580d359632c",
+			"title": "Women's TriDri\u00ae crop top",
+			"styleCode": "TR019",
+			"material": null,
+			"description": null,
+			"specifications": "Crafted for comfort and style, this cropped t-shirt features short sleeves and a crew neck, making it perfect for custom printing. Care instructions are conveniently located on the inner seam label. Ideal for creating unique, personalized apparel."
+		},
+		{
+			"id": "9b4781cf-2aab-4b4f-b8d0-64d3dce65267",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b4781cf-2aab-4b4f-b8d0-64d3dce65267",
+			"title": "B&C #E150 \/women",
+			"styleCode": "TW02T",
+			"material": null,
+			"description": null,
+			"specifications": "Discover the perfect canvas for your creativity with our women's t-shirt. Crafted from 100% cotton for a soft feel and designed with a contemporary fit, this tee offers both comfort and style. Its side seams and modern neck opening emphasize a feminine shape, while the durable, middle-weight fabric ensures it's suitable for any season. Available in sizes XS to 3XL, it promises a flattering fit for all. Ideal for bringing your designs to life, its smooth surface ensures vibrant and crisp printing results."
+		},
+		{
+			"id": "9b478225-33d2-41eb-b392-2f03015c2bba",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b478225-33d2-41eb-b392-2f03015c2bba",
+			"title": "Duffle bag with canvas fabric (STAU892)",
+			"styleCode": "STAU892",
+			"material": null,
+			"description": null,
+			"specifications": "This durable duffle bag features a convenient front pocket, an internal pocket with a smooth nylon zip, and comfortable grosgrain cotton ribbon handles and detachable straps for easy carrying. Designed with high-quality canvas fabric, it's ideal for everyday use or travel."
+		},
+		{
+			"id": "9b47822f-35ca-41de-a5cb-927cf4260b04",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b47822f-35ca-41de-a5cb-927cf4260b04",
+			"title": "Stanley Mover jogger pants (STBM569)",
+			"styleCode": "STBM569",
+			"material": null,
+			"description": null,
+			"specifications": "Discover our comfortable jogger pants, perfect for any gender and designed for a modern, medium fit. Crafted with attention to detail, they feature round drawcords, closed-end metal tips, and a convenient welt pocket on the back. Responsibly made, they adhere to the highest standards of vegan and ethical manufacturing."
+		},
+		{
+			"id": "9b478241-16a6-48d5-9f44-7f280f9af989",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b478241-16a6-48d5-9f44-7f280f9af989",
+			"title": "Trainer unisex terry short (STBU578)",
+			"styleCode": "STBU578",
+			"material": null,
+			"description": null,
+			"specifications": "Experience the comfort and style of our medium-fit, unisex jogger shorts, featuring round drawcords, convenient side seam pockets, and crafted from certified sustainable materials for everyday wear and care."
+		},
+		{
+			"id": "9b47824f-7f41-4ee1-aac7-1cc90bf302f9",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b47824f-7f41-4ee1-aac7-1cc90bf302f9",
+			"title": "Decker terry relaxed fit jogger pants (STBU587)",
+			"styleCode": "STBU587",
+			"material": null,
+			"description": null,
+			"specifications": "Elastic at waistband and bottom hem. Embroidered eyelets. Single-needle topstitch at pocket opening. . Oeko-Tex certified. Vegan certified. Fairwear Foundation certified. GOTS certified."
+		},
+		{
+			"id": "9b47825c-511d-42d0-833c-c8f971a5cf43",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b47825c-511d-42d0-833c-c8f971a5cf43",
+			"title": "Speeder sporty, street-style hoodie (STJU834)",
+			"styleCode": "STJU834",
+			"material": null,
+			"description": null,
+			"specifications": "Longer back length with curved hem for protection. Bottom hem and hood with adjustable plastic stopper and elastic cord. Sealed hood visor. Zipped welt pockets. Non-functional flap, front and back. Self-fabric half-moon at back neck. Inside zip opening at bottom hem and inside loop, with snap at armhole providing easy access for chest decoration. Oeko-Tex certified. Vegan certified. Fairwear Foundation certified."
+		},
+		{
+			"id": "9b47828e-3888-480b-ae89-97fa27bcab9d",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b47828e-3888-480b-ae89-97fa27bcab9d",
+			"title": "Prepster unisex short sleeve polo (STPU331)",
+			"styleCode": "STPU331",
+			"material": null,
+			"description": null,
+			"specifications": "Set-in sleeve. Flat knit rib on collar and sleeve hem. Inside heavy single Jersey back neck tape. Front placket with 2 buttons in matching body colour. Slit at side seams with heavy single Jersey facing. Single needle topstitch at shoulder seams. Bottom hem with narrow double needle topstitch. Fair Wear certified. Oeko-Tex certified."
+		},
+		{
+			"id": "9b4782cd-0f54-44c9-8fbc-ae8b841b4d44",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b4782cd-0f54-44c9-8fbc-ae8b841b4d44",
+			"title": "Prepster long sleeve unisex polo (STPU332)",
+			"styleCode": "STPU332",
+			"material": null,
+			"description": null,
+			"specifications": "Set-in sleeve. Flat knit rib on collar. Inside heavy single Jersey back neck tape. Front placket with 2 buttons in matching body colour. Slit at side seams with heavy single Jersey facing. Single needle topstitch at shoulder seams. 1x1 rib at sleeve hem. Bottom hem with narrow double needle topstitch. Fair Wear certified. Oeko-Tex certified."
+		},
+		{
+			"id": "9b4782ea-13d1-4954-8b20-979964350d1d",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b4782ea-13d1-4954-8b20-979964350d1d",
+			"title": "Unisex Cooper Dry Hoodie Sweatshirt",
+			"styleCode": "STSU797",
+			"material": "100% Organic Carded Cotton",
+			"description": "100% Organic carded cotton, French terry dry hand-feel. Heavier weight 400gsm. Crafted for comfort and durability, this soft organic cotton unisex hoodie has a contemporary boxy fit. It boasts a double-layered hood, cosy kangaroo pocket, and ribbed detailing at the sleeves and hem for a snug fit. Made by Stanley\/Stella. Stanley\/Stella garments are not permitted to be sold blank\/without a design.",
+			"specifications": "100% Organic carded cotton, French terry dry hand-feel.\n Heavier weight 400gsm"
+		},
+		{
+			"id": "9b478307-3311-4f68-8bfc-2b383d6cdfa0",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b478307-3311-4f68-8bfc-2b383d6cdfa0",
+			"title": "Drummer the essential unisex hoodie sweatshirt (STSU812)",
+			"styleCode": "STSU812",
+			"material": null,
+			"description": null,
+			"specifications": "Embrace comfort and style with our essential unisex hoodie, featuring a medium fit, set-in sleeves, and a self-fabric lined hood. Its kangaroo pocket and meticulous topstitching on all seams blend functionality with a sleek finish."
+		},
+		{
+			"id": "9b47832e-e71f-4287-8951-780037f6f9fb",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b47832e-e71f-4287-8951-780037f6f9fb",
+			"title": "Unisex Cruiser iconic hoodie sweatshirt (STSU822)",
+			"styleCode": "STSU822",
+			"material": null,
+			"description": null,
+			"specifications": "Crafted for comfort and versatility, this modern medium-fit hoodie features a double-lined hood with durable metal-tipped drawcords, ribbed sleeve and bottom hems for a snug fit, and a soft-touch interior for all-day wear."
+		},
+		{
+			"id": "9b47836a-617b-4d80-90f1-3bc535b800f2",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b47836a-617b-4d80-90f1-3bc535b800f2",
+			"title": "Unisex Changer iconic crew neck sweatshirt (STSU823)",
+			"styleCode": "STSU823",
+			"material": null,
+			"description": null,
+			"specifications": "Discover the comfort of our unisex crew neck sweatshirt, featuring a modern medium fit with ribbed neck collar, sleeve cuffs, and bottom hem. Its careful construction includes a self-fabric half-moon at the back neck and twin-needle topstitching for durability. "
+		},
+		{
+			"id": "9b478395-b827-42cf-9b47-a8212cbee5e8",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b478395-b827-42cf-9b47-a8212cbee5e8",
+			"title": "Radder oversized brushed crewneck (STSU857)",
+			"styleCode": "STSU857",
+			"material": null,
+			"description": null,
+			"specifications": "Embrace comfort with our oversized crewneck, featuring a cozy 350gsm brushed fabric for a plush feel. Crafted with attention to detail, it boasts a relaxed fit, set-in sleeves, and ribbed hems for a refined finish. Vegan and eco-certified, it's designed for everyday wear and care."
+		},
+		{
+			"id": "9b4783c7-1930-4d14-a478-f5644106d020",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b4783c7-1930-4d14-a478-f5644106d020",
+			"title": "Roller unisex crew neck sweatshirt (STSU868)",
+			"styleCode": "STSU868",
+			"material": null,
+			"description": null,
+			"specifications": "Crafted for comfort and style, this unisex crew neck sweatshirt features set-in sleeves, cozy ribbed detailing at the neck, sleeve ends, and bottom hem, complemented by meticulous flatlock topstitching throughout. The interior showcases a sleek herringbone tape at the neck, ensuring a premium fit and finish."
+		},
+		{
+			"id": "9b4783fe-b19d-4dba-aea7-452d0f1805cc",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b4783fe-b19d-4dba-aea7-452d0f1805cc",
+			"title": "Kids mini Creator iconic t-shirt (STTK909)",
+			"styleCode": "STTK909",
+			"material": null,
+			"description": null,
+			"specifications": "Crafted for comfort and durability, this children's t-shirt features a medium fit with set-in sleeves and a soft ribbed neck collar. Expertly finished with twin-needle stitching at the cuffs and hem for added resilience. Carefully made with certified materials to ensure both quality and ethical standards."
+		},
+		{
+			"id": "9b47841f-e14e-4ab4-897c-8ca03d256cf8",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b47841f-e14e-4ab4-897c-8ca03d256cf8",
+			"title": "Shifts dry, Unisex dry hand feeling long sleeve t-shirt (STTM558)",
+			"styleCode": "STTM558",
+			"material": null,
+			"description": null,
+			"specifications": "Crafted for comfort and style, this unisex, medium-fit, long-sleeve t-shirt features a classic round neck with ribbed detailing at the collar and sleeves. Made from 100% organic ringspun combed cotton, it ensures a soft touch and durability. Care instructions: dry clean only. Ideal for everyday wear."
+		}
+	],
+	"nextPageToken": 3
+}

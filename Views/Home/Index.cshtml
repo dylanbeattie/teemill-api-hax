@@ -1,0 +1,14 @@
+﻿@model IEnumerable<TeemillApiHax.Models.GfnCatalogProduct>
+
+<ol>
+@foreach (var item in Model) {
+	<li>
+		<label>
+		<input type="checkbox" name="ref" value="@item.Ref" />
+		@item.Id @item.Title
+		</label><br />
+	<p>@item.StyleCode</p>
+	<p>@item.Description</p>
+	</li>
+}
+</ol>

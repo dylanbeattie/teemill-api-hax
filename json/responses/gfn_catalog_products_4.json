@@ -1,0 +1,905 @@
+{
+	"products": [
+		{
+			"id": "9b4b4282-cd88-4c97-9105-c173433f6184",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b4b4282-cd88-4c97-9105-c173433f6184",
+			"title": "Men's \/ Unisex Sweat Pants (joggers)",
+			"styleCode": "EP68J",
+			"material": null,
+			"description": null,
+			"specifications": "Crafted for comfort and durability, these unisex sweatpants are perfect for both active days and relaxing moments. Made with eco-friendly materials, they feature a soft interior, flexible waistband, and practical pockets, ensuring a perfect blend of functionality and comfort for every wearer."
+		},
+		{
+			"id": "9b4b4285-bf1e-4d48-a854-fcae53423a2e",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b4b4285-bf1e-4d48-a854-fcae53423a2e",
+			"title": "MEN'S \/ UNISEX RAGLAN PULLOVER HOODY",
+			"styleCode": "N51P",
+			"material": null,
+			"description": null,
+			"specifications": "Discover the ultimate comfort with our men's\/unisex raglan pullover hoody, perfect for everyday wear. Crafted from soft, durable fabric, it features a convenient kangaroo pocket and an adjustable hood, ensuring a cozy fit. Care is easy: machine wash cold and tumble dry low."
+		},
+		{
+			"id": "9b4b4288-c7a0-4cbd-b867-5fd909668094",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b4b4288-c7a0-4cbd-b867-5fd909668094",
+			"title": "Men's \/ Unisex Long Sleeve T-shirt",
+			"styleCode": "EP01L",
+			"material": null,
+			"description": null,
+			"specifications": "Experience the comfort and durability of our long-sleeve t-shirt, ideal for everyday wear. Crafted from soft, sustainable materials, it ensures both style and practicality."
+		},
+		{
+			"id": "9b4b4291-9d35-499b-9abd-e19f2b14a23c",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b4b4291-9d35-499b-9abd-e19f2b14a23c",
+			"title": "Men's \/ Unisex Heavy Jersey T-shirt",
+			"styleCode": "EP18",
+			"material": null,
+			"description": null,
+			"specifications": "Experience comfort and quality with our heavy jersey T-shirt, perfect for everyday wear. Crafted for durability and a soft feel, this tee is an eco-friendly choice for those who value sustainability. "
+		},
+		{
+			"id": "9b4b42aa-2c9d-4a77-84fd-d961a6ab90cb",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b4b42aa-2c9d-4a77-84fd-d961a6ab90cb",
+			"title": "Women's Cropped Loose Fit T-shirt",
+			"styleCode": "EP26",
+			"material": null,
+			"description": null,
+			"specifications": "Crafted for comfort and style, this women's cropped t-shirt features a relaxed fit, offering a modern silhouette that complements any casual ensemble. Its soft fabric ensures a cozy feel, perfect for everyday wear."
+		},
+		{
+			"id": "9b4b42f1-514c-4789-a6a2-8b8637d746ba",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b4b42f1-514c-4789-a6a2-8b8637d746ba",
+			"title": "BagBase Camo Barrel Bag",
+			"styleCode": "BG173",
+			"material": null,
+			"description": null,
+			"specifications": "Experience the ultimate in versatility and style with our durable barrel bag, perfect for any occasion. Crafted for comfort and practicality, this bag features a spacious main compartment and easy-to-carry handles, ensuring all your essentials are stored securely and within reach."
+		},
+		{
+			"id": "9b4b42f2-bc04-4933-bc5e-2c39a660c0b7",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b4b42f2-bc04-4933-bc5e-2c39a660c0b7",
+			"title": "Russell Collection Ladies Cotton Acrylic V Neck Sweater",
+			"styleCode": "710F",
+			"material": null,
+			"description": null,
+			"specifications": null
+		},
+		{
+			"id": "9b4b42f8-0607-44c1-820b-220abcd077e1",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b4b42f8-0607-44c1-820b-220abcd077e1",
+			"title": "SF Unisex Washed Tour Sweatshirt",
+			"styleCode": "SF520",
+			"material": null,
+			"description": null,
+			"specifications": null
+		},
+		{
+			"id": "9b4b4d91-1575-4f8e-b9d8-ff9986facef6",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b4b4d91-1575-4f8e-b9d8-ff9986facef6",
+			"title": "Canvas Unisex Sponge Fleece Drop Shoulder Sweatshirt",
+			"styleCode": "3945",
+			"material": null,
+			"description": null,
+			"specifications": null
+		},
+		{
+			"id": "9b55957d-94fc-4c64-9707-6ed8eb441277",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b55957d-94fc-4c64-9707-6ed8eb441277",
+			"title": "Baby T-Shirt",
+			"styleCode": "BZ02",
+			"material": "100% Cotton Interlock",
+			"description": "This soft, pure cotton crew neck tee in soft, comfortable stretchy fabric with poppers at the shoulder is a great choice for kids. Oeko-Tex certified. Organic 100 Content Standard certified. Made by BabyBugz.",
+			"specifications": "DTG Application\n100% Cotton 200gsm\nOeko-Tex certified. Organic 100 Content Standard certified.\n\nWashing Instructions\n40 degree wash. Do not bleach. Do not tumble dry. Do not dry clean. Warm iron.\n\nWashing Instructions\n40 degree wash. Do not bleach. Do not tumble dry. Do not dry clean. Warm iron."
+		},
+		{
+			"id": "9b578d07-833e-432f-ae5b-df07fef38a2f",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b578d07-833e-432f-ae5b-df07fef38a2f",
+			"title": "Flag, Rectangular, Hemmed with Eyelets",
+			"styleCode": "FLG_RCT",
+			"material": null,
+			"description": "Description TBC",
+			"specifications": "Experience the vibrant display of your personal touch with our high-quality, 100% polyester flags, ideal for both indoor and outdoor use. Durable and easy to care for, these flags promise long-lasting color vibrancy and are a perfect canvas for your unique expressions."
+		},
+		{
+			"id": "9b5f94ea-80cf-4f94-9fd4-b234241d1b16",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b5f94ea-80cf-4f94-9fd4-b234241d1b16",
+			"title": "Organic Cotton Tea Towel",
+			"styleCode": "RNK33",
+			"material": "Certified Organic Cotton",
+			"description": "These tea towels are made from organic cotton - a strong, smooth and absorbent natural fibre. Organic also means no nasty chemicals around our food. Made by Westford Mill.",
+			"specifications": "100% organic cotton\nCertified by Global Organic Textile Standard (GOTS).\nHanging loop.\n170 gsm\n\n50 x 70 cm"
+		},
+		{
+			"id": "9b5f98c1-63a4-4fc5-93f1-1da1cd81e5af",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b5f98c1-63a4-4fc5-93f1-1da1cd81e5af",
+			"title": "Organic Cotton Apron",
+			"styleCode": "PR102",
+			"material": "Organic Cotton",
+			"description": "These aprons are made with organic cotton, featuring adjustable straps for comfort. They\u2019re lightweight and durable for whatever gets thrown or splashed at you. Made by Pencarrie.",
+			"specifications": "100% Organic Cotton\n240 gsm\nSelf fabric ties\nWidth 60cm\nLength 87cm"
+		},
+		{
+			"id": "9b638bd6-e673-4983-8d82-405ebed1d87c",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b638bd6-e673-4983-8d82-405ebed1d87c",
+			"title": "Women's Heavyweight Long Sleeve T-Shirt",
+			"styleCode": "RNB81",
+			"material": "Organic Cotton",
+			"description": "Ideal as a warmer layer, this heavyweight long sleeve tee offers comfort and warmth, whilst using the best organic cotton material. This style is slightly cropped to fall just below the waistline and complement any pair of trousers. \n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back when it's worn out.",
+			"specifications": "Certified Organic Cotton Long Sleeve Heavier Weight T-Shirt, 230g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "9b6f8f23-375d-42f1-a25f-5efbc80f362a",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b6f8f23-375d-42f1-a25f-5efbc80f362a",
+			"title": "Flowy racerback tank top",
+			"styleCode": "8800",
+			"material": null,
+			"description": "Merrowed bottom hem. Sheering at racerback seam. Racerback. Side-seamed. Easy, drapey fit. WRAP certified. Fair Labour certified.",
+			"specifications": "Crafted for comfort and style, this flowy racerback tank top features a flattering drapey fit with a merrowed bottom hem and sheering at the racerback seam, ensuring both durability and a sleek silhouette."
+		},
+		{
+			"id": "9b6f9137-b054-42c1-9e10-a56d362e5554",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b6f9137-b054-42c1-9e10-a56d362e5554",
+			"title": "Tie-dye shirt",
+			"styleCode": "1000",
+			"material": null,
+			"description": "Double-needle stitched neckline and sleeves. Shoulder-to-shoulder taping. Hand-dyed with superior colourfastness. Quarter turned to eliminate centre crease.",
+			"specifications": "Double-needle stitched neckline and sleeves. Shoulder-to-shoulder taping. Hand-dyed with superior colourfastness. Quarter turned to eliminate centre crease."
+		},
+		{
+			"id": "9b71a167-bc78-4a49-a2ac-ecccd311c630",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b71a167-bc78-4a49-a2ac-ecccd311c630",
+			"title": "Face Covering (Mask) White\/Black",
+			"styleCode": "FCMK-BK",
+			"material": null,
+			"description": "White polyester print face with black elastic straps which come with adjustable strap locks for resizing. Black edging, in sizes large (mens) and small (Women\/Children).  3 ply constructed as a polyester face and reverse with a cotton inner. Should be washed at 60\u00b0C.",
+			"specifications": "Experience comfort and protection with our high-quality, polyester face mask. Designed for durability and ease of care, this mask offers a breathable, adjustable fit for everyday use. Perfect for personalization, it's ideal for adding a unique touch to your daily essentials."
+		},
+		{
+			"id": "9b71a2f2-bd49-412d-aec9-d6e9905516a1",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b71a2f2-bd49-412d-aec9-d6e9905516a1",
+			"title": "Face Covering (Mask) White",
+			"styleCode": "FCMK-WT",
+			"material": null,
+			"description": "White polyester print face with black elastic straps which come with adjustable strap locks for resizing. White edging, in sizes large (mens) and small (Women\/Children).  3 ply constructed as a polyester face and reverse with a cotton inner. Should be washed at 60\u00b0C.",
+			"specifications": "Experience comfort and protection with our high-quality, polyester face mask. Designed for durability and ease of care, this mask offers a breathable, adjustable fit for everyday use. Perfect for personalization, it's ideal for adding a unique touch to your daily essentials."
+		},
+		{
+			"id": "9b71ca44-55c6-4638-a72a-8e0a2873d153",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b71ca44-55c6-4638-a72a-8e0a2873d153",
+			"title": "Kraft Paper Notebook",
+			"styleCode": "RNP46",
+			"material": "100% Recycled Paper",
+			"description": "A 100-page, lined Kraft paper notebook to hold thoughts, dreams, plans and reflections. FSC-certified paper with a Kraft paper hardback cover, featuring a black elastic closure, ribbon and pen loop made from recycled plastic bottles. The paper is 70gsm. The back cover features a QR code which brings up eco-credentials when scanned.",
+			"specifications": "Recycled Materials A5 Lined Notebook\nFSC certified\nKraft paper cover with 100 sheets of 70gsm recycled paper\nRecycled plastic elastic closure & elastic pen loop in black"
+		},
+		{
+			"id": "9b7370ad-cd03-40d5-b8f8-f890e5dd8634",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b7370ad-cd03-40d5-b8f8-f890e5dd8634",
+			"title": "Unisex Trainer 2.0 jogger shorts (STBU186)",
+			"styleCode": "STBU186",
+			"material": null,
+			"description": "The iconic mid-light unisex jogger shorts. Medium fit. Round drawcords in matching body colour. Closed end metal tipping. Inserted side seam pockets. Pocket bags in self-fabric and single Jersey. Vegan, GOTS 85%, Fair Wear, OEKO-TEX\uffae certified.",
+			"specifications": "Experience the comfort and style of our medium-fit, unisex jogger shorts, featuring round drawcords, convenient side seam pockets, and crafted from certified sustainable materials for everyday wear and care."
+		},
+		{
+			"id": "9b737173-a8c7-4635-9f34-9b7e8a762611",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b737173-a8c7-4635-9f34-9b7e8a762611",
+			"title": "Unisex Jammer dry sweatpants (STBU157)",
+			"styleCode": "STBU157",
+			"material": null,
+			"description": "Unisex dry hand feel sweatpants in a relaxed fit. Self-fabric elasticated waistband and leg cuff opening. Flat drawcords in matching body colour with end folded for clean finish. Drawcord placement at inside waistband. Embroidered eyelets. Front welt pockets. Patch pocket at back. Side seam and leg cuff with double needle topstitch. GOTS certified, OEKO-TEX certified, Vegan certified, Fairwear.",
+			"specifications": "Experience comfort and versatility with our unisex sweatpants, featuring a relaxed fit and elasticated waistband for a snug fit. Crafted with care, these pants come with convenient front and back pockets, and are made from materials that are both eco-friendly and durable."
+		},
+		{
+			"id": "9b7dc8a6-8d50-4b54-9b13-ba58eac7f7df",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b7dc8a6-8d50-4b54-9b13-ba58eac7f7df",
+			"title": "Unisex Creator 2.0 iconic t-shirt (STTU169)",
+			"styleCode": "STTU169",
+			"material": null,
+			"description": "The iconic unisex t-shirt. Modern medium fit. Set-in sleeve. 1x1 rib at neck collar. Inside back neck tape in self-fabric. Twin-needle topstitch at sleeve cuff and hem. Vegan, GOTS, Fair Wear, OEKO-TEX\uffae certified.",
+			"specifications": "Crafted for comfort and style, this modern medium-fit t-shirt features set-in sleeves and a classic 1x1 ribbed neck collar. Its quality construction includes twin-needle topstitching at the sleeve cuff and hem, ensuring durability."
+		},
+		{
+			"id": "9b7dcbe1-6a82-4453-b976-229931377949",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b7dcbe1-6a82-4453-b976-229931377949",
+			"title": "Unisex Drummer 2.0 hoodie (STSU168)",
+			"styleCode": "STSU168",
+			"material": null,
+			"description": "Essential unisex hoodie sweatshirt in medium fit with set-in sleeve. Self-fabric lined hood. Flat drawcords in matching body colour. Stitched buttonhole eyelets. Inside herringbone back neck tape. Self-fabric half moon at back neck.1x1 rib at sleeve hem and bottom hem. Flatlock topstitch on all seams. Kangaroo pocket with flatlock topstitch. GOTS certified, OEKO-TEX certified, Vegan certified, Fairwear.",
+			"specifications": "Embrace comfort and style with our essential unisex hoodie, featuring a medium fit, set-in sleeves, and a self-fabric lined hood. Its kangaroo pocket and meticulous topstitching on all seams blend functionality with a sleek finish."
+		},
+		{
+			"id": "9b7df209-6b19-49c4-ab76-a2ea8727c2c1",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b7df209-6b19-49c4-ab76-a2ea8727c2c1",
+			"title": "Unisex Cruiser 2.0 iconic Hoodie Sweatshirt",
+			"styleCode": "STSU177",
+			"material": "Certified Organic Cotton",
+			"description": "Crafted for comfort and versatility, this modern medium-fit hoodie features a double-lined hood with durable metal-tipped drawcords, ribbed sleeve and bottom hems for a snug fit, and a soft-touch interior for all-day wear. Made by Stanley\/Stella. Stanley\/Stella garments are not permitted to be sold blank\/without a design.",
+			"specifications": "100% Organic ringspun combed cotton brushed\n350gsm"
+		},
+		{
+			"id": "9b7df266-7725-4ab7-9cd9-902bd0ccfae5",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b7df266-7725-4ab7-9cd9-902bd0ccfae5",
+			"title": "Kids Mini Creator -Shirt 2.0",
+			"styleCode": "STTK184",
+			"material": "Certified Organic Cotton",
+			"description": "This modernised, perfect-fitting kids' tee comes in 155gsm 100% organic cotton. Super soft for sensitive skin. Made by Stanley\/Stella.Stanley\/Stella garments are not permitted to be sold blank\/without a design.",
+			"specifications": "100% Organic carded cotton 155gsm\nGOTS Certified"
+		},
+		{
+			"id": "9b7df299-af41-4adc-a7da-0fb66a5b12ea",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b7df299-af41-4adc-a7da-0fb66a5b12ea",
+			"title": "Unisex Mover 2.0 iconic jogger pants (STBU185)",
+			"styleCode": "STBU185",
+			"material": null,
+			"description": "The iconic unisex jogger pants. Modern medium fit. Round drawcords in matching body colour. Closed end metal tipping. Buttonhole eyelets. Welt pocket on back. Vegan, GOTS, Fair Wear, OEKO-TEX\uffae certified.",
+			"specifications": "Discover our comfortable jogger pants, perfect for any gender and designed for a modern, medium fit. Crafted with attention to detail, they feature round drawcords, closed-end metal tips, and a convenient welt pocket on the back. Responsibly made, they adhere to the highest standards of vegan and ethical manufacturing."
+		},
+		{
+			"id": "9b7df2da-171c-4a3c-8842-d76d3b9fe1fb",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b7df2da-171c-4a3c-8842-d76d3b9fe1fb",
+			"title": "Unisex Changer 2.0 Sweatshirt",
+			"styleCode": "STSU178",
+			"material": "Certified Organic Cotton",
+			"description": "This modernised unisex sweat is an iconic crew neck style. It's 100% organic cotton, with a modern medium fit and a comfortable wide rib at the neck, hem and sleeve cuffs. Made by Stanley\/Stella. Stanley\/Stella garments are not permitted to be sold blank\/without a design.",
+			"specifications": "DTG Application. 100% Organic ringspun combed cotton brushed 350gsm. Washing Instructions\nMachine wash, 30C. Wash similar colours together. No ironing on print. Wash and iron inside out. Do not tumble dry."
+		},
+		{
+			"id": "9b818536-0983-4537-9708-e3da710166c3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b818536-0983-4537-9708-e3da710166c3",
+			"title": "Metal Keyring - Oblong",
+			"styleCode": "OBL_KYRG",
+			"material": null,
+			"description": "Metal Keyring - Oblong",
+			"specifications": "This high-quality metal oblong keyring combines durability with elegance, making it the perfect accessory for keeping your keys organized. It features a smooth, polished surface suitable for everyday use, ensuring your keys are always at hand in style."
+		},
+		{
+			"id": "9b8e2ebf-4d4b-436f-b815-4e6a0ab8a910",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b8e2ebf-4d4b-436f-b815-4e6a0ab8a910",
+			"title": "Metal Pencil Tin",
+			"styleCode": "PNCL_TN",
+			"material": null,
+			"description": "Stainless steel pencil tins are great for holding stationary. This product is great for kids that attend school.",
+			"specifications": "This sleek metal pencil tin offers a durable storage solution for your writing utensils, ensuring they stay organized and protected. Ideal for both personal use and gifting, it features a smooth surface perfect for everyday use."
+		},
+		{
+			"id": "9b9002db-fff8-432c-ba88-eea9dedf2e55",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b9002db-fff8-432c-ba88-eea9dedf2e55",
+			"title": "Organic premium cotton maxi tote",
+			"styleCode": "W265",
+			"material": null,
+			"description": "Premium cotton for enhanced durability. Superior print surface for optimal decoration. Large capacity. Can be carried by hand or over the shoulder. Handle length - 58cm. Organic 100 Content Standard certified. Reach certified.",
+			"specifications": "Premium cotton for enhanced durability. Superior print surface for optimal decoration. Large capacity. Can be carried by hand or over the shoulder. Handle length - 58cm. Organic 100 Content Standard certified. Reach certified."
+		},
+		{
+			"id": "9b9a1ebf-0942-4905-9603-c2097e169b76",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b9a1ebf-0942-4905-9603-c2097e169b76",
+			"title": "Organic Cotton Backpack",
+			"styleCode": "RNK35",
+			"material": "Certified Organic Cotton",
+			"description": "Compact and durable, these 90s-style canvas backpacks are more secure than a tote bag, with a drawstring closure, whilst remaining casual and versatile. These bags have an understated, natural look, elevated by wooden buttons to secure the flap closure and adjust the length of the straps. Made by Westford Mill.",
+			"specifications": "Certified by Global Organic Textile Standard (GOTS)\nGrab handle\nAdjustable shoulder straps\nDrawcord closure\nWooden buttons\nCapacity 8 litres\n170 gsm\n\nSponge clean only"
+		},
+		{
+			"id": "9b9a21db-0de6-4ee4-a2bc-060c6303ce94",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b9a21db-0de6-4ee4-a2bc-060c6303ce94",
+			"title": "Drawstring Bag",
+			"styleCode": "RNK36",
+			"material": "Certified Organic Cotton",
+			"description": "This sturdy and comfortable organic cotton drawstring bag is ideal as a gym bag or to take out and about on any adventure. A lightweight feel makes it simple to grab and go. Made by Earth Positive.",
+			"specifications": "100% GOTS Organic Cotton Drawstring Bag"
+		},
+		{
+			"id": "9bc651da-f244-4066-a9b4-ebb2b43fc225",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9bc651da-f244-4066-a9b4-ebb2b43fc225",
+			"title": "Unisex Joggers",
+			"styleCode": "RNU2",
+			"material": "Certified Organic Cotton",
+			"description": "Complete a cosy outfit with these organic cotton unisex joggers, featuring a drawstring hidden on the inside of the thick waistband, thick cuffs and two deep pockets for effortless comfort. The relaxed cut makes this style versatile and suited to all body types. \n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back when it's worn out.",
+			"specifications": "Certified Organic Cotton Fleece Unisex Joggers with elasticated cuffs and waistline. 300g\/m2. Wash cool,\nhang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK\n with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of \nsocial and sustainability criteria."
+		},
+		{
+			"id": "9bc657c8-e61e-4ce8-acc4-c7a734cdcf28",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9bc657c8-e61e-4ce8-acc4-c7a734cdcf28",
+			"title": "Unisex Quarter-zip Sweatshirt",
+			"styleCode": "RNU3",
+			"material": "Certified Organic Cotton",
+			"description": "Sweater weather, but make it a little athleisure. That\u2019s the style of this organic cotton unisex \u00bc zip sweatshirt. It features a cool high neck, relaxed dropped shoulders, a thick hem and cuffs, and a YKK zipper that\u2019s fully faced on the inside for a super clean look and feel.\n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back when it's worn out.",
+			"specifications": "Certified Organic Cotton Fleece Unisex Quarter Zip Sweatshirt with high collar & ribbed cuffs and hem. 300g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "9bc65c37-ced0-4347-98a5-30b6b653f897",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9bc65c37-ced0-4347-98a5-30b6b653f897",
+			"title": "Unisex Kangaroo Pocket Hoody",
+			"styleCode": "RNU1",
+			"material": "Certified Organic Cotton",
+			"description": "With a generous kangaroo pocket, this unisex hoodie will quickly become a favourite. Brushed organic cotton on the inside adds extra comfort, while the dyed-to-match cords offer an elevated, clean look. Expect a relaxed unisex fit with dropped shoulders. \n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back when it's worn out.",
+			"specifications": "Certified Organic Cotton Fleece Unisex Hoody with Kangaroo Pocket and dropped shoulders. 300g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "9bca6467-97b9-4833-8ebe-9ea7798bdaa2",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9bca6467-97b9-4833-8ebe-9ea7798bdaa2",
+			"title": "Flexfit Fitted Baseball Cap",
+			"styleCode": "6277",
+			"material": null,
+			"description": "A mid profile cap with Permacurv\u00ae technology that maintains its proper shape and curve at all times. This baseball cap has the look and feel of wool for a premium finish and an athletic shape.",
+			"specifications": "63% Polyester, 34% Cotton, 3% Spandex"
+		},
+		{
+			"id": "9bca6880-eefa-40b5-9a38-e34f70d18ff2",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9bca6880-eefa-40b5-9a38-e34f70d18ff2",
+			"title": "Youth Jersey short sleeve tee",
+			"styleCode": "3001Y",
+			"material": null,
+			"description": "An everyday basic designed with superior softness and comfort.",
+			"specifications": "100% Airlume combed and ringspun cotton. Heathers: Blend of combed and ringspun cotton\/polyester"
+		},
+		{
+			"id": "9bcc5083-d06a-4f9c-98aa-c9b33e4303d2",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9bcc5083-d06a-4f9c-98aa-c9b33e4303d2",
+			"title": "Unisex Jersey v-neck t-shirt",
+			"styleCode": "3005",
+			"material": null,
+			"description": "This updated unisex essential fits like a well-loved favourite, featuring a classic v-neck, short sleeves and superior combed and ringspun cotton.",
+			"specifications": "100% Airlume combed and ringspun cotton. Dark Grey Heather: 52% Airlume combed and ringspun cotton, 48% Polyester"
+		},
+		{
+			"id": "9bd03bd6-c0cc-4c8f-862c-948d73ed2b49",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9bd03bd6-c0cc-4c8f-862c-948d73ed2b49",
+			"title": "Faded Organic Cotton Cap",
+			"styleCode": "RNKNS1",
+			"material": "Certified Organic Cotton",
+			"description": null,
+			"specifications": "Pre washed.\n6 panel.\nPre-curved peak.\nTear release size adjuster."
+		},
+		{
+			"id": "9bd260a5-2fe7-43f7-aaa7-869dc6f01c32",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9bd260a5-2fe7-43f7-aaa7-869dc6f01c32",
+			"title": "Landscape A6 Insert",
+			"styleCode": "INSERT",
+			"material": null,
+			"description": null,
+			"specifications": null
+		},
+		{
+			"id": "9bd2da38-6ebd-4afc-bdbe-644365d5aab8",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9bd2da38-6ebd-4afc-bdbe-644365d5aab8",
+			"title": "5 Pack, A5, Greeting Card with Envelope",
+			"styleCode": "GCA5_5PK",
+			"material": null,
+			"description": "Pack of 5 A5 greetings cards with blank envelopes.Cards are blank inside for your own message. Any design area left blank will be printed white.",
+			"specifications": "Experience the personal touch with our high-quality A5 greeting card, crafted from 310gsm paper for a premium feel. Ideal for any occasion, this card ensures your special messages are conveyed in style."
+		},
+		{
+			"id": "9bd41b87-9d63-4c10-bc99-695ea46403cc",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9bd41b87-9d63-4c10-bc99-695ea46403cc",
+			"title": "Fine Art, Smooth, 11:9 Ratio, Landscape",
+			"styleCode": "FAP_S_9L",
+			"material": null,
+			"description": "Discover the elegance and durability of our fine art prints, expertly crafted on 220gsm smooth, acid-free paper for exceptional vibrancy and longevity. Encased in a sustainably sourced wooden frame, these prints bring a touch of sophistication to any space, ensuring your chosen art stands out with unmatched clarity and colour.",
+			"specifications": "220gsm smooth, acid-free paper"
+		},
+		{
+			"id": "9bd42f17-edb1-4a0b-927e-a0e077b4d136",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9bd42f17-edb1-4a0b-927e-a0e077b4d136",
+			"title": "Fine Art, Smooth, 17:11 Ratio, Landscape",
+			"styleCode": "FAP_S_6L",
+			"material": null,
+			"description": "Discover the elegance and durability of our fine art prints, expertly crafted on 220gsm smooth, acid-free paper for exceptional vibrancy and longevity. Encased in a sustainably sourced wooden frame, these prints bring a touch of sophistication to any space, ensuring your chosen art stands out with unmatched clarity and colour.",
+			"specifications": "220gsm smooth, acid-free paper"
+		},
+		{
+			"id": "9bd443f8-703c-485f-ac48-61280e3f93ae",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9bd443f8-703c-485f-ac48-61280e3f93ae",
+			"title": "Fine Art, Smooth, 20:13 Ratio, Landscape",
+			"styleCode": "FAP_S_7L",
+			"material": null,
+			"description": "Discover the elegance and durability of our fine art prints, expertly crafted on 220gsm smooth, acid-free paper for exceptional vibrancy and longevity. Encased in a sustainably sourced wooden frame, these prints bring a touch of sophistication to any space, ensuring your chosen art stands out with unmatched clarity and colour.",
+			"specifications": "220gsm smooth, acid-free paper"
+		},
+		{
+			"id": "9bd44f92-7723-44a5-8f84-9e6e47a1f140",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9bd44f92-7723-44a5-8f84-9e6e47a1f140",
+			"title": "Fine Art, Smooth, 17:11 Ratio, Portrait",
+			"styleCode": "FAP_S_6P",
+			"material": null,
+			"description": "Discover the elegance and durability of our fine art prints, expertly crafted on 220gsm smooth, acid-free paper for exceptional vibrancy and longevity. Encased in a sustainably sourced wooden frame, these prints bring a touch of sophistication to any space, ensuring your chosen art stands out with unmatched clarity and colour.",
+			"specifications": "220gsm smooth, acid-free paper"
+		},
+		{
+			"id": "9bd45987-4381-4098-8a08-dfa3e8612b14",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9bd45987-4381-4098-8a08-dfa3e8612b14",
+			"title": "Fine Art, Smooth, 20:13 Ratio, Portrait",
+			"styleCode": "FAP_S_7P",
+			"material": null,
+			"description": "Discover the elegance and durability of our fine art prints, expertly crafted on 220gsm smooth, acid-free paper for exceptional vibrancy and longevity. Encased in a sustainably sourced wooden frame, these prints bring a touch of sophistication to any space, ensuring your chosen art stands out with unmatched clarity and colour.",
+			"specifications": "220gsm smooth, acid-free paper"
+		},
+		{
+			"id": "9bd46378-c7c0-4f45-b481-78a6193fa930",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9bd46378-c7c0-4f45-b481-78a6193fa930",
+			"title": "Fine Art, Smooth, 11:9 Ratio, Portrait",
+			"styleCode": "FAP_S_9P",
+			"material": null,
+			"description": "Discover the elegance and durability of our fine art prints, expertly crafted on 220gsm smooth, acid-free paper for exceptional vibrancy and longevity. Encased in a sustainably sourced wooden frame, these prints bring a touch of sophistication to any space, ensuring your chosen art stands out with unmatched clarity and colour.",
+			"specifications": "220gsm smooth, acid-free paper"
+		},
+		{
+			"id": "9bd46908-c8d9-4aba-a650-e256b572d866",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9bd46908-c8d9-4aba-a650-e256b572d866",
+			"title": "Poster, Silk, 11:9 Ratio, Landscape",
+			"styleCode": "PST_S_9L",
+			"material": null,
+			"description": "Crafted for longevity and visual appeal, this framed print features premium 200gsm, matt paper resistant to scratches. It's encased in a 30mm thick, sustainably sourced wooden frame, complemented by clear 1.2mm acrylic glass, fully sealed, and equipped with a hanging kit for easy display.",
+			"specifications": "Premium 200gsm, Silk Paper"
+		},
+		{
+			"id": "9bd46e34-5edf-4b72-8017-c41cd045ebd8",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9bd46e34-5edf-4b72-8017-c41cd045ebd8",
+			"title": "Poster, Silk, 17:11 Ratio, Landscape",
+			"styleCode": "PST_S_6L",
+			"material": null,
+			"description": "Crafted for longevity and visual appeal, this framed print features premium 200gsm, matt paper resistant to scratches. It's encased in a 30mm thick, sustainably sourced wooden frame, complemented by clear 1.2mm acrylic glass, fully sealed, and equipped with a hanging kit for easy display.",
+			"specifications": "Premium 200gsm, Silk Paper"
+		},
+		{
+			"id": "9bd47013-2abd-44a6-84d3-e028d1fa2029",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9bd47013-2abd-44a6-84d3-e028d1fa2029",
+			"title": "Poster, Silk, 20:13 Ratio, Landscape",
+			"styleCode": "PST_S_7L",
+			"material": null,
+			"description": "Crafted for longevity and visual appeal, this framed print features premium 200gsm, matt paper resistant to scratches. It's encased in a 30mm thick, sustainably sourced wooden frame, complemented by clear 1.2mm acrylic glass, fully sealed, and equipped with a hanging kit for easy display.",
+			"specifications": "Premium 200gsm, Silk Paper"
+		},
+		{
+			"id": "9bd47722-0fa9-43c5-a705-3e8544b6537e",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9bd47722-0fa9-43c5-a705-3e8544b6537e",
+			"title": "Poster, Silk, 17:11 Ratio, Portrait",
+			"styleCode": "PST_S_6P",
+			"material": null,
+			"description": "Crafted for longevity and visual appeal, this framed print features premium 200gsm, matt paper resistant to scratches. It's encased in a 30mm thick, sustainably sourced wooden frame, complemented by clear 1.2mm acrylic glass, fully sealed, and equipped with a hanging kit for easy display.",
+			"specifications": "Premium 200gsm, Silk Paper"
+		},
+		{
+			"id": "9bd47e01-64af-4aed-98e7-f231ffab14c3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9bd47e01-64af-4aed-98e7-f231ffab14c3",
+			"title": "Poster, Silk, 20:13 Ratio, Portrait",
+			"styleCode": "PST_S_7P",
+			"material": null,
+			"description": "Crafted for longevity and visual appeal, this framed print features premium 200gsm, matt paper resistant to scratches. It's encased in a 30mm thick, sustainably sourced wooden frame, complemented by clear 1.2mm acrylic glass, fully sealed, and equipped with a hanging kit for easy display.",
+			"specifications": "Premium 200gsm, Silk Paper"
+		},
+		{
+			"id": "9bd5d89f-667b-46f0-a5fd-469b42198ee0",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9bd5d89f-667b-46f0-a5fd-469b42198ee0",
+			"title": "Poster, Silk, 11:9 Ratio, Portrait",
+			"styleCode": "PST_S_9P",
+			"material": null,
+			"description": "Crafted for longevity and visual appeal, this framed print features premium 200gsm, matt paper resistant to scratches. It's encased in a 30mm thick, sustainably sourced wooden frame, complemented by clear 1.2mm acrylic glass, fully sealed, and equipped with a hanging kit for easy display.",
+			"specifications": "Premium 200gsm, Silk Paper"
+		},
+		{
+			"id": "9bd5de39-f277-4fe5-8a5c-94c799a02f65",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9bd5de39-f277-4fe5-8a5c-94c799a02f65",
+			"title": "Canvas, Ratio 1:27 Landscape",
+			"styleCode": "CVS_ST8L",
+			"material": null,
+			"description": "Experience the perfect blend of durability and eco-conscious crafting with our 260gsm polyester canvas. Supported by a robust 38mm thick, sustainably sourced pine frame, this canvas brings your custom designs to life with vibrant, water-based inks. Ideal for adding a touch of personal flair to any space.",
+			"specifications": "Bright white 100% Recycled Polyester"
+		},
+		{
+			"id": "9bd5e777-47b9-4d48-bd8d-2ff349e26540",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9bd5e777-47b9-4d48-bd8d-2ff349e26540",
+			"title": "Canvas, Ratio 1:27 Portrait",
+			"styleCode": "CVS_ST8P",
+			"material": null,
+			"description": "Experience the perfect blend of durability and eco-conscious crafting with our 260gsm polyester canvas. Supported by a robust 38mm thick, sustainably sourced pine frame, this canvas brings your custom designs to life with vibrant, water-based inks. Ideal for adding a touch of personal flair to any space.",
+			"specifications": "Bright white 100% Recycled Polyester"
+		},
+		{
+			"id": "9bd6563d-e773-4a20-b9d7-9c1663a4a82d",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9bd6563d-e773-4a20-b9d7-9c1663a4a82d",
+			"title": "Signature heavyweight hoodie",
+			"styleCode": "JH120",
+			"material": null,
+			"description": "This unisex hoodie ensures maximum style with minimal effect. Made with a heavyweight, premium, cotton-rich fabric, it has an oversized boxy fit, true to size. Features include a large pouch pocket, ribbed cuffs and hem. A hoodie to keep you warm and comfortable \u2013 and an everyday essential.",
+			"specifications": "70% Ringspun cotton, 30% Recycled polyester. Heather Grey: 60% Ringspun cotton, 40% Recycled polyester"
+		},
+		{
+			"id": "9bd82935-aee2-40c4-a496-3224c0bdad85",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9bd82935-aee2-40c4-a496-3224c0bdad85",
+			"title": "Women\u2019s micro rib raglan baby t-shirt",
+			"styleCode": "1201",
+			"material": null,
+			"description": "The micro rib raglan baby t-shirt hits it out of the park. With 1x1 micro rib for unparalleled softness, set-in cap sleeves with contrast colouring, plus fitted mid-length silhouette, this baby t-shirt takes the classic baseball style to new heights.",
+			"specifications": "52% Airlume combed ringspun cotton, 48% Polyester. 32 single. Athletic Heather: 90% Airlume combed ringspun cotton, 10% Polyester"
+		},
+		{
+			"id": "9be46954-096e-4691-9c1e-774c0eecb85c",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9be46954-096e-4691-9c1e-774c0eecb85c",
+			"title": "Landscape Jigsaw Puzzle (Black Box) (1,000 pieces)",
+			"styleCode": "RNK50",
+			"material": "100% recycled cardboard, 1650 microns",
+			"description": "This 1000-piece jigsaw puzzle is made from recycled cardboard. Full-colour printing brings out every small detail for a satisfying puzzling experience. Sent in a cardboard box featuring the puzzle design for reference.",
+			"specifications": "Designed with the environment in mind using natural materials, the 1,000 piece jigsaw puzzle is made from 100% recycled cardboard and UV inks. When complete, it is 700x510mm."
+		},
+		{
+			"id": "9be46e02-81f7-427e-bb3f-de3ed52eda73",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9be46e02-81f7-427e-bb3f-de3ed52eda73",
+			"title": "Portrait Jigsaw Puzzle (Black Box) (1,000 pieces)",
+			"styleCode": "RNK51",
+			"material": "100% recycled cardboard, 1650 microns",
+			"description": "This 1000-piece jigsaw puzzle is made from recycled cardboard. Full-colour printing brings out every small detail for a satisfying puzzling experience. Sent in a black cardboard box featuring the puzzle design for reference.",
+			"specifications": "Designed with the environment in mind using natural materials, the 1,000 piece jigsaw puzzle is made from 100% recycled cardboard and UV inks. When complete, it is 510 x 700mm."
+		},
+		{
+			"id": "9bf2a274-f137-4483-bb95-646e82e04718",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9bf2a274-f137-4483-bb95-646e82e04718",
+			"title": "Cool T",
+			"styleCode": "JC001",
+			"material": null,
+			"description": "AWDis' own Neoteric\u2122 textured fabric with inherent wickability and quick drying properties. Self fabric taped back neck. Set in sleeve design. Twin needle stitching detail. Self-fabric crew neck. Simple tear off label maks it perfect for rebranding. UPF 30+ UV protection. Worldwide Responsible Accredited Production (WRAP) certified production. WRAP certified. Vegan certified. BSCI certified. Oeko-Tex certified. SEDEX certified.",
+			"specifications": "100% Polyester"
+		},
+		{
+			"id": "9c0871e1-0e17-4ebe-b879-dd971b128655",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9c0871e1-0e17-4ebe-b879-dd971b128655",
+			"title": "PRNT Heavy Cotton\u2122 adult t-shirt",
+			"styleCode": "PR-5000",
+			"material": null,
+			"description": null,
+			"specifications": "Crafted for comfort and durability, this 100% cotton pre-shrunk jersey knit t-shirt features a seamless collar, taped neck, and shoulders, with twin needle stitching on the sleeves and bottom hem for a refined finish."
+		},
+		{
+			"id": "9c088fd2-45de-4eae-af2c-bc034491f004",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9c088fd2-45de-4eae-af2c-bc034491f004",
+			"title": "PRNT Ultra Cotton\u2122 adult long sleeve t-shirt",
+			"styleCode": "PR-2400",
+			"material": null,
+			"description": null,
+			"specifications": "Experience lasting comfort with our long sleeve t-shirt, crafted from 100% pre-shrunk cotton. Featuring a seamless collar, ribbed cuffs, and double-stitched hems for durability, it's ideal for everyday wear."
+		},
+		{
+			"id": "9c089a31-1065-447f-acdd-e353a1dd54d8",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9c089a31-1065-447f-acdd-e353a1dd54d8",
+			"title": "PRNT Heavy Blend\u2122 adult crew neck sweatshirt",
+			"styleCode": "PR-18000",
+			"material": null,
+			"description": null,
+			"specifications": "Crafted for comfort, this crew neck sweatshirt features soft fabric for a plush feel and twin-needle stitching for enhanced durability. Its design includes set-in sleeves and 1x1 rib with elastane to ensure a snug fit. Perfect for everyday wear, it's also produced with a commitment to ethical labor practices."
+		},
+		{
+			"id": "9c089f5d-18df-40db-9da8-5b03006a1635",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9c089f5d-18df-40db-9da8-5b03006a1635",
+			"title": "PRNT Heavy Blend\u2122 hooded sweatshirt",
+			"styleCode": "PR-18500",
+			"material": null,
+			"description": null,
+			"specifications": "Discover the comfort and durability of our hooded sweatshirt, crafted for lasting wear. Featuring a double-lined hood with a matching drawstring and a convenient pouch pocket, this sweatshirt boasts soft fabric, enhanced by secure twin-needle stitching and ribbed details for a snug fit."
+		},
+		{
+			"id": "9c08c8e8-64e1-4510-ac1e-7854cc4d930e",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9c08c8e8-64e1-4510-ac1e-7854cc4d930e",
+			"title": "Magic Model Mens Oversized Tee",
+			"styleCode": "RGNA48",
+			"material": "Certified Organic Cotton",
+			"description": "RNA48 Magic Model Green Screen T-Shirt. Not for printing. Pre printed with the grid ready to send to your stores to create their own magic models.",
+			"specifications": "Certified Organic Cotton t-shirt, 230g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "9c08cd6a-571f-4006-ad80-c76daa773ceb",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9c08cd6a-571f-4006-ad80-c76daa773ceb",
+			"title": "Magic Model Womens Oversized Tee",
+			"styleCode": "RGNB64",
+			"material": "Organic Cotton",
+			"description": "RNB64 Magic Model Green Screen T-Shirt. Not for printing. Pre printed with the grid ready to send to your stores to create their own magic models.",
+			"specifications": "Certified Organic Cotton t-shirt, 230g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "9c0c6623-5fcf-4182-8f36-cd7d9ff331d3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9c0c6623-5fcf-4182-8f36-cd7d9ff331d3",
+			"title": "Magic Model Women's Oversized Jumper",
+			"styleCode": "RNGB62",
+			"material": "Certified Organic Cotton",
+			"description": "Magic Model Green Screen RNB62. Not for printing. Pre printed with the grid ready to send to your stores to create their own magic models.",
+			"specifications": "Certified Organic Cotton Relaxed Fit Sweatshirt, 300g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "9c0e374b-7618-4c54-8dd2-36b0df643e39",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9c0e374b-7618-4c54-8dd2-36b0df643e39",
+			"title": "Magic Model Women's Plain T-shirt",
+			"styleCode": "RNGB46",
+			"material": "Certified Organic Cotton",
+			"description": "Magic Model Green Screen T-Shirt. Not for printing. Pre printed with the grid ready to send to your stores to create their own magic models.",
+			"specifications": "Certified Organic Cotton T-shirt, 155g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "9c106c38-9e4c-453a-bc57-20d3e7666277",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9c106c38-9e4c-453a-bc57-20d3e7666277",
+			"title": "Canvas, Ratio 3:1 Landscape",
+			"styleCode": "CVS_ST9L",
+			"material": null,
+			"description": "Experience the perfect blend of durability and eco-conscious crafting with our 260gsm polyester canvas. Supported by a robust 38mm thick, sustainably sourced pine frame, this canvas brings your custom designs to life with vibrant, water-based inks. Ideal for adding a touch of personal flair to any space.",
+			"specifications": "Bright white 100% Recycled Polyester"
+		},
+		{
+			"id": "9c106d5f-0a03-44b1-b96f-df2bec0235ef",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9c106d5f-0a03-44b1-b96f-df2bec0235ef",
+			"title": "Canvas, 1:3 Ratio Portrait",
+			"styleCode": "CVS_ST9P",
+			"material": null,
+			"description": "Experience the perfect blend of durability and eco-conscious crafting with our 260gsm polyester canvas. Supported by a robust 38mm thick, sustainably sourced pine frame, this canvas brings your custom designs to life with vibrant, water-based inks. Ideal for adding a touch of personal flair to any space.",
+			"specifications": "Bright white 100% Recycled Polyester"
+		},
+		{
+			"id": "9c10b4e4-0230-4c53-8548-d037ab066bc5",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9c10b4e4-0230-4c53-8548-d037ab066bc5",
+			"title": "Set Of 4 Coasters",
+			"styleCode": "CSTR4_SQ",
+			"material": null,
+			"description": "Hardboard coasters are practical and durable with a glossy photo finish. Finish- Gloss",
+			"specifications": "Crafted for durability and style, this coaster measures 9cm by 9cm with a thickness of 3.17mm, featuring a natural, raw back to prevent slipping. Perfect for safeguarding surfaces, it blends functionality with a touch of elegance."
+		},
+		{
+			"id": "9c195b28-43d6-4425-a3b4-c7d8bc0df072",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9c195b28-43d6-4425-a3b4-c7d8bc0df072",
+			"title": "Next Level Apparel Tri-Blend Crew Neck T-Shirt",
+			"styleCode": "6010",
+			"material": null,
+			"description": "1x1 baby ribbed collar.\nTaped neck and shoulders.\nSide seams.\nTwin needle sleeves and hem.",
+			"specifications": "50% polyester\/25% ringspun combed cotton\/25% rayon"
+		},
+		{
+			"id": "9c196dd6-ff4c-45f6-b1b7-c82dd4873886",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9c196dd6-ff4c-45f6-b1b7-c82dd4873886",
+			"title": "Next Level Apparel Unisex Cotton Crew Neck T-Shirt",
+			"styleCode": "3600",
+			"material": null,
+			"description": "1x1 baby ribbed collar.\nTaped neck and shoulders.\nSide seams.\nTwin needle sleeves and hem.",
+			"specifications": "100% ringspun combed cotton"
+		},
+		{
+			"id": "9c2ad660-cd02-4bef-9bbb-9113891c9ed1",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9c2ad660-cd02-4bef-9bbb-9113891c9ed1",
+			"title": "Colours bib apron with pocket",
+			"styleCode": "PR154",
+			"material": null,
+			"description": "A classic bib apron that features a useful centre pocket with built in pen pocket, making this style a popular choice for waiting staff. This apron has a sliding adjustable buckle on the neckband so the wearer can adjust the overall length.",
+			"specifications": "65% Polyester, 35% Cotton twill"
+		},
+		{
+			"id": "9c355187-9008-4f3d-aee2-e497014933de",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9c355187-9008-4f3d-aee2-e497014933de",
+			"title": "LI Royal Mail Shipping",
+			"styleCode": "LIRMPAR",
+			"material": null,
+			"description": "LI Royal Mail Shipping",
+			"specifications": "LI Royal Mail Shipping"
+		},
+		{
+			"id": "9c3554a4-cc5f-47a4-9801-70c31e01962c",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9c3554a4-cc5f-47a4-9801-70c31e01962c",
+			"title": "Standard Shipping",
+			"styleCode": "SS-PAR",
+			"material": null,
+			"description": "Standard Shipping",
+			"specifications": "Standard Shipping"
+		},
+		{
+			"id": "9c3ad8b4-4819-4f93-a7ce-ddb532617c8a",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9c3ad8b4-4819-4f93-a7ce-ddb532617c8a",
+			"title": "TriDri\u00ae Panelled Polo",
+			"styleCode": "TR012",
+			"material": null,
+			"description": "The TriDri\u00ae panelled polo combines wicking fabric technologies with strategically placed mesh panels to help keep you dry and cool during even high-intensity workouts.",
+			"specifications": "100% Polyester"
+		},
+		{
+			"id": "9c56ce09-5fd3-41b3-b9c7-2f45f47eb0ef",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9c56ce09-5fd3-41b3-b9c7-2f45f47eb0ef",
+			"title": "Light tote bag (STAU773)",
+			"styleCode": "STAU773",
+			"material": null,
+			"description": "Lightweight tote bag made with 100% organic cotton.",
+			"specifications": "Top edge double-folded for strength and clean finish. Long handles with reinforced cross stitch. . Oeko-Tex certified. Vegan certified. Fairwear Foundation certified. GOTS certified."
+		},
+		{
+			"id": "9c5bb115-2cd4-4422-895f-aebd3044fe60",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9c5bb115-2cd4-4422-895f-aebd3044fe60",
+			"title": "Steven Brown Cushion With Label, Square, 2 Sided",
+			"styleCode": "CSH_SBS2",
+			"material": null,
+			"description": "Super soft 100% Polyester Velour Square Cushion with a removable cover with a hidden zip on the edge of the cushion. Design area left transparent will print white as per the base fabric colour. Suitable for all over sublimation printing. Choice of zip colour",
+			"specifications": "100% Polyester"
+		},
+		{
+			"id": "9c5bb59a-12c4-4f0f-9fcb-97435a26fddb",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9c5bb59a-12c4-4f0f-9fcb-97435a26fddb",
+			"title": "Steven Brown Cushion With Label, Rectangular, 2 Sided",
+			"styleCode": "CSH_SBR2",
+			"material": null,
+			"description": "Super soft 100% Polyester Velour Rectangular Cushion with a removable cover with a hidden zip on the edge of the cushion. Design area left transparent will print white as per the base fabric colour. Suitable for all over sublimation printing. Choice of Zip colour",
+			"specifications": "100% Polyester"
+		},
+		{
+			"id": "9c5ec327-fe46-478d-ab37-0455f74bc225",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9c5ec327-fe46-478d-ab37-0455f74bc225",
+			"title": "Steven Brown Cushion With Label, White Zip, Square, 2 Sided",
+			"styleCode": "CSH_WZS2",
+			"material": null,
+			"description": "Super soft 100% Polyester Velour Square Cushion with a removable cover with a hidden zip on the edge of the cushion. Design area left transparent will print white as per the base fabric colour. Suitable for all over sublimation printing.",
+			"specifications": "100% Polyester"
+		},
+		{
+			"id": "9c6520a9-a7ed-4337-91b9-7f59ec60854b",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9c6520a9-a7ed-4337-91b9-7f59ec60854b",
+			"title": "Suit Case",
+			"styleCode": "SUITCASE",
+			"material": null,
+			"description": "Suit Case",
+			"specifications": "Suit Case"
+		},
+		{
+			"id": "9c6b0bdb-4b1c-413d-937d-48fe6d4a6da6",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9c6b0bdb-4b1c-413d-937d-48fe6d4a6da6",
+			"title": "Embroidered Kids Cap",
+			"styleCode": "RNC7",
+			"material": "100% Organic Cotton Twill",
+			"description": "INTERNAL USE ONLY. 100% organic cotton twill kids cap\nMade from recyclable materials. Embroidered using biodegradable lyocell thread.",
+			"specifications": "5 panel.\nStitched ventilation eyelets.\nPre-curved peak.\nSnapback size adjuster.\nChild safe secure button."
+		},
+		{
+			"id": "9c72e6ca-a778-457c-a02c-bec0d7d0feba",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9c72e6ca-a778-457c-a02c-bec0d7d0feba",
+			"title": "Fine Art, Smooth, A1-A3, Landscape",
+			"styleCode": "FASA1-3L",
+			"material": null,
+			"description": "Discover the elegance and durability of our fine art prints, expertly crafted on 220gsm smooth, acid-free paper for exceptional vibrancy and longevity. Encased in a sustainably sourced wooden frame, these prints bring a touch of sophistication to any space, ensuring your chosen art stands out with unmatched clarity and colour.",
+			"specifications": "220gsm smooth, acid-free paper"
+		},
+		{
+			"id": "9c790609-9c17-441e-9ce8-806776b229e9",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9c790609-9c17-441e-9ce8-806776b229e9",
+			"title": "Fine Art, Smooth, A1-A3, Portrait",
+			"styleCode": "FASA1-3P",
+			"material": null,
+			"description": "Discover the elegance and durability of our fine art prints, expertly crafted on 220gsm smooth, acid-free paper for exceptional vibrancy and longevity. Encased in a sustainably sourced wooden frame, these prints bring a touch of sophistication to any space, ensuring your chosen art stands out with unmatched clarity and colour.",
+			"specifications": "220gsm smooth, acid-free paper"
+		},
+		{
+			"id": "9c7d5da1-d4ad-40b2-b86e-6666dd40a59e",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9c7d5da1-d4ad-40b2-b86e-6666dd40a59e",
+			"title": "Steven Brown Outdoor Cushion With Label, Square",
+			"styleCode": "CSH_SBS1",
+			"material": null,
+			"description": "a. Back of cushion is white\nb. Zip is on the side of the product\nc. White Zip\nd. Made using Francisco Waterproof Canvas\ne. Includes Steven Brown branded label",
+			"specifications": "a. Back of cushion is white b. Zip is on the side of the product c. White Zip d. Made using Francisco Waterproof Canvas e. Includes Steven Brown branded label"
+		},
+		{
+			"id": "9c7d689c-d377-4a96-afaf-b28b9dc0d8c8",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9c7d689c-d377-4a96-afaf-b28b9dc0d8c8",
+			"title": "Steven Brown Outdoor Cushion With Label, Rectangular",
+			"styleCode": "CSH_SBR1",
+			"material": null,
+			"description": "a. Back of cushion is white\nb. Zip is on the side of the product\nc. White Zip\nd. Made using Francisco Waterproof Canvas\ne. Includes Steven Brown branded label",
+			"specifications": "a. Back of cushion is white b. Zip is on the side of the product c. White Zip d. Made using Francisco Waterproof Canvas e. Includes Steven Brown branded label"
+		},
+		{
+			"id": "9c7d6eb0-76f3-43ba-9328-2a1454fbad73",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9c7d6eb0-76f3-43ba-9328-2a1454fbad73",
+			"title": "Steven Brown Floor Cushion With Label, One Print",
+			"styleCode": "CSH_SBF1",
+			"material": null,
+			"description": "a. Back of Cushion is Black*\nb. Zip is on the side of the product\nc. White Zip\nd. Made using Artist Velvet \u2013 top\ne. Made using Nevada Faux Leather \u2013 bottom",
+			"specifications": "a. Back of Cushion is Black* b. Zip is on the side of the product c. White Zip d. Made using Artist Velvet \u2013 top e. Made using Nevada Faux Leather \u2013 bottom"
+		},
+		{
+			"id": "9c7eff9c-c5f9-4217-a150-f59bd5cf80d4",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9c7eff9c-c5f9-4217-a150-f59bd5cf80d4",
+			"title": "Steven Brown Heart Cushion With Label, One Print",
+			"styleCode": "CSH_SBH1",
+			"material": null,
+			"description": "a. Back of Cushion is Charcoal\nb. Zip is on the side of the product\nc. White Zip\nd. Made using Artist Velvet (top and bottom)",
+			"specifications": "a. Back of Cushion is Charcoal\nb. Zip is on the side of the product\nc. White Zip\nd. Made using Artist Velvet (top and bottom)"
+		},
+		{
+			"id": "9c8f257d-91e8-4e5e-a763-11955e25ebbb",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9c8f257d-91e8-4e5e-a763-11955e25ebbb",
+			"title": "Coaster Magnet",
+			"styleCode": "MCSTR_SQ",
+			"material": null,
+			"description": "Hardboard coasters are practical and durable with a glossy photo finish. Finish- Gloss",
+			"specifications": "Crafted for durability and style, this coaster measures 9cm by 9cm with a thickness of 3.17mm, featuring a natural, raw back to prevent slipping. Perfect for safeguarding surfaces, it blends functionality with a touch of elegance."
+		},
+		{
+			"id": "9c99319a-2c3f-407f-bc49-beb82134b48e",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9c99319a-2c3f-407f-bc49-beb82134b48e",
+			"title": "Maxi Cup",
+			"styleCode": "MC40_WHT",
+			"material": null,
+			"description": "A bright white double-walled stainless steel maxi cup with insulation and a secure screw-on lid complete with a straw for hassle-free, no spill sipping.",
+			"specifications": "Enjoy your favourite beverages in this high-quality, 40oz stainless steel maxi cup. Perfect for any hot or cold drink, it features a screw-on lid complete with a straw, that's ideal for everyday use."
+		},
+		{
+			"id": "9ca7a7fb-138d-4aca-a0fb-f920c3706d45",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9ca7a7fb-138d-4aca-a0fb-f920c3706d45",
+			"title": "AS Colour Heavy Tee",
+			"styleCode": "5080",
+			"material": null,
+			"description": "Get to know our AS Colour Heavy Tee, built to last with heavy weight 280 GSM 100% carded cotton. A boxy oversized fit with dropped shoulders, wide neck ribbing, side seams, shoulder to shoulder tape, and double needle hems ensure street-ready durability and comfort.",
+			"specifications": "AS5080"
+		},
+		{
+			"id": "9ca8007b-70d2-4660-8c98-6eecf968bdc1",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9ca8007b-70d2-4660-8c98-6eecf968bdc1",
+			"title": "AS Colour Youth Classic Tee",
+			"styleCode": "3061",
+			"material": null,
+			"description": "Fit\nRelaxed\nFabric\nHeavy weight, 220 GSM, 22-singles, 100% combed cotton (marles 15% viscose)\nConstruction\nNeck ribbing, side seamed, shoulder to shoulder tape, double needle hems, preshrunk to minimise shrinkage\n\nTear-out AS Colour label\nEmbellishment\nSuited for screenprinting, DTG, embroidery &amp; heat pressing\nFind a printer\/embroider near you here",
+			"specifications": "3061"
+		},
+		{
+			"id": "9caaeacf-c0ad-4dce-861f-51aa2a38dfd9",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9caaeacf-c0ad-4dce-861f-51aa2a38dfd9",
+			"title": "LI INS WB",
+			"styleCode": "WBLI_SS",
+			"material": null,
+			"description": "A 500ml stainless steel water bottle",
+			"specifications": "This 500ml insulated bottle features a double-walled design to keep drinks either hot or cold. It comes with two lids: a flip straw lid for cold drinks and a carabiner hook handle lid for hot drinks. The bottle has a matte powder-coated finish in white and is made from 100% BPA-free stainless steel. Measuring 25cm in height and 6.5cm in width, it includes the Official Love Island stamp on the base. Please note that this bottle is not dishwasher safe."
+		},
+		{
+			"id": "9cb19fa8-0dd6-426d-88e9-be7ab5d4362e",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9cb19fa8-0dd6-426d-88e9-be7ab5d4362e",
+			"title": "Quadra Executive Digital Case",
+			"styleCode": "QD268",
+			"material": null,
+			"description": "Laptop compatible up to 17\". iPad mini\/tablet compatible.                                    USB memory stick loops\nZippered front pocket\nOrganiser section\nDocument section\nPadded handle\nWheelie bag strap\nDetachable adjustable shoulder strap with pad",
+			"specifications": "600D\/1680D Polyester combination"
+		},
+		{
+			"id": "9cc1d874-3e9e-449d-bc4b-1a537e7461b2",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9cc1d874-3e9e-449d-bc4b-1a537e7461b2",
+			"title": "AOP Tote Bag, Large, With Wraptious Tag",
+			"styleCode": "TBG_AOP",
+			"material": null,
+			"description": "Description tbc",
+			"specifications": "Elevate your everyday style with our high-quality tote bag. Crafted for durability and convenience, it's perfect for carrying your essentials with ease. Featuring strong handles and ample storage space, it's ideal for both daily use and special occasions. Care instructions: Machine washable for effortless maintenance."
+		},
+		{
+			"id": "9cc34f1e-5ffc-4fad-ad4c-5ae876c1d3d6",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9cc34f1e-5ffc-4fad-ad4c-5ae876c1d3d6",
+			"title": "Steven Brown Tote Bag with Label",
+			"styleCode": "SBTB_AOP",
+			"material": null,
+			"description": "Description tbc",
+			"specifications": "Elevate your everyday style with our high-quality tote bag. Crafted for durability and convenience, it's perfect for carrying your essentials with ease. Featuring strong handles and ample storage space, it's ideal for both daily use and special occasions. Care instructions: Machine washable for effortless maintenance."
+		},
+		{
+			"id": "9ccfa07c-018b-4e78-b776-4007d9b93d97",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9ccfa07c-018b-4e78-b776-4007d9b93d97",
+			"title": "Gildan Heavy Cotton\u2122 Toddler T-Shirt",
+			"styleCode": "5100P",
+			"material": null,
+			"description": "Gildan Heavy Cotton\u2122 Toddler T-Shirt",
+			"specifications": "Toddler Cotton T-Shirt"
+		},
+		{
+			"id": "9cd994cb-3078-45aa-9b7d-36cece560ebd",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9cd994cb-3078-45aa-9b7d-36cece560ebd",
+			"title": "Maxi Stainless Steel Cup",
+			"styleCode": "MC40",
+			"material": null,
+			"description": "A bright white double-walled stainless steel maxi cup with insulation and a secure screw-on lid complete with a straw for hassle-free, no spill sipping.",
+			"specifications": "Enjoy your favourite beverages in this high-quality, 40oz stainless steel maxi cup. Perfect for any hot or cold drink, it features a screw-on lid complete with a straw, that's ideal for everyday use."
+		},
+		{
+			"id": "9ce18bbf-beed-4ad5-8df9-f76b778e5938",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9ce18bbf-beed-4ad5-8df9-f76b778e5938",
+			"title": "Organic Cotton 6-Panel Dad Cap",
+			"styleCode": "B652N",
+			"material": null,
+			"description": "Add this nod to \u201890s nostalgia to your apparel collection for a slouchy silhouette that\u2019s easy to wear and effortless to style. The dad cap presents a universal laid-back look, designed for everybody, that returns as a trend, time and time again. 100% organic cotton means you can join us on our journey towards a more sustainable future.",
+			"specifications": "\"100% Organic cotton. Contains 100% OCS certified organically grown cotton, certified by Control Union CU811033. Low profile 6-panel design. Soft unstructured crown. Pre-curved peak. Self-fabric strap with tri-glide buckle.\n\nWashing Instructions\nSponge clean only."
+		}
+	],
+	"nextPageToken": 5
+}

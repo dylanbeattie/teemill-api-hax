@@ -1,0 +1,80 @@
+
+
+{
+	"gfnProductRef": "https://api.podos.io/v1/gfn/catalog/products/c623cbf7-6cd3-11ed-a9b4-4201c0a8a0e3",
+	"title": "Custom Product Black 4:3 #2",
+	"description": "A simple custom product",
+	"enabled": true,
+	"variants": [
+	  {
+		"attributes": [
+		  {
+			"name": "Size",
+			"value": "S"
+		  },
+		  {
+			"name": "Colour",
+			"value": "Black"
+		  }
+		],
+		"retailPrice": {
+		  "amount": 19,
+		  "currencyCode": "GBP"
+		},
+		"applications": [
+		  {
+			"technology": "dtg",
+			"placement": "front",
+			"src": "https://www.dropbox.com/scl/fi/vdx3q8nrm11iy9hpvf95x/totally-awesome-example-tshirt-design.png?rlkey=ds4lz4qvbr4zztbv6w1g42jvr&dl=1"
+		  }
+		]
+	  },
+	  {
+		"attributes": [
+		  {
+			"name": "Size",
+			"value": "M"
+		  },
+		  {
+			"name": "Colour",
+			"value": "Black"
+		  }
+		],
+		"retailPrice": {
+		  "amount": 19,
+		  "currencyCode": "GBP"
+		},
+		"applications": [
+		  {
+			"technology": "dtg",
+			"placement": "front",
+			"src": "https://www.dropbox.com/scl/fi/vdx3q8nrm11iy9hpvf95x/totally-awesome-example-tshirt-design.png?rlkey=ds4lz4qvbr4zztbv6w1g42jvr&dl=1"
+		  }
+		]
+	  },
+	  {
+		"attributes": [
+		  {
+			"name": "Size",
+			"value": "L"
+		  },
+		  {
+			"name": "Colour",
+			"value": "Black"
+		  }
+		],
+		"retailPrice": {
+		  "amount": 19,
+		  "currencyCode": "GBP"
+		},
+		"applications": [
+		  {
+			"technology": "dtg",
+			"placement": "front",
+			"src": "https://www.dropbox.com/scl/fi/vdx3q8nrm11iy9hpvf95x/totally-awesome-example-tshirt-design.png?rlkey=ds4lz4qvbr4zztbv6w1g42jvr&dl=1"
+		  }
+		]
+	  }
+	],
+	"applicationSets": [ ]
+  }

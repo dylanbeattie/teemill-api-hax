@@ -1,0 +1,905 @@
+{
+	"products": [
+		{
+			"id": "9ce1a2ca-249c-43ed-b6d3-2caf188e42fa",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9ce1a2ca-249c-43ed-b6d3-2caf188e42fa",
+			"title": "Premium AOP Tote Bag",
+			"styleCode": "PRTB_AOP",
+			"material": null,
+			"description": null,
+			"specifications": "Elevate your everyday style with our high-quality tote bag. Crafted for durability and convenience, it's perfect for carrying your essentials with ease. Featuring strong handles and ample storage space, it's ideal for both daily use and special occasions. Care instructions: Machine washable for effortless maintenance."
+		},
+		{
+			"id": "9ce38f6e-938a-4c50-afed-845025c45dc7",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9ce38f6e-938a-4c50-afed-845025c45dc7",
+			"title": "Bella + Canvas Unisex Jersey Long Sleeve Tee",
+			"styleCode": "3501",
+			"material": null,
+			"description": "This classic unisex Jersey t-shirt fits like a well-loved favourite, featuring a classic crew neck, long sleeves and superior combed and ringspun Jersey cotton that acts as a blank canvas for printing.",
+			"specifications": "100% Airlume combed and ringspun cotton. 145gsm. Side-seamed. Retail fit. Unisex sizing. Tear-away label. Pre-shrunk. Ribbed cuff. WRAP certified. Fair Labour certified.\n\nWashing Instructions\nMachine wash warm, inside out with like colours. Only non-chlorine bleach. Do not tumble dry. Do not iron decoration."
+		},
+		{
+			"id": "9ce3c9a5-532c-438f-b566-dd6088a81edf",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9ce3c9a5-532c-438f-b566-dd6088a81edf",
+			"title": "Awdis Heavyweight Signature Sweatshirt",
+			"styleCode": "JH123",
+			"material": null,
+			"description": "This unisex sweatshirt ensures maximum style with minimal effect. It will partner with anything and is a fuss-free style for every day. Made with a heavyweight premium cotton-rich fabric, it has an oversized, boxy fit, true to size, and features a crew neck, ribbed collar, cuffs and hem. A sweatshirt to keep you warm and comfortable.",
+			"specifications": "\"Oversized fit. Boxy shape. Heavyweight. Ribbed cuff, hem and collar. 100% cotton-faced fabric. Tear-away label. Crew neckline. Set-in sleeves. Brushed inner fleece.\n\nWashing Instructions\nWash at 30\u02daC or below. Do not bleach. Iron at low heat. Tumble dry at low heat. Do not dry clean.\""
+		},
+		{
+			"id": "9cf1c27f-04c8-488d-887e-3b030557042a",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9cf1c27f-04c8-488d-887e-3b030557042a",
+			"title": "Outdoor Cushion Square (white zip)",
+			"styleCode": "CSH_ODS2",
+			"material": null,
+			"description": "Back of cushion is white\nZip is on the side of the product\nWhite Zip                                                                                                                                                                                                   \nMade using Francisco Waterproof Canvas",
+			"specifications": "100% PU Coated Polyester"
+		},
+		{
+			"id": "9cf7b076-bda5-4439-a06b-43ed3a22ba64",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9cf7b076-bda5-4439-a06b-43ed3a22ba64",
+			"title": "Women's Stripe Heavyweight Long Sleeve T-Shirt",
+			"styleCode": "RNB81S",
+			"material": "Organic Cotton",
+			"description": "Ideal as a warmer layer, this heavyweight long sleeve tee offers comfort and warmth, whilst using the best organic cotton material. This style is slightly cropped to fall just below the waistline and complement any pair of trousers. \n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back when it's worn out.",
+			"specifications": "100% Organic Cotton, 230gsm. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "9d01cb4a-8a09-4dad-85ba-a0e70d62b68f",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d01cb4a-8a09-4dad-85ba-a0e70d62b68f",
+			"title": "Santa Hat",
+			"styleCode": "SNT_HAT",
+			"material": null,
+			"description": "Felt Christmas Santa Hat with fluffy bobble. Our Santa Hats are a comfortable, fairly loose fit for adults.",
+			"specifications": "As a guideline, circumferences vary between 58 - 60cm."
+		},
+		{
+			"id": "9d05d312-2d75-4e2d-ba4a-728a7213cdb7",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d05d312-2d75-4e2d-ba4a-728a7213cdb7",
+			"title": "Loot Goblin Box",
+			"styleCode": "RNKYOG17",
+			"material": "Not applicable",
+			"description": null,
+			"specifications": "Loot Goblin Box \n\nIncluded in the box will be a Limited Edition Yogscast Summer T-Shirt, Notebook, Beanie, a combo of Pins & Trinkets and a Sticker Set."
+		},
+		{
+			"id": "9d05fa29-eccb-4d67-8086-24997d57ce7b",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d05fa29-eccb-4d67-8086-24997d57ce7b",
+			"title": "Wraptious Cushion with Label, Velour, Square, Two Prints",
+			"styleCode": "CSH_WRS2",
+			"material": null,
+			"description": "Super soft 100% Polyester Velour Square Cushion with a removable cover with a hidden zip on the edge of the cushion. Design area left transparent will print white as per the base fabric colour. Suitable for all over sublimation printing.",
+			"specifications": "Experience the ultimate comfort with our soft and durable polyester cushion, perfect for adding a touch of personalized elegance to any space. This cushion features a high-quality, machine-washable cover for easy care and maintenance, ensuring long-lasting vibrancy in your home or office."
+		},
+		{
+			"id": "9d0bac8b-4c39-4915-84e6-8bf7c4ce276d",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d0bac8b-4c39-4915-84e6-8bf7c4ce276d",
+			"title": "Stanley Stella Mini Cruiser 2.0",
+			"styleCode": "STSK180-DRAFT",
+			"material": null,
+			"description": "The iconic kids' hoodie sweatshirt",
+			"specifications": "STSK180"
+		},
+		{
+			"id": "9d13f816-05a7-422d-a14f-87f7e5a12a2a",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d13f816-05a7-422d-a14f-87f7e5a12a2a",
+			"title": "Stanley Stella Shopping Bag STAU762",
+			"styleCode": "STAU762",
+			"material": null,
+			"description": "DESCRIPTION\nTop edge double folded for strength and clean finish\nSide soufflet\nLong handles with reinforced cross stitch\nSingle edge stitch on all seams in matching body colour thread",
+			"specifications": "STAU762"
+		},
+		{
+			"id": "9d1624bb-b15b-4a04-84f6-76015fbd7161",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d1624bb-b15b-4a04-84f6-76015fbd7161",
+			"title": "AS Colour Heavy T-shirt 5080",
+			"styleCode": "AS5080",
+			"material": null,
+			"description": "Get to know our AS Colour Heavy Tee, built to last with heavy weight 280 GSM 100% carded cotton. A boxy oversized fit with dropped shoulders, wide neck ribbing, side seams, shoulder to shoulder tape, and double needle hems ensure street-ready durability and comfort.",
+			"specifications": "5080"
+		},
+		{
+			"id": "9d1641a1-fc6e-4dbe-a117-48add9a0d3b3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d1641a1-fc6e-4dbe-a117-48add9a0d3b3",
+			"title": "Kids Mini Creator 2.0 12 to 13yr STTK184",
+			"styleCode": "STTK184b",
+			"material": null,
+			"description": null,
+			"specifications": "STTK184"
+		},
+		{
+			"id": "9d164897-818e-4b58-a6f7-bf64711e1781",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d164897-818e-4b58-a6f7-bf64711e1781",
+			"title": "QP Canvas, 3:2 Ratio, Landscape",
+			"styleCode": "QPC_3L",
+			"material": null,
+			"description": "Made from durable 100% polyester. Choose between horizontal or vertical orientation. Designed for indoor use. Includes black backing with built-in wall hanger.",
+			"specifications": "Elevate your space or give the gift of stunning art with our premium satin canvas prints. Expertly crafted, each piece is printed to the highest quality on durable 100% polyester canvas, offering a luxurious satin finish that enhances the beauty of your artwork.\nYour canvas comes pre-stretched around a sturdy 35mm frame, ready to hang with a sleek black backing and an integral hole for easy wall mounting. Available in a range of sizes, this canvas is perfect for any room or occasion."
+		},
+		{
+			"id": "9d17ed4b-d2b4-478e-a6ac-a64f1a0311d9",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d17ed4b-d2b4-478e-a6ac-a64f1a0311d9",
+			"title": "Phone Case",
+			"styleCode": "RNK60",
+			"material": "Not applicable",
+			"description": "This biodegradable phone case is the perfect accessory for keeping gadgets protected. It's durable and flexible with a rubber-like feel that absorbs impact, thanks to the PBAT material which is a composite made from a range of materials such as coffee grounds and wheat-straw, designed to decompose over time.",
+			"specifications": "Available for iPhone models 12 -16 inclusive of Pro \/ Pro Max models."
+		},
+		{
+			"id": "9d17f2f9-79c5-4b34-a310-44070297deff",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d17f2f9-79c5-4b34-a310-44070297deff",
+			"title": "Stainless Steel Bottle",
+			"styleCode": "RNK61",
+			"material": "Not applicable",
+			"description": "This stainless steel water bottle is an essential, practical gifting item perfect for \nelevating the everyday. It's durable, with double-walled insulation and a twist-off, leak-proof cap. Keeps cold drinks cold and warm drinks warm. ORCA sublimation coating for vibrant colour. 500ml capacity.",
+			"specifications": "Sublimation Application\nHigh-grade stainless steel double-wall construction\nInsulated for hot or cold liquids\n500ml"
+		},
+		{
+			"id": "9d17fb2f-f9de-46a9-aa29-76a47b33efeb",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d17fb2f-f9de-46a9-aa29-76a47b33efeb",
+			"title": "Piped Cushion Cover",
+			"styleCode": "W355",
+			"material": "100% cotton",
+			"description": "Elevate your homeware collection with this charming Fairtrade cushion cover. Two contrasting sides with a piped edge for a touch of luxury. Cushion not included. Made by Westford Mill.",
+			"specifications": "100% washed cotton canvas.\n40 x 40 cm\nFairtrade certified.\nConcealed zip.\nContrast piped edge.\nCushion not included."
+		},
+		{
+			"id": "9d17fe77-30a5-4493-a28d-0fddada04a43",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d17fe77-30a5-4493-a28d-0fddada04a43",
+			"title": "Cushion Cover",
+			"styleCode": "W350",
+			"material": "100% cotton",
+			"description": "This simple cushion cover is a canvas for your creativity and is Fairtrade-certified. Self-coloured concealed zip. Cushion not included. Made by Westford Mill.",
+			"specifications": "100% washed cotton canvas.\n40cms x 40cms \n305 gsm\nFairtrade certified.\nSelf colour concealed zip.\nCushion not included."
+		},
+		{
+			"id": "9d180197-571a-46a1-9bcd-85a4a0485a87",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d180197-571a-46a1-9bcd-85a4a0485a87",
+			"title": "Snapback Cap",
+			"styleCode": "6089OC",
+			"material": "98% organic cotton, 2% elastane",
+			"description": "This  6 panel cap features a popular snapback shape, with a reinforced flat visor, roomy crown, and easy-to-adjust plastic snapback closure. These details make for a versatile design thanks to the neat and easy look. The visor comes with an Authentic YUPOONG Snapback sticker. Eyelet details on each panel allow for breathability. Made by YUPOONG.",
+			"specifications": "DTF Application\n6 panel.\nHigh profile.\nStitched ventilation eyelets.\nStructured front panels.\nFlat peak."
+		},
+		{
+			"id": "9d18110d-fe79-475b-a3cf-e216f7d86945",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d18110d-fe79-475b-a3cf-e216f7d86945",
+			"title": "5 Panel Cap",
+			"styleCode": "B64N",
+			"material": "100% Organic Cotton",
+			"description": "This high-profile organic cotton cap with a soft, unstructured crown and flat peak delivers cool, retro vibes that can be styled for anything from skating around the city to camping in the wilderness. Eyelet details allow for breathability. Adjustable at the back with a metal closure. Made by Beechfield.",
+			"specifications": "DTF Application\n5 panel. 100% organic cotton.\nSoft unstructured crown.\nFlat peak.\nSelf fabric strap with tri-glide buckle.\nTear out label."
+		},
+		{
+			"id": "9d181a25-bf06-4a8f-b997-f8bc2f661d1a",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d181a25-bf06-4a8f-b997-f8bc2f661d1a",
+			"title": "Men's Active T-Shirt",
+			"styleCode": "JC201",
+			"material": "100% Recycled Polyester",
+			"description": "This recycled men's gym t-shirt is understated yet high-performing, allowing you to focus fully and unlock your potential while doing your bit for the environment. Made from recycled post-consumer plastic bottles by AWDis Just Cool.",
+			"specifications": "Neoteric\u2122 textured fabric with inherent wickability.\nUPF 30+ UV protection.\nRelaxed fit.\nSelf fabric collar.\nTaped neck.\nTwin needle stitching.\nTear out label."
+		},
+		{
+			"id": "9d1829e7-feb0-4307-92cc-699fe9cc4df1",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d1829e7-feb0-4307-92cc-699fe9cc4df1",
+			"title": "Women's Active T-Shirt",
+			"styleCode": "JC205",
+			"material": "100% Recycled Polyester",
+			"description": "This recycled women's gym t-shirt is understated yet high-performing, allowing you to focus fully and unlock your potential while doing your bit for the environment. Made from recycled post-consumer plastic bottles by AWDis Just Cool.",
+			"specifications": "Textured recycled fabric with inherent wickability.\nUPF 30+ UV protection.\nRelaxed fit.\nSelf fabric collar.\nTaped neck.\nTwin needle stitching."
+		},
+		{
+			"id": "9d1bcc54-0a6a-43b4-9d8b-b2c8a7aca7d4",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d1bcc54-0a6a-43b4-9d8b-b2c8a7aca7d4",
+			"title": "YP CLASSICS\u00ae PREMIUM CURVED VISOR SNAPBACK CAP",
+			"styleCode": "6789M",
+			"material": null,
+			"description": "Premium Curved Visor Snapback cap. The ubiquitous snapback shape with a slightly curved bill all wrapped in wool-blend fabric offer an easygoing yet premium look suitable for any occasion.\n\n\u2022 Classic snapback cap with premium wool blend\n\u2022 Hard buckram. Structured\n\u2022 Matching plastic snapback closure\n\u2022 Matching undervisor, 8-row stitching on visor",
+			"specifications": "Manufacturer Code : 7706\nFabric60% Cotton, 40% PolyesterSizeOne size"
+		},
+		{
+			"id": "9d1bcfd6-501a-4eea-974c-cdad95843528",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d1bcfd6-501a-4eea-974c-cdad95843528",
+			"title": "YP Classics\u00ae classic poplin golf cap (6002)",
+			"styleCode": "6002",
+			"material": null,
+			"description": "1\/5\u2033 thick braid on visor. Lightly structured. Matching plastic snap. Matching undervisor.\n\n\u2022 Classic golf cap with thick braid on visor\n\u2022 Lightly structured\n\u2022 Matching plastic snapback closure\n\u2022 Matching undervisor, 4-row stitching on visor",
+			"specifications": "60% Cotton \/ 40% Polyester\nProfile\nHigh\nVisor\nFlat\nPanels\n5\ncrown\n4\" High"
+		},
+		{
+			"id": "9d2468d2-bc34-4007-8afb-a7baacfaa8f8",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d2468d2-bc34-4007-8afb-a7baacfaa8f8",
+			"title": "Gaming Mat \/ Desk Mat",
+			"styleCode": "MAT_GAME",
+			"material": null,
+			"description": "Upgrade your gaming setup with our high-quality gaming mat, designed for precision and comfort. This gaming mat features a sleek, smooth polyester surface that ensures swift and accurate mouse movements, perfect for professional gamers and casual players alike. The durable rubber base keeps the mat securely in place, preventing any slips during intense gaming sessions. Whether you're into PC gaming, console gaming, or just need a stylish desk mat, this mat is an essential addition to your gear.\n\nPerfect for use with gaming mice, keyboards, and accessories, this non-slip gaming mat delivers a premium experience for any gamer looking for improved control and aesthetics. Get yours now and enhance your gaming performance today!",
+			"specifications": "Smooth Polyester Surface and Non-Slip Rubber"
+		},
+		{
+			"id": "9d287940-874f-4ec7-ac20-05313144f149",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d287940-874f-4ec7-ac20-05313144f149",
+			"title": "Unisex Organic Polo Shirt",
+			"styleCode": "PM430",
+			"material": "100% cotton",
+			"description": "This short-sleeved polo shirt with a collar and two buttons is 100% organic ringspun cotton piqu\u00e9. Get a great fit and a soft hand feel at an affordable price. Made by B and C Collection.",
+			"specifications": "100% Pre-shrunk Ringspun Organic or Organic In Conversion cotton\n170gsm\nOEKO TEX Certified\nBSCI Certified\nReach Compliant"
+		},
+		{
+			"id": "9d3e27da-5f5c-4280-8f52-590f7b741556",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d3e27da-5f5c-4280-8f52-590f7b741556",
+			"title": "Enamel Mug",
+			"styleCode": "RNK31",
+			"material": "100% Enamel",
+			"description": "A 10oz enamel camping mug with a stainless steel lip, perfect for every adventure.",
+			"specifications": "10oz Enamel Mug with Stainless Steel Lip\nDimensions: Height 8cm, Diameter 8.6 cm\nIndividually boxed.\nDue to the nature of Enamel, there may be bumps and blemishes.\nHand wash only\nNot suitable for microwaves"
+		},
+		{
+			"id": "9d3e30ff-cc75-4144-944f-ad2fd9fb3e6e",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d3e30ff-cc75-4144-944f-ad2fd9fb3e6e",
+			"title": "Organic Beach Bag",
+			"styleCode": "W690",
+			"material": "Certified Organic Cotton",
+			"description": "Made from 100% OCS-certified cotton, this reliable tote design benefits from premium, hardwearing fabric that is also eco-conscious. Signature contrast striped handles are available in a choice of colourways and are made from soft cotton webbing for optimum comfort. Can be carried by hand or worn over the shoulder thanks to its 56cm handle length. Made by Westford Mill.",
+			"specifications": "100% Organic cotton canvas 340gsm\n19 Litres\n36 x 36 x 16cm\nDTG Application"
+		},
+		{
+			"id": "9d3e3fea-58f1-4bb2-bb2c-c9081942fc5c",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d3e3fea-58f1-4bb2-bb2c-c9081942fc5c",
+			"title": "Organic Twill Tote Bag",
+			"styleCode": "W691",
+			"material": "Organic Cotton",
+			"description": "Made from 100% organic twill cotton, this conscious design is another step in the right, sustainable direction. A great choice for the eco-aware customer looking for a versatile bag to take everywhere and avoid single-use plastic. Made by Westford Mill.",
+			"specifications": "DTG Application \n100% Organic cotton twill 230gsm\n10 litres\n29 x 42 x 8cm"
+		},
+		{
+			"id": "9d3e55e6-8436-40a7-9159-aa84bb2aa299",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d3e55e6-8436-40a7-9159-aa84bb2aa299",
+			"title": "Baby Bandana Bib",
+			"styleCode": "BZ23",
+			"material": "100% Combed Organic Cotton",
+			"description": "This organic cotton bib is soft and absorbent so it won't irritate baby's sensitive skin. The adjustable nickel-free poppers make fastening super easy. Made by Babybugz.",
+			"specifications": "DTF Application\n100% Cotton Interlock. 200gsm\nOeko-Tex certified.  Organic 100 Content Standard certified.\n40 degree wash. Do not bleach. Do not tumble dry. Do not dry clean. Warm iron."
+		},
+		{
+			"id": "9d3e5fcc-eeca-4380-bd5c-1108fae1c251",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d3e5fcc-eeca-4380-bd5c-1108fae1c251",
+			"title": "Mini Recycled Roll Top Backpack",
+			"styleCode": "BG118S",
+			"material": "Recycled Polyester",
+			"description": "This 9-litre capacity mini backpack is compact yet spacious, with a signature roll-top closure that is both secure and stylish. The GRS-certified design is made from 100% recycled polyester, equivalent to approximately six post-consumer plastic bottles. The zippered front pocket is handy and adds decoration, plus there is an addition of an external bottle pocket on one side for easy access. Adjustable webbing shoulder straps give comfortable convenience, while the webbing carry handles not only add to its distinctive look but mean this can be worn on the back or carried by hand. Made by BagBase.",
+			"specifications": "DTF Application \nDimensions:\t32 x 23 x 11 cm\n100% Recycled 600D polyester \n9 Litres\nContains 100% GRS-certified recycled polyester, certified by Control Union CU811033. Recycled polyester, made from 100% rPET, equivalent to approximately 6 post-consumer bottles. Front pocket designed for easy decoration. External bottle pocket. Padded back panel. Roll-top closure. Webbing carry handles. Fully adjustable shoulder straps."
+		},
+		{
+			"id": "9d3e63e4-56e3-4362-8360-f200ce501238",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d3e63e4-56e3-4362-8360-f200ce501238",
+			"title": "Cross-Body Bag",
+			"styleCode": "BG875",
+			"material": "Recycled Polyester",
+			"description": "With water-repellent recycled fabric, this cross-body bag is great for minimalist styling. Two-way zipped opening for easy access. Zipped rear pocket and internal slip pocket. Fully adjustable waist strap. Made by BagBase.",
+			"specifications": "DTF Application\n100% Recycled 600D polyester\n1 litre\nContains 100% GRS certified recycled polyester, certified by Control Union CU811033"
+		},
+		{
+			"id": "9d3e66a4-13f9-4d47-88f5-e8f54a7dae2f",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d3e66a4-13f9-4d47-88f5-e8f54a7dae2f",
+			"title": "Organic Yoga Tote",
+			"styleCode": "W818",
+			"material": "Certified Organic Cotton",
+			"description": "Premium, heavyweight organic cotton fabric makes this a hardwearing bag. What makes it unique is the external sleeve for easy-access yoga mat storage. This bag can be carried by hand or over the shoulder. Fits most yoga mat sizes. Made by Westford Mill.",
+			"specifications": "DTF Application\n100% Organic cotton canvas 340gsm\nContains 100% OCS-certified organic cotton, certified by Control Union CU811033. \n27 Litres\n50 x 36 x 13cm"
+		},
+		{
+			"id": "9d3e6e15-44a9-4433-9267-05a433464485",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d3e6e15-44a9-4433-9267-05a433464485",
+			"title": "Organic Accessory Pouch",
+			"styleCode": "W830",
+			"material": "Certified Organic Cotton",
+			"description": "With premium heavyweight organic cotton canvas, these multipurpose accessory pouches, available in a variety of sizes, are ideal for storing all manner of essentials, stationery, cosmetics and more. Self-coloured zip closure. Made by Westford Mill.",
+			"specifications": "DTF Application\n100% Organic brushed cotton canvas 407gsm\nS - 0.5 Litres, 20 x 11.5cm\nM - 1 Litre, 22.5 x 16cm\nL - 2 Litres, 28 x 20cm\n\nSponge Clean Only"
+		},
+		{
+			"id": "9d3e8748-78f9-4638-94f1-9ab050cfe249",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d3e8748-78f9-4638-94f1-9ab050cfe249",
+			"title": "Organic Duffle Bag",
+			"styleCode": "W814",
+			"material": "Organic Cotton",
+			"description": "Premium heavyweight fabric. Zippered closure. Webbing carry handles.\nWith a versatile barrel shape, this organic cotton duffle is a great sustainable gym or weekend bag. Spacious, with zippered closure and contrasting webbing carry handles. Made by Westford Mill.",
+			"specifications": "DTF Application\n100% Organic cotton canvas\n20 Litres\n50 x 25 x 25cm\nSponge clean only"
+		},
+		{
+			"id": "9d3e948b-679d-4daa-ac9c-3a45920665f6",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d3e948b-679d-4daa-ac9c-3a45920665f6",
+			"title": "Unisex Full Zip Hoody",
+			"styleCode": "STSU179",
+			"material": "Certified Organic Cotton",
+			"description": "This iconic unisex zip-through hoodie sweatshirt has a modern, medium fit and a double self-fabric lined hood. Drawcords have closed-end metal tipping and metal eyelets. Made by Stanley\/Stella. Stanley\/Stella garments are not permitted to be sold blank\/without a design.",
+			"specifications": "100% GOTS Certified Organic Ringspun combed cotton brushed 350gsm \nWashing Instructions\nMachine wash, 30C. Wash similar colours together. No ironing on print. Wash and iron inside out. Do not tumble dry."
+		},
+		{
+			"id": "9d422f77-f398-4a59-bc35-d92a110eb417",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d422f77-f398-4a59-bc35-d92a110eb417",
+			"title": "Baseball Cap",
+			"styleCode": "BC054",
+			"material": "Organic Cotton",
+			"description": "This organic cotton 6-panel cap has a classic curved peak, a close fit and an adjustable strap secured with a metal closure. Stylish, breathable and ethically made, it's an essential accessory. Made by Beechfield.",
+			"specifications": "DTF Application \n100% Organic cotton 6-panel cap.\n Mid profile 6-panel design. Pre-curved peak. Self-fabric strap with tri-glide buckle.\nWashing Instructions\nWipe clean only"
+		},
+		{
+			"id": "9d423505-10b1-4f92-972c-d4a903430a4d",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d423505-10b1-4f92-972c-d4a903430a4d",
+			"title": "Tech Organiser & Travel Case",
+			"styleCode": "QD272",
+			"material": "Recycled 600D polyester",
+			"description": "This recycled tech organiser case keeps stationery and tech gadgets perfectly in order for both work and travel. Inside the zipped case, you'll find seven internal sections to keep chargers and cables neat and tidy. There is a further zipped pocket on the outside. It's also water-repellent to keep belongings safe. Made by Quadra.",
+			"specifications": "DTF Application\n100% Recycled 600D polyester\nWater repellent fabric\nZippered front pocket\nInternal zippered pocket\nTwo internal slip pockets\nInternal mesh pockets\nSelf-coloured zip pullers"
+		},
+		{
+			"id": "9d42385c-0b29-4bb2-9ecb-ceca8a3ee6fb",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d42385c-0b29-4bb2-9ecb-ceca8a3ee6fb",
+			"title": "Everyday Studio Bag",
+			"styleCode": "QS303",
+			"material": "Recycled 600D polyester",
+			"description": "This recycled oversized tote boasts multifunctional pockets, including a padded laptop compartment, making it a true everyday essential. It features generous side compartments for bottles with a cord adjuster for a snug fit. Made by Quadra.",
+			"specifications": "DTF Application\n100% Recycled Polyester \nTwo-way zippered opening for easy access\nInternal zippered pocket\nInternal laptop pocket fits up to 16\"\nExternal side pockets with cord adjuster\nZippered front pocket\nInternal slip pocket"
+		},
+		{
+			"id": "9d423b7a-cb58-48b9-bc09-0d0b03f9010a",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d423b7a-cb58-48b9-bc09-0d0b03f9010a",
+			"title": "Wash Bag",
+			"styleCode": "BG277",
+			"material": "Recycled 600D polyester",
+			"description": "Based on a classic wash bag design with a roomy interior and convenient grab handle, this recycled and PVC-free accessory has an easy-access zippered main compartment, as well as internal pockets for organisation. The design is made from 100% GRS-certified recycled polyester, equivalent to approximately 4 post-consumer plastic bottles. Made by BagBase.",
+			"specifications": "DTF Application.\nMade from 100% GRS certified recycled polyester, equivalent to approximately 4 post-consumer plastic bottles.\nZippered main compartment\nInternal pockets\nWipe clean interior\nMulti-purpose use\nGrab handle"
+		},
+		{
+			"id": "9d425503-cb77-4af2-b076-e4527a60db44",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d425503-cb77-4af2-b076-e4527a60db44",
+			"title": "Ultra Heavy Oversized T-Shirt",
+			"styleCode": "BY163",
+			"material": "100% cotton",
+			"description": "An edgy tee that satisfies with its wide, oversize fit and heavy cotton fabric. The overlapping shoulders section and classic crew neck round off the urban style.",
+			"specifications": "100% Cotton 300gsm"
+		},
+		{
+			"id": "9d426654-8f45-43db-87a5-7720f16eb169",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d426654-8f45-43db-87a5-7720f16eb169",
+			"title": "Baby Sleepsuit",
+			"styleCode": "LW650",
+			"material": "Certified Organic Cotton",
+			"description": "This super-soft organic cotton sleepsuit has hidden YKK poppers in the inseam and on the shoulder as well as soft set-in feet. Made by Larkwood.",
+			"specifications": "DTG Application\n100% Organic Cotton 160gsm \nBSCI certified. SEDEX certified.\nWashing Instructions\n40 degrees Cotton wash. Do Not Bleach. Do Not Tumble Dry. 2 Dot Iron. Do not Dry Clean. Wash Dark Colours Separately. Don\u2019t Iron directly onto motif If decorated."
+		},
+		{
+			"id": "9d43fe69-5f06-423d-abcf-c4987d841c82",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d43fe69-5f06-423d-abcf-c4987d841c82",
+			"title": "Baby Organic Cotton Dungarees",
+			"styleCode": "LW651",
+			"material": "100% Combed Organic Cotton",
+			"description": "Ready for rough and tumble playtime, these cotton dungarees are hard-wearing with fashionable horn-button shoulder fastening and a kangaroo pocket. Featuring rolled and stitched leg hems with integral poppers around the inseam. Made in 100% organic cotton, they are naturally sourced and responsibly made. Made by Larkwood.",
+			"specifications": "100% Organic cotton 200gsm \nBSCI certified. Oeko-Tex certified. SEDEX certified.\n\nWashing Instructions\nWash at 40\u00b0. Do not bleach. Do not tumble dry. Iron on 2 dot. Do not dry clean. Iron on reverse. Wash dark colours separately."
+		},
+		{
+			"id": "9d4408e5-f7ac-4b26-b129-bd63f8e2e74d",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d4408e5-f7ac-4b26-b129-bd63f8e2e74d",
+			"title": "Kids Apron",
+			"styleCode": "W362",
+			"material": "Certified Organic Cotton",
+			"description": "This Fairtrade-certified kids' apron is great for all manner of messy adventures. The neck tie has a Rip-Strip\u2122 fastening safety closure and the waist ties measure 60cm. Made by Westford Mill.",
+			"specifications": "100% Cotton drill - 270gsm 100g Fairtrade certified. 60cm waist ties. Dimensions\n45 x 60cm\n\nDimensions\n45 x 60cm\nEmbroidery\n22 Tubular hoop"
+		},
+		{
+			"id": "9d441d52-e088-477f-b818-dc54875ed4fd",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d441d52-e088-477f-b818-dc54875ed4fd",
+			"title": "Next Level Apparel Unisex CVC Crew Neck T-Shirt",
+			"styleCode": "NX6210",
+			"material": null,
+			"description": "Next Level Apparel Unisex CVC Crew Neck T-Shirt",
+			"specifications": "Material:\t60% ringspun combed cotton\/40% polyester.\nWeight:\t145 gsm\n1x1 baby ribbed collar.\nTaped neck and shoulders.\nSide seams.\nTwin needle sleeves and hem.\nTear out label."
+		},
+		{
+			"id": "9d4435af-f61a-48dd-94f6-2a0866ad8533",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d4435af-f61a-48dd-94f6-2a0866ad8533",
+			"title": "Stella Alma- Women's Oversized Sweatshirt",
+			"styleCode": "STSW212",
+			"material": "Certified Organic Cotton",
+			"description": "A classic women's crew neck sweatshirt, designed to fit and flatter all female body types thanks to its dropped shoulders and adjusted length. With a contemporary, urban vibe, this versatile organic cotton crew neck sweat is ideal for creating custom sweatshirts for style-conscious women. Crafted from 100% 300gsm organic cotton and brushed on the inside for a soft feel. Made by Stanley\/Stella. Stanley\/Stella garments are not permitted to be sold blank\/without a design.",
+			"specifications": "100% Organic combed ringspun cotton 300gsm\nWashing Instructions\nMachine wash 30\u00b0C. Do not bleach. Iron 110\u00b0C. Do not tumble dry. Do not dry clean."
+		},
+		{
+			"id": "9d4446f5-28b4-4808-bc94-266183e8be4a",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d4446f5-28b4-4808-bc94-266183e8be4a",
+			"title": "Stella Ida- Women's Zip-thru Hoodie",
+			"styleCode": "STSW214",
+			"material": "Certified Organic Cotton",
+			"description": "A women's zip-through hoodie sweatshirt, offering a contemporary look that's sporty yet feminine. Its dropped shoulders, embroidered eyelets and finer drawcords give this blank women's zip-thru hoodie sweatshirt a more refined look than its unisex counterparts. The length is also adjusted to perfectly suit women's bodies. Crafted from 300gsm 100% organic cotton. Made by Stanley\/Stella. Stanley\/Stella garments are not permitted to be sold blank\/without a design.",
+			"specifications": "100% Organic combed ringspun cotton 300gsm\n Dropped shoulders. Double-layered hood in self-fabric. Flat drawcord in matching body colour. Embroidered eyelet.\nWashing Instructions\nMachine wash 30\u00b0C. Do not bleach. Iron 110\u00b0C. Do not tumble dry. Do not dry clean."
+		},
+		{
+			"id": "9d446ae7-bd28-4432-96dc-c8dc82e0ef8f",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d446ae7-bd28-4432-96dc-c8dc82e0ef8f",
+			"title": "Unisex Ledger Heavy Dry Sweatshirt",
+			"styleCode": "STSU798",
+			"material": "Certified Organic Cotton",
+			"description": "This oversized heavyweight sweatshirt has a ribbed neck collar and self-fabric half-moon at the back. Made by Stanley\/Stella. Stanley\/Stella garments are not permitted to be sold blank\/without a design.",
+			"specifications": "100% Organic carded cotton, French terry dry hand-feel 400gsm \nWashing Instructions: Wash at 30 degrees. Do not tumble dry. Wash similar colours together. Do not iron on print. Wash and iron inside out."
+		},
+		{
+			"id": "9d462cfa-1de3-4b96-9341-00858b641d63",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d462cfa-1de3-4b96-9341-00858b641d63",
+			"title": "Unisex Waker Shorts",
+			"styleCode": "STBU070",
+			"material": "Certified Organic Cotton",
+			"description": "Design these unisex lightweight shorts, featuring a self-fabric elastic waistband. You'll find hidden flat drawcords on the inside of the waistband for a clean look, plus pockets at the front and patch pockets at the back. Made by Stanley\/Stella. Stanley\/Stella garments are not permitted to be sold blank\/without a design.",
+			"specifications": "100% Organic ringspun combed cotton, fabric washed 240gsm\nWashing Instructions\nWash at 30 degrees. Do not tumble dry. Wash similar colours together. No ironing on print. Wash and iron inside out."
+		},
+		{
+			"id": "9d463e47-8ed5-41f0-a9be-d258c62e2ae0",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d463e47-8ed5-41f0-a9be-d258c62e2ae0",
+			"title": "Commuter Multifunctional Rain Jacket",
+			"styleCode": "STJU846",
+			"material": "100% Recycled Polyester",
+			"description": "This is a light, multifunctional jacket with innovative detailing \u2013 easy to wear on any outdoor activity, featuring two pockets, a hood and a waterproof design made from recycled polyester. Made by Stanley\/Stella. Stanley\/Stella garments are not permitted to be sold blank\/without a design.",
+			"specifications": "-Medium Fit\n-Set-in sleeve\n-Longer back length with curved hem for protection\n-Bottom hem with adjustable plastic stopper and elastic cord\n-Sealed hood visor and sealed welt pockets\n-Double layered hood with adjustable plastic stopper and elastic cord on inside\n-Reverse nylon zip at center front with chin guard\n-Zipped welt pockets with extra grosgrain puller\n-Side panels for better shape\n-Semi-elastic sleeve cuff\n-Self fabric half moon at back neck\n-Inside zip opening at bottom hem and wearer's left chest for easy decoration"
+		},
+		{
+			"id": "9d464716-613b-443c-a888-802c35591c36",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d464716-613b-443c-a888-802c35591c36",
+			"title": "Stanley Voyager Puffer Jacket",
+			"styleCode": "STJM837",
+			"material": "100% Recycled Polyester",
+			"description": "This recycled puffer jacket has a removable hood with hidden matte metal snaps to create different looks easily. The hood opening and bottom hem have an adjustable stopper and elastic cord. The design is fully quilted, featuring two pockets. Made by Stanley\/Stella",
+			"specifications": "Fabric Shell: 100% Recycled polyester plain weave. Padding: 100% Recycled polyester. Lining: 100% Recycled polyester plain weave. Outer and lining: 75gsm. Padding: 175gsm Wash at 30\u00b0C. Do not bleach. Do not iron."
+		},
+		{
+			"id": "9d46511d-4dbe-4065-a5c6-e0bab522d510",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d46511d-4dbe-4065-a5c6-e0bab522d510",
+			"title": "Coacher Rainproof Shacket",
+			"styleCode": "STJU833",
+			"material": "100% Recycled Polyester",
+			"description": "This simple rainproof jacket gives a minimalist silhouette featuring a collar, high-quality metal snaps and pockets. It has matching round drawcords at the bottom hem with metal tipping for adjustable style. The sleeve cuffs are semi-elastic and you'll find a handy pocket on the inside for keeping valuables safe. Made by Stanley\/Stella. Stanley\/Stella garments are not permitted to be sold blank\/without a design.",
+			"specifications": "100% Recycled polyester plain wave. Lining: 100% Recycled polyester mesh 75gsm \nWashing Instructions\nDo not tumble dry. Wash at 30\u00b0C. Do not bleach. Do not iron."
+		},
+		{
+			"id": "9d465ceb-4f71-42c6-a4a9-bdbcb88018da",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d465ceb-4f71-42c6-a4a9-bdbcb88018da",
+			"title": "Unisex Miller Dry 1\/4 Zip Sweatshirt",
+			"styleCode": "STSU795",
+			"material": "French Terry, 100% Cotton - Organic Carded, Dry Handfeel",
+			"description": "This unisex boxy quarter zip sweatshirt has a high neck and relaxed fit. It's made from organic cotton for style and sustainability. Made by Stanley\/Stella. Stanley\/Stella garments are not permitted to be sold blank\/without a design.",
+			"specifications": "DTF Application. 100% Organic carded cotton, French terry dry hand feel 400gsm Wash at 30 degrees. Do not tumble dry. Wash similar colours together. Do not iron on print. Wash and iron inside out. Close zip before washing."
+		},
+		{
+			"id": "9d4682dc-3040-4993-abe4-8e5efcd958d9",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d4682dc-3040-4993-abe4-8e5efcd958d9",
+			"title": "Trekker Unisex Fleece",
+			"styleCode": "STJU242",
+			"material": "100% Recycled Polyester",
+			"description": "This cosy 300gsm unisex fleece is made from recycled polyester with an anti-pill finish and is a modern fit. The top section features a softshell insert, whilst the bottom half and sleeves are made of soft fleece material. The inside is a warm fleece with internal pockets. Zipped pockets on the outside keep belongings safe whilst also keeping your hands warm thanks to a fleece lining. Made by Stanley\/Stella. Stanley\/Stella garments are not permitted to be sold blank\/without a design.",
+			"specifications": "100% Recycled polyester 300gsm\nWashing Instructions\nMachine wash 30\u00b0C. Do not bleach. Iron 110\u00b0C. Do not tumble dry. Do not dry clean."
+		},
+		{
+			"id": "9d4c94df-8c24-43c4-acbc-9aa668331298",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d4c94df-8c24-43c4-acbc-9aa668331298",
+			"title": "Fair Isle snowstar\u00ae beanie",
+			"styleCode": "BC456",
+			"material": null,
+			"description": "Fabric 100% Soft-spun acrylic. Weight90g. Size One size",
+			"specifications": "Timeless Fair Isle pattern. Classic styling. Cuffed design for optimal decoration. BSCI certified. Reach certified."
+		},
+		{
+			"id": "9d4cb0c6-a7a7-445c-bd23-11c2c5dcaab5",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d4cb0c6-a7a7-445c-bd23-11c2c5dcaab5",
+			"title": "Multi-sport fan beanie",
+			"styleCode": "B474R",
+			"material": null,
+			"description": "Manufacturer Code : B474R\nFabric100% Recycled polyesterWeight127gSizeOne size",
+			"specifications": "Celebrate team spirit with pride in this statement striped beanie, whether its for training or cheering on from the sidelines. Each vibrant, multi-stripe design stands out in the crowd, enhanced by a playful self-coloured pom pom. A double-layer knit, oversized cuff and soft microfleece lining deliver maximum comfort and optimum warmth. Contains certified recycled polyester."
+		},
+		{
+			"id": "9d4cc235-37de-4eb7-931e-bca0d11e0b51",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d4cc235-37de-4eb7-931e-bca0d11e0b51",
+			"title": "Freestyler Long Sleeve",
+			"styleCode": "STTU200",
+			"material": "Certified Organic Cotton",
+			"description": "This modernised unisex heavy t-shirt, in a relaxed fit, is created in 100% organic cotton. Its loose knit fabric offers comfort and sustainability. Made by Stanley\/Stella.",
+			"specifications": "DTF Application. 100% Organic combed ringspun cotton 240gsm . Washing Instructions\nMachine wash 30\u00b0C. Do not bleach. Iron 110\u00b0C. Do not tumble dry. Do not dry clean."
+		},
+		{
+			"id": "9d4e0f81-f72b-4ea5-89a9-8a825e9b07f3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d4e0f81-f72b-4ea5-89a9-8a825e9b07f3",
+			"title": "Striped Fan Beanie",
+			"styleCode": "B473R",
+			"material": null,
+			"description": "Manufacturer Code : B473R\nFabric50% Recycled polyester, 50% AcrylicWeight110gSizeOne size",
+			"specifications": "Bring this hat to life with the logo and colours of any team. The Striped fan beanie comes in a variety of colour combinations, topped with a matching decorative pom pom. It has an engineered crown for a snug fit and a ribbed cuff that can be adjusted for ultimate comfort. Style with a scarf and gloves for those chilly stadium days."
+		},
+		{
+			"id": "9d4e1a07-9d01-4bf7-bfbf-67aefef7e11c",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d4e1a07-9d01-4bf7-bfbf-67aefef7e11c",
+			"title": "Recycled waistpack",
+			"styleCode": "BG282",
+			"material": null,
+			"description": "Fabric100% Recycled 600D polyesterWeight100gSizeOne size",
+			"specifications": "TearAway label for ease of rebranding. Large main compartment. Cord zip pullers with reflective detailing. Zippered rear pocket. Adjustable webbing belt. Reach certified."
+		},
+		{
+			"id": "9d4e308e-0f87-4174-b39d-ec84db040e9e",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d4e308e-0f87-4174-b39d-ec84db040e9e",
+			"title": "TriDri recycled long sleeve brushed back \u00bc zip top",
+			"styleCode": "TR111",
+			"material": null,
+			"description": "Fabric93% Recycled polyester, 7% ElastaneWeight190gsmSizeS 34\" M 38\" L 42\" XL 46\" 2XL 49\" 3XL 52\"",
+			"specifications": "The TriDri recycled brushed back \u00bc zip is a style inspired by the original TR120. Coming in at a heavier weight of 190gsm, this luxurious brushed inner, recycled polyester\/elastane fabric option ticks every box. Still breathable and sweat-wicking, it\u2019s a great layering option for walks or the gym."
+		},
+		{
+			"id": "9d4e396f-88a8-4db4-81c0-c2527f06fdb9",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d4e396f-88a8-4db4-81c0-c2527f06fdb9",
+			"title": "Women\u2019s TriDri recycled long sleeve brushed back \u00bc zip top",
+			"styleCode": "TR121",
+			"material": null,
+			"description": "Fabric93% Recycled polyester, 7% ElastaneWeight190gsmSizeXS 8 S 10 M 12 L 14 XL 16",
+			"specifications": "The women\u2019s TriDri\u00ae recycled brushed back \u00bc zip is a style inspired by the original. Coming in at a heavier weight of 190gsm, this luxurious brushed inner, recycled polyester\/elastane fabric option ticks every box. Still breathable and sweat wicking, it\u2019s a great layering option for walks or the gym."
+		},
+		{
+			"id": "9d4e548a-0e71-4b86-99c2-1a09071761db",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d4e548a-0e71-4b86-99c2-1a09071761db",
+			"title": "Recycled Twin handle Roll-Top Backpack",
+			"styleCode": "BG118",
+			"material": "Recycled 600D polyester",
+			"description": "This 14L recycled backpack is a great size for work or play, with a signature roll-top closure that is both secure and stylish. The GRS-certified design is made from 100% recycled polyester. The zippered front pocket is handy and adds decoration. Adjustable padded shoulder straps and a padded back panel give comfortable convenience, while the webbing carry handles not only add to its distinctive look but mean this can be worn on the back or carried by hand. Made by BagBase.",
+			"specifications": "DTF Application\nDimensions:\t38 x 28 x 12 cm\nRoll-top closure. \nFront pocket organiser section. \nWebbing carry handles. \nZippered internal pocket. \nPadded back panel. \nPadded adjustable shoulder straps.\n BSCI certified. Reach certified."
+		},
+		{
+			"id": "9d4e6d7d-6d44-4304-ad3c-e54f299d22f5",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d4e6d7d-6d44-4304-ad3c-e54f299d22f5",
+			"title": "Q-Tech charge convertible backpack",
+			"styleCode": "QD990",
+			"material": null,
+			"description": "Fabric650D PolyesterWeight680gSizeOne size",
+			"specifications": "TearAway label for ease of rebranding. Padded laptop compartment, compatible up to 15.6\". Padded internal iPad \/ Tablet compartment. Discrete zippered back panel pocket. Front pocket organiser section Power bank pocket. Integrated USB charging port. Zippered internal valuables pocket. Can be carried by hand or backpack style. Zippered front pocket. Ergonomic padded back panel. Padded adjustable shoulder straps. Reach certified."
+		},
+		{
+			"id": "9d4e75f8-83ba-4862-9961-2deaf54eca55",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d4e75f8-83ba-4862-9961-2deaf54eca55",
+			"title": "Smock Jacket",
+			"styleCode": "RNA27T",
+			"material": "Water Resistant Organic Cotton",
+			"description": null,
+			"specifications": "Certified Organic Cotton Canvas Smock Jacket with PFC-free water resistant coating, 195g\/m2. Metal YKK Zip and Organic Cotton Knotted Toggles. Hand wash only. GM free. Not tested on animals. Does not contain animal-derived products. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "9d4e7dea-ecbe-496a-9065-0d460e3d1e52",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d4e7dea-ecbe-496a-9065-0d460e3d1e52",
+			"title": "Full Zip Jacket",
+			"styleCode": "RNA28T",
+			"material": "Water Resistant Organic Cotton",
+			"description": null,
+			"specifications": "Certified Organic Cotton Canvas Full Zip Jacket with PFC-free water resistant coating, 195g\/m2. Metal YKK Zip and Organic Cotton Knotted Toggles. Hand wash only. GM free. Not tested on animals. Does not contain animal-derived products. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "9d4e983b-042d-4c67-8012-20e2167a2a99",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d4e983b-042d-4c67-8012-20e2167a2a99",
+			"title": "Classic woven scarf",
+			"styleCode": "BC500",
+			"material": null,
+			"description": "Fabric100% AcrylicWeight170gSizeOne size",
+			"specifications": "An autumnal staple, the classic woven scarf utilises a luxury soft-touch yarn fabric and oversized styling to provide the perfect wrap-around option for winter excursions. Created with a tassel trim detail and TearAway adhesive fabric label, the classic woven scarf is a sophisticated choice available in a range of rich, contemporary colourways."
+		},
+		{
+			"id": "9d50227b-6e32-46a1-b3b6-574fe0a1f72a",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d50227b-6e32-46a1-b3b6-574fe0a1f72a",
+			"title": "Freestyler Vintage Unisex Washed T-shirt",
+			"styleCode": "STTU073",
+			"material": "Certified Organic Cotton",
+			"description": "This on-trend premium unisex heavy t-shirt is a great choice for merch. It's made from 100% organic cotton and has a relaxed fit. You'll find slight shading on the seams to give a washed look. Each garment may vary in appearance. Made by Stanley\/Stella. Stanley\/Stella garments are not permitted to be sold blank\/without a design.",
+			"specifications": "DTG Application 240gsm 100% Organic Combed Ringspun Cotton\n-Garment dyed product, each garment may vary in appearance, colour may bleed, follow our care label."
+		},
+		{
+			"id": "9d5034da-93d5-496a-85c2-7eb5dac29d42",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d5034da-93d5-496a-85c2-7eb5dac29d42",
+			"title": "Unisex Matcher Vintage Sweatshirt",
+			"styleCode": "STSU085",
+			"material": "Certified Organic Cotton",
+			"description": "This is a vintage-style sweatshirt with a unisex fit. Medium fit with a ribbed colour, sleeve hem and bottom hem. Slight shading on the seams to give a washed look. Each garment may vary in appearance. Made by Stanley\/Stella. Stanley\/Stella garments are not permitted to be sold blank\/without a design.",
+			"specifications": "100% Organic ringspun combed cotton, garment-dyed. 300gsm. Wash at 30 degrees. Do not tumble dry. Wash and dry separately \u2013 colour bleeds. Do not iron on print. Wash and iron inside out. This is a garment-dyed item. Each garment may vary in appearance. Faded effect will become stronger over time. Colour may transfer by rubbing onto light-coloured materials. Use mild detergent which contains no bleach."
+		},
+		{
+			"id": "9d5043fe-0380-42c0-8576-2dbd8c3be1e5",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d5043fe-0380-42c0-8576-2dbd8c3be1e5",
+			"title": "Stanley Stella Mixer Zipped Hoodie",
+			"styleCode": "STSU205",
+			"material": null,
+			"description": "Manufacturer Code : STSU205\nFabric85% Organic cotton, 15% Recycled polyesterWeight280gsmSizeXXS 32\/34\" XS 34\/36\" S 36\/38\" M 38\/40\" L 41\/43\" XL 43\/45\" 2XL 46\/47\" 3XL 48\/50\" 4XL* 51\/54\" 5XL* 55\/58\"\n*4XL-5XL only available in these colours",
+			"specifications": "Set-in sleeves. Self-fabric lined hood. Flat drawcords in matching body colour. Embroidered buttonhole eyelets. 1x1 rib at sleeve cuffs and bottom hem. Kangaroo pocket with flatlock stitches. Exposed metal zip at centre front. Three-needle flatlock stitches on all seams. Herringbone tape at the inside back neck seam and inside of the zip. Self-fabric half moon at the back neck."
+		},
+		{
+			"id": "9d5055c7-cf2d-4c2b-97d2-cb0b32826e93",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d5055c7-cf2d-4c2b-97d2-cb0b32826e93",
+			"title": "Unisex Crafter Iconic T-shirt",
+			"styleCode": "STTU170",
+			"material": "Certified Organic Cotton",
+			"description": "The classic tee, this medium-weight style has a regular fit. Featuring a wide colour palette to choose from, this 100% organic cotton tee is a staple. Made by Stanley\/Stella. Stanley\/Stella garments are not permitted to be sold blank\/without a design.",
+			"specifications": "100% Organic ringspun combed cotton single Jersey 155gsm. Washing Instructions\nMachine wash, 30C. Wash similar colours together. No ironing on print. Wash and iron inside out. Do not tumble dry."
+		},
+		{
+			"id": "9d505b96-9e53-4c28-89c9-ad597d625e5d",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d505b96-9e53-4c28-89c9-ad597d625e5d",
+			"title": "Bamboo Magnet",
+			"styleCode": "RNK62",
+			"material": "100% Natural Bamboo",
+			"description": "This 4mm, thick, bamboo rectangular fridge magnet is a great sustainable option.",
+			"specifications": "Rectangle Bamboo Fridge Magnet\nCrafted from sustainable bamboo materials.\n75x50x4mm"
+		},
+		{
+			"id": "9d543774-0a3f-46a7-a92f-bb3d521917e2",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d543774-0a3f-46a7-a92f-bb3d521917e2",
+			"title": "Blank Unisex PJ Top",
+			"styleCode": "T6_0879",
+			"material": null,
+			"description": "Kids 100% cotton  PJ Top. Long Sleeve. Made in Egypt",
+			"specifications": "Kids 100% cotton  PJ Top. Long Sleeve. Made in Egypt"
+		},
+		{
+			"id": "9d595d86-d019-442c-9ee1-e40ae0b11397",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d595d86-d019-442c-9ee1-e40ae0b11397",
+			"title": "Quick Pro Canvas, 3:2 Ratio, Landscape",
+			"styleCode": "QPC_3:2L",
+			"material": null,
+			"description": "Made from durable 100% polyester\nAvailable in 8 different sizes\nChoose between horizontal or vertical orientation\nDesigned for indoor use\nIncludes black backing with built-in wall hanger",
+			"specifications": "Elevate your space or give the gift of stunning art with our premium satin canvas prints. Expertly crafted, each piece is printed to the highest quality on durable 100% polyester canvas, offering a luxurious satin finish that enhances the beauty of your artwork.\n\nYour canvas comes pre-stretched around a sturdy 35mm frame, ready to hang with a sleek black backing and an integral hole for easy wall mounting. Available in a range of sizes from 8\"x12\" to 36\"x24\", this canvas is perfect for any room or occasion. Whether for your home, office, or as a thoughtful gift, it\u2019s sure to impress."
+		},
+		{
+			"id": "9d5a93c4-7e33-48e1-8791-7640a5ef9668",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d5a93c4-7e33-48e1-8791-7640a5ef9668",
+			"title": "Corkscrew pom pom beanie",
+			"styleCode": "BC486",
+			"material": null,
+			"description": "Fabric 100% Soft-spun acrylic Weight145g SizeOne size",
+			"specifications": "TearAway label for ease of rebranding. Cuffed design for optimal decoration. Heavyweight multi yarn cable knit design. Luxurious shearling thermal band for extra warmth. Luxury pom pom. Bold four colour stripe design. BSCI certified. Reach certified."
+		},
+		{
+			"id": "9d5aa4f4-4c5a-42c6-a252-34c0884aaca2",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d5aa4f4-4c5a-42c6-a252-34c0884aaca2",
+			"title": "Softstyle\u2122 midweight fleece youth hoodie",
+			"styleCode": "SF500B",
+			"material": null,
+			"description": "Manufacturer Code : SF500B\nFabric80% Ringspun Cotton, 20% PolyesterWeight285gsm. White: 278gsmSizeXS 3\/4(32\") S 5\/6(34\") M 7\/8(36\") L 9\/11(38\") XL 12\/13(40\")",
+			"specifications": "Made with a soft ringspun cotton blend, the Softstyle\u2122 midweight fleece youth hoodie features a cosy, brushed interior with a 100% cotton face, ideal for DTG printing. Two-end ringspun cotton-face fleece. Two-piece, colour-matched, Jersey fabric-lined hood, no drawcord. Dropped shoulder. Pouch pocket. 1x1 rib with elastene cuffs and bottom band for enhanced stretch and recovery. Classic fit, tubular body. High-performing black tear-away label. CPSIA label tracking compliant."
+		},
+		{
+			"id": "9d60c64b-2d36-4d57-8f1a-3d652d1d1a15",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d60c64b-2d36-4d57-8f1a-3d652d1d1a15",
+			"title": "Native Spirit Unisex T-Shirt",
+			"styleCode": "NS300",
+			"material": null,
+			"description": "Material:\t100% organic ringspun combed cotton.\nWeight:\t155 gsm",
+			"specifications": "Special order items are strictly non-returnable. Lead times vary.\nClassic fit.\n1x1 ribbed collar.\nJersey taped neck.\nSide seams.\nTwin needle sleeves and hem.\nTag free."
+		},
+		{
+			"id": "9d62d69e-c352-495a-85e5-3eb48053df96",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d62d69e-c352-495a-85e5-3eb48053df96",
+			"title": "Universal backpack",
+			"styleCode": "BG212",
+			"material": null,
+			"description": "Fabric600D PolyesterWeight440gSizeOne size",
+			"specifications": "Padded adjustable shoulder straps. Zippered top pocket. Internal organiser section. Padded back panel. Side mesh pocket. Grab handle. Large internal pocket. Reach certified.\n\nBag Capacity\n18 Litres\nDimensions\n42 x 30 x 20cm\nEmbroidery\n15 Flat bed\nPrint Area\n18 x 18cm\nWashing Instructions\nSponge clean only"
+		},
+		{
+			"id": "9d6a5f4e-b098-4ad1-a163-3ffd2628eb7c",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d6a5f4e-b098-4ad1-a163-3ffd2628eb7c",
+			"title": "NJ Essential Unisex Tee",
+			"styleCode": "GD1493",
+			"material": null,
+			"description": "Introducing our Essential Unisex T-Shirt, a must-have staple for every wardrobe! Crafted from premium soft cotton, this tee offers unbeatable comfort and breathability. Elevate your everyday style with this modern-day essential.",
+			"specifications": "160gm"
+		},
+		{
+			"id": "9d6c5f50-9071-4d61-a944-579b216c7a4f",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d6c5f50-9071-4d61-a944-579b216c7a4f",
+			"title": "All-weather robe",
+			"styleCode": "LV690",
+			"material": null,
+			"description": "The ultimate team robe is made in a water-resistant fabric with a cosy sherpa fleece lining and three-piece hood. One size fits all, the roomy fit with double-ended full front zip allows wearers to keep warm and get changed underneath the robe. Perfect for wild swimming or wearing on team sidelines. Zipped pockets with fleece lining keep hands warm with multiple inner pockets for keeping belongings safe. Topped off with a large embroidery zip for access to directly decorate.",
+			"specifications": "FabricOuter: 100% Nylon. Lining: 100% PolyesterWeightOuter: 130gsm. Lining: 280gsmSizeOne size"
+		},
+		{
+			"id": "9d6e8a9f-60ac-4ad8-8989-40e95c647a55",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d6e8a9f-60ac-4ad8-8989-40e95c647a55",
+			"title": "Stadium Scarf",
+			"styleCode": "BC479",
+			"material": null,
+			"description": "Luxurious double layer knit. Classic colour combinations. Tassel trim. BSCI certified. Reach certified.",
+			"specifications": "182 x 18cm. Fabric100% Soft-touch acrylicWeight170gSizeOne size"
+		},
+		{
+			"id": "9d6ecd83-d4a0-48d9-a1c2-d02c4ac12bab",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d6ecd83-d4a0-48d9-a1c2-d02c4ac12bab",
+			"title": "Women's TriDri sherpa \u00bc-zip hoodie",
+			"styleCode": "TR089",
+			"material": null,
+			"description": "Fabric100% PolyesterWeight430gsmSizeXXS 6 XS 8 S\/M 10\/12 L\/XL 14\/16",
+			"specifications": "The women's TriDri\u00ae Sherpa 1\/4 zip hoodie is made with plush Sherpa fleece. An essential to your cool-weather wardrobe, this pull-over style features a hood with quarter zip fastening to the neck. The dipped hem to the back of the fleece makes this a flattering length to be thrown over leggings to keep you warm to and from the gym."
+		},
+		{
+			"id": "9d7063d0-3f5b-4118-88a7-170b9161b99b",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d7063d0-3f5b-4118-88a7-170b9161b99b",
+			"title": "Luxury classic faux fur hot water bottle and cover",
+			"styleCode": "RI011",
+			"material": null,
+			"description": "Tested to British Standard \u2013 BS1970: 2012. Cover 100% polyester. Hot water bottle made from natural rubber, conforming to BS1970: 2012. Reusable. Keep away from fire and naked flame. This is not a toy. Safety warnings supplied with every hot water bottle.",
+			"specifications": "Fabric100% Polyester Cover Natural Rubber BottleWeight415gSize2L"
+		},
+		{
+			"id": "9d70959e-923c-45ef-87a1-efcf239e6260",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d70959e-923c-45ef-87a1-efcf239e6260",
+			"title": "Stanley Climber versatile sleeveless jacket",
+			"styleCode": "STJM836",
+			"material": null,
+			"description": "Manufacturer Code : STJM836\nFabricShell: 100% Recycled polyester plain weave. Padding: 100% Recycled polyester. Lining: 100% Recycled polyester plain weaveWeightOuter and lining: 75gsm. Padding: 175gsmSizeS 36\/38\" M 38\/40\" L 41\/43\" XL 43\/45\" 2XL 46\/47\" 3XL 48\/50\"",
+			"specifications": "High collar. Zipped welt pockets with extra grosgrain pull. Fully quilted. Bottom hem with adjustable plastic stopper and elastic cord.\n\nWashing Instructions\nTumble dry low. Wash at 30\u00b0C. Do not bleach. Do not iron."
+		},
+		{
+			"id": "9d717668-6301-4ace-9a80-6ac7dc517509",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d717668-6301-4ace-9a80-6ac7dc517509",
+			"title": "NJ Premium Wash Tee",
+			"styleCode": "98B21",
+			"material": null,
+			"description": "Introducing our Vintage \/ Wash Unisex T-Shirt, Crafted from premium soft cotton, this tee offers unbeatable comfort and breathability. Stand out in style with our unique washed tees.",
+			"specifications": "100% Cotton, 160 g"
+		},
+		{
+			"id": "9d76588f-c4c7-4245-9d0c-4169a7f3f756",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d76588f-c4c7-4245-9d0c-4169a7f3f756",
+			"title": "Quick Pro Canvas, 3:2 Ratio, Portrait",
+			"styleCode": "QPC_3:2P",
+			"material": null,
+			"description": "Made from durable 100% polyester\nAvailable in 8 different sizes\nChoose between horizontal or vertical orientation\nDesigned for indoor use\nIncludes black backing with built-in wall hanger",
+			"specifications": "Elevate your space or give the gift of stunning art with our premium satin canvas prints. Expertly crafted, each piece is printed to the highest quality on durable 100% polyester canvas, offering a luxurious satin finish that enhances the beauty of your artwork.\n\nYour canvas comes pre-stretched around a sturdy 35mm frame, ready to hang with a sleek black backing and an integral hole for easy wall mounting. Available in a range of sizes from 8\"x12\" to 36\"x24\", this canvas is perfect for any room or occasion. Whether for your home, office, or as a thoughtful gift, it\u2019s sure to impress."
+		},
+		{
+			"id": "9d76c104-263d-42a7-a662-094feefdde55",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d76c104-263d-42a7-a662-094feefdde55",
+			"title": "Stuff Bag",
+			"styleCode": "RL700",
+			"material": "100% Recycled Cotton",
+			"description": "Each of these 100% recycled cotton sacks features drawstring pull ties with robust chords. These are particularly suited to Christmas gifting and are a great personalisation opportunity for a unique, thoughtful touch. Made by Nutshell.",
+			"specifications": "Stuff bag made from recycled cotton. Reach certified. SEDEX certified.  Drawcord closure. 140gsm. Natural pull ties. Hand wash only.\nM - 8 Litres  - 30 x 45cm\nXL - 38 Litres -  49 x 75cm"
+		},
+		{
+			"id": "9d76c81d-ef3e-42c2-a4d3-44c2dbb2b9a5",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d76c81d-ef3e-42c2-a4d3-44c2dbb2b9a5",
+			"title": "QP Canvas,14:11 Ratio, Landscape",
+			"styleCode": "QPC_14:11L",
+			"material": null,
+			"description": "Made from durable 100% polyester\nAvailable in 8 different sizes\nChoose between horizontal or vertical orientation\nDesigned for indoor use\nIncludes black backing with built-in wall hanger",
+			"specifications": "Elevate your space or give the gift of stunning art with our premium satin canvas prints. Expertly crafted, each piece is printed to the highest quality on durable 100% polyester canvas, offering a luxurious satin finish that enhances the beauty of your artwork.\n\nYour canvas comes pre-stretched around a sturdy 35mm frame, ready to hang with a sleek black backing and an integral hole for easy wall mounting. Available in a range of sizes from 8\"x12\" to 36\"x24\", this canvas is perfect for any room or occasion. Whether for your home, office, or as a thoughtful gift, it\u2019s sure to impress."
+		},
+		{
+			"id": "9d76cad4-7165-4bd1-b3c1-c4a110842aa8",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d76cad4-7165-4bd1-b3c1-c4a110842aa8",
+			"title": "QP Canvas,14:11 Ratio, Portrait",
+			"styleCode": "QPC_14:11P",
+			"material": null,
+			"description": "Made from durable 100% polyester\nAvailable in 8 different sizes\nChoose between horizontal or vertical orientation\nDesigned for indoor use\nIncludes black backing with built-in wall hanger",
+			"specifications": "Elevate your space or give the gift of stunning art with our premium satin canvas prints. Expertly crafted, each piece is printed to the highest quality on durable 100% polyester canvas, offering a luxurious satin finish that enhances the beauty of your artwork.\n\nYour canvas comes pre-stretched around a sturdy 35mm frame, ready to hang with a sleek black backing and an integral hole for easy wall mounting. Available in a range of sizes from 8\"x12\" to 36\"x24\", this canvas is perfect for any room or occasion. Whether for your home, office, or as a thoughtful gift, it\u2019s sure to impress."
+		},
+		{
+			"id": "9d76e4bd-6040-4ce9-9695-534323420a00",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d76e4bd-6040-4ce9-9695-534323420a00",
+			"title": "Quick Pro Canvas, 4:3 Ratio, Landscape",
+			"styleCode": "QPC_4:3L",
+			"material": null,
+			"description": "Made from durable 100% polyester\nAvailable in 8 different sizes\nChoose between horizontal or vertical orientation\nDesigned for indoor use\nIncludes black backing with built-in wall hanger",
+			"specifications": "Elevate your space or give the gift of stunning art with our premium satin canvas prints. Expertly crafted, each piece is printed to the highest quality on durable 100% polyester canvas, offering a luxurious satin finish that enhances the beauty of your artwork.\n\nYour canvas comes pre-stretched around a sturdy 35mm frame, ready to hang with a sleek black backing and an integral hole for easy wall mounting. Available in a range of sizes from 8\"x12\" to 36\"x24\", this canvas is perfect for any room or occasion. Whether for your home, office, or as a thoughtful gift, it\u2019s sure to impress."
+		},
+		{
+			"id": "9d76eb27-7c9d-45c0-bbf0-4232373d96b5",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d76eb27-7c9d-45c0-bbf0-4232373d96b5",
+			"title": "Quick Pro Canvas, 4:3 Ratio, Portait",
+			"styleCode": "QPC_4:3P",
+			"material": null,
+			"description": "Made from durable 100% polyester\nAvailable in 8 different sizes\nChoose between horizontal or vertical orientation\nDesigned for indoor use\nIncludes black backing with built-in wall hanger",
+			"specifications": "Elevate your space or give the gift of stunning art with our premium satin canvas prints. Expertly crafted, each piece is printed to the highest quality on durable 100% polyester canvas, offering a luxurious satin finish that enhances the beauty of your artwork.\n\nYour canvas comes pre-stretched around a sturdy 35mm frame, ready to hang with a sleek black backing and an integral hole for easy wall mounting. Available in a range of sizes from 8\"x12\" to 36\"x24\", this canvas is perfect for any room or occasion. Whether for your home, office, or as a thoughtful gift, it\u2019s sure to impress."
+		},
+		{
+			"id": "9d76f7a5-91f4-40bb-8bd8-e0c569615450",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d76f7a5-91f4-40bb-8bd8-e0c569615450",
+			"title": "QP Canvas,6:5 Ratio, Landscape",
+			"styleCode": "QPC_6:5L",
+			"material": null,
+			"description": "Made from durable 100% polyester\nAvailable in 8 different sizes\nChoose between horizontal or vertical orientation\nDesigned for indoor use\nIncludes black backing with built-in wall hanger",
+			"specifications": "Elevate your space or give the gift of stunning art with our premium satin canvas prints. Expertly crafted, each piece is printed to the highest quality on durable 100% polyester canvas, offering a luxurious satin finish that enhances the beauty of your artwork.\n\nYour canvas comes pre-stretched around a sturdy 35mm frame, ready to hang with a sleek black backing and an integral hole for easy wall mounting. Available in a range of sizes from 8\"x12\" to 36\"x24\", this canvas is perfect for any room or occasion. Whether for your home, office, or as a thoughtful gift, it\u2019s sure to impress."
+		},
+		{
+			"id": "9d76fa4a-52c5-49e4-a530-2878b87549d9",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d76fa4a-52c5-49e4-a530-2878b87549d9",
+			"title": "QP Canvas,6:5 Ratio, Portrait",
+			"styleCode": "QPC_6:5P",
+			"material": null,
+			"description": "Made from durable 100% polyester\nAvailable in 8 different sizes\nChoose between horizontal or vertical orientation\nDesigned for indoor use\nIncludes black backing with built-in wall hanger",
+			"specifications": "Elevate your space or give the gift of stunning art with our premium satin canvas prints. Expertly crafted, each piece is printed to the highest quality on durable 100% polyester canvas, offering a luxurious satin finish that enhances the beauty of your artwork.\n\nYour canvas comes pre-stretched around a sturdy 35mm frame, ready to hang with a sleek black backing and an integral hole for easy wall mounting. Available in a range of sizes from 8\"x12\" to 36\"x24\", this canvas is perfect for any room or occasion. Whether for your home, office, or as a thoughtful gift, it\u2019s sure to impress."
+		},
+		{
+			"id": "9d791fd5-a391-44d4-9f47-bda9ef658714",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d791fd5-a391-44d4-9f47-bda9ef658714",
+			"title": "Rochester modern fit \u2013 classic Oxford shirt",
+			"styleCode": "NB45M",
+			"material": null,
+			"description": "Manufacturer Code : ROCH-M\nFabric100% Combed and mercerized cotton in Oxford fabric. Garment washedWeight170gsmSizeS 38\" M 40\" L 42\" XL 44\" 2XL 46\" 3XL 48\" 4XL 50\"",
+			"specifications": "Nimbus\u2019s version of the classic long-sleeved Oxford shirt, crafted in 100% fine combed cotton, the Rochester features traditional characteristics such as functional cuffs, a gently curved hem and stylish contrast details. Classic colours embrace the history of a casual, well-fitting wardrobe staple that adds a sophisticated and preppy touch to your look. All this, combined with Nimbus\u2019s attention to detail and a variety of creative tailoring features, as expected on Scandinavian-styled apparel."
+		},
+		{
+			"id": "9d7cb2e9-3601-4242-a124-9ce968f36e93",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d7cb2e9-3601-4242-a124-9ce968f36e93",
+			"title": "Cotton denim bib apron",
+			"styleCode": "PR113",
+			"material": null,
+			"description": "A stunning denim apron made with 100% organic Fairtrade cotton for those seeking an eco-friendly approach to service.  Two handy patch pockets are finished with contrast stitch detail and the overall apron length can be adjusted with a buckle on the neckband.",
+			"specifications": "Two mitred pockets measuring 20cm deep x 19.5cm wide. Antique brass \/ gun metal buckle on neckband for height adjustment. 80cm long x 72cm wide with 107cm long ties. Care label printed on the underside that highlights the eco-friendly properties of this style . SEDEX certified. Fairtrade certified. Reach certified.\n\nWashing Instructions\nDomestic wash 40C."
+		},
+		{
+			"id": "9d84a64d-3998-4f40-8fd6-e9364e680fd7",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d84a64d-3998-4f40-8fd6-e9364e680fd7",
+			"title": "Junior 5-panel Cap",
+			"styleCode": "B63NB",
+			"material": "100% Organic Cotton Twill",
+			"description": "This 5 panel design, crafted from 100% OCS-certified organic cotton twill, features a pre-curved peak, stitched ventilation eyelets, a child-safe secure top button and a fully adjustable snapback size adjuster offering ergonomic comfort. Complemented by a palette of 6 family friendly colourways, from Powder Pink to Pistachio.",
+			"specifications": "DTF Application.\nContains 100% OCS certified organic cotton\n-5 panel design\n-Structured front panels\n-Pre-curved peak\n-Stitched ventilation eyelets\n-Child safe secure button\n-Snapback size adjuster"
+		},
+		{
+			"id": "9d84f83b-53e9-484a-96b4-427727dc3cab",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d84f83b-53e9-484a-96b4-427727dc3cab",
+			"title": "OMM unisex T-shirt",
+			"styleCode": "OMM2025",
+			"material": null,
+			"description": "A high-quality cotton T-shirt rocking official music motifs. Soft, comfortable, and stylish, it\u2019s perfect for fans looking to celebrate their favourite artists, albums, or genres in everyday wear.",
+			"specifications": "160gm"
+		},
+		{
+			"id": "9d8ed081-85e4-4bd1-97ba-37224378a397",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d8ed081-85e4-4bd1-97ba-37224378a397",
+			"title": "LW Book Shipping",
+			"styleCode": "LWBOOKS",
+			"material": null,
+			"description": "LW Book Shipping",
+			"specifications": "LW Book Shipping"
+		},
+		{
+			"id": "9d9a9ec5-7c05-4dd6-a2cf-1bcabe0436af",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9d9a9ec5-7c05-4dd6-a2cf-1bcabe0436af",
+			"title": "Creator 2.0 long sleeve (STTU199)",
+			"styleCode": "STTU199",
+			"material": null,
+			"description": "Premium, unisex, long sleeve shirt in 100% organic cotton. Timeless style, medium fit, 180gsm. Excellent printability. Aligns with Stella Muser 2.0 long sleeve.",
+			"specifications": "Set-in sleeve. 1x1 rib at neck collar. Double-needle topstitch at sleeve cuff and hem. Inside back neck tape in self-fabric.\n\nWashing Instructions\nMachine wash 30\u00b0C. Do not bleach. Iron 110\u00b0C. Do not tumble dry. Do not dry clean."
+		},
+		{
+			"id": "9da4c849-a99f-4bae-ae28-a54ab55d48bc",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9da4c849-a99f-4bae-ae28-a54ab55d48bc",
+			"title": "Striker",
+			"styleCode": "STSU202",
+			"material": null,
+			"description": "Manufacturer Code : STSU202\nFabric100% Organic combed ringspun cottonWeight400gsmSizeXXS 32\/34\" XS 34\/36\" S 36\/38\" M 38\/40\" L 41\/43\" XL 43\/45\" 2XL 46\/47\" 3XL 48\/50\"",
+			"specifications": "Specification\nRaglan sleeves. Double-layered hood in self-fabric. Kangaroo pocket at front. 1x1 ribs at sleeve cuffs and bottom hem. 1x1 rib side panels. 1x1 rib bindings at pocket openings. Double-needle topstitches at the collar, sleeve cuffs and bottom hem. Three-needle flatlock stitches at raglan seam and side panel seams. Inside herringbone back neck tape. Self-fabric half moon at the back neck.\n\nWashing Instructions\nMachine wash 30\u00b0C. Do not bleach. Iron 110\u00b0C. Do not tumble dry. Do not dry clean."
+		},
+		{
+			"id": "9da5528d-8ce1-4359-b446-2401d6c5fbe8",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9da5528d-8ce1-4359-b446-2401d6c5fbe8",
+			"title": "Unisex Sparker 2.0 heavy t-shirt",
+			"styleCode": "STTU171",
+			"material": null,
+			"description": "Manufacturer Code : STTU171\nFabric100% Organic carded cotton loose knit single JerseyWeight215gsmSizeXXS 32\/34\" XS 34\/36\" S 36\/38\" M 38\/40\" L 41\/43\" XL 43\/45\" 2XL 46\/47\" 3XL 48\/50\"",
+			"specifications": "Specification\nThe unisex heavy t-shirt. Relaxed fit. Set-in sleeve. 1x1 rib at neck collar. Inside back neck tape in self-fabric. Twin-needle topstitch at sleeve cuff and hem.\n\nWashing Instructions\nMachine wash, 30C. Wash similar colours together. No ironing on print. Wash and iron inside out. Do not tumble dry."
+		},
+		{
+			"id": "9db6fe16-15ce-4944-a661-b11024b15284",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9db6fe16-15ce-4944-a661-b11024b15284",
+			"title": "Curved classic snapback",
+			"styleCode": "7706",
+			"material": null,
+			"description": "Manufacturer Code : 7706\nFabric60% Cotton, 40% PolyesterSizeOne size",
+			"specifications": "Specification\nIdeal for embroidery. Standard shape. Matching plastic snap. Curved visor.\n\nWashing Instructions\nDo not wash, Do not bleach, Do not iron, Do not tumble dry, Do not dry clean"
+		}
+	],
+	"nextPageToken": 6
+}

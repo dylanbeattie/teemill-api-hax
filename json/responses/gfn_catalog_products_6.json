@@ -1,0 +1,14 @@
+{
+	"products": [
+		{
+			"id": "9dbeb411-965e-4e00-8c20-f73ab10f0aaa",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9dbeb411-965e-4e00-8c20-f73ab10f0aaa",
+			"title": "Kids Mini Cruiser 2.0 iconic hoodie sweatshirt",
+			"styleCode": "STSK180",
+			"material": null,
+			"description": "Fabric100% Organic ringspun combed cotton brushedWeight300gsmSize3\/4 5\/6 7\/8 9\/11 12\/13",
+			"specifications": "Fabric100% Organic ringspun combed cotton brushedWeight300gsmSize3\/4 5\/6 7\/8 9\/11 12\/13"
+		}
+	],
+	"nextPageToken": null
+}

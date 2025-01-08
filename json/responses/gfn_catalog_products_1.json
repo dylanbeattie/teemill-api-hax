@@ -1,0 +1,908 @@
+
+
+
+{
+	"products": [
+		{
+			"id": "c623c9b2-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/c623c9b2-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"title": "Kids' Basic T-Shirt",
+			"styleCode": "RNC1",
+			"material": "Certified Organic Cotton",
+			"description": "This kids' organic t-shirt is shaped to perfection with a simple, comfortable style and is built to last. The secret to its softness is the 100% certified organic cotton construction. Great for sensitive skin and made without nasty chemicals. \n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back when it's worn out.",
+			"specifications": "Certified Organic Cotton t-shirt, 155g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "c623cbf7-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/c623cbf7-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"title": "Men's Basic T-shirt",
+			"styleCode": "RNA1",
+			"material": "Certified Organic Cotton",
+			"description": "This is a popular, classic organic cotton tee. It offers amazing quality, on-trend style and sustainability at a price that's competitive with standard blank shirts. \n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back when it's worn out.",
+			"specifications": "Certified Organic Cotton t-shirt, 155g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "c623d1e0-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/c623d1e0-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"title": "Men's Crew Neck Sweater",
+			"styleCode": "RNA4",
+			"material": "Certified Organic Cotton",
+			"description": "This classic crew neck sweater is made from super soft organic cotton fabric and has a classic shape.\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back when it's worn out.",
+			"specifications": "Certified Organic Cotton Sweatshirt, 300g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "c623d7ca-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/c623d7ca-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"title": "Men's Pullover Hoodie",
+			"styleCode": "RNA7",
+			"material": "Certified Organic Cotton",
+			"description": "These hoodies are made with amazing organic cotton fabric and have a regular fit, making them incredibly soft and comfortable. This hoodie features two separate pockets and dyed to match cords.\n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back when it's worn out.",
+			"specifications": "Certified Organic Cotton Pullover Hoody, 300g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "c623d9a1-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/c623d9a1-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"title": "Women's Scoop Neck T-shirt",
+			"styleCode": "RNB1",
+			"material": "Certified Organic Cotton",
+			"description": "This women's t-shirt is shaped to perfection with a timeless scoop neck, flattering, casual style and a close-fitting cut. The secret to its softness is the certified organic cotton construction. \n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back when it's worn out.",
+			"specifications": "Certified Organic Cotton top, 155g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "c623dd38-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/c623dd38-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"title": "Women's Vest Top",
+			"styleCode": "RNB3",
+			"material": "Certified Organic Cotton",
+			"description": "This women's vest top is shaped to perfection with a flattering, casual style. The secret to its softness is the certified organic cotton construction.\n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back when it's worn out.",
+			"specifications": "Certified Organic Cotton Vest Top, 155g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "c623def9-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/c623def9-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"title": "Womens Zip Thru Sweat",
+			"styleCode": "RNB4",
+			"material": "Certified Organic Cotton",
+			"description": "Certified Organic Cotton Zip Hoody, 300g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria.",
+			"specifications": "Certified Organic Cotton Zip Hoody, 300g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "c62ae9b5-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/c62ae9b5-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"title": "Men's Baseball T-shirt",
+			"styleCode": "RNA8",
+			"material": "Certified Organic Cotton",
+			"description": "With contrasting long sleeves, this organic cotton baseball tee is a great casual choice. \n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back when it's worn out.",
+			"specifications": "Certified Organic Cotton Baseball T-shirt, 155g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "c62af572-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/c62af572-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"title": "Colour Tote Bag",
+			"styleCode": "RNT1",
+			"material": "Certified Organic Cotton",
+			"description": "This tote shopper bag is the perfect size for a day out at the shops. Soft and light, it can be rolled up to take with you anywhere. \n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back when it's worn out.",
+			"specifications": "\"Certified Organic Cotton Tote Bag. Twill Weave 170g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria. 37 x 42 cm (7cm gusset.)"
+		},
+		{
+			"id": "c62c204a-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/c62c204a-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"title": "Women's Pullover Hoody",
+			"styleCode": "RNB13",
+			"material": "Certified Organic Cotton",
+			"description": "These hoodies are made with amazing organic cotton fabric making them incredibly soft and comfortable. They are a fitted style. This hoodie features two separate pockets and dyed to match cords.\n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back when it's worn out.",
+			"specifications": "Certified Organic Cotton Pullover Hoody, 300g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "c7472c2d-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/c7472c2d-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"title": "Women's Crew Neck T-shirt",
+			"styleCode": "RNB14",
+			"material": "Certified Organic Cotton",
+			"description": "This women's t-shirt is a feminine and close-fitting style with a crew neck shape. The secret to its softness is the certified organic cotton construction. \n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back when it's worn out.",
+			"specifications": "Certified Organic Cotton top, 155g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "c7473015-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/c7473015-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"title": "Women's Baseball T-shirt",
+			"styleCode": "RNB15",
+			"material": "Certified Organic Cotton",
+			"description": "With contrasting long sleeves, this organic cotton baseball tee is a great casual choice. \n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back when it's worn out.",
+			"specifications": "Certified Organic Cotton Baseball T-shirt, 155g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "ca3fe7ef-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/ca3fe7ef-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"title": "Women's Crewneck Sweater",
+			"styleCode": "RNB18",
+			"material": "Certified Organic Cotton",
+			"description": "This classic crew neck sweater is made from super soft organic cotton fabric and has a classic, fitted shape. \n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back when it's worn out.",
+			"specifications": "Certified Organic Cotton Crewneck Jumper, 300g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "cb1340a5-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/cb1340a5-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"title": "Men's Remill\u00ae T-shirt",
+			"styleCode": "REA1",
+			"material": "50% Post-Consumer Organic Cotton \/ 50% Organic Cotton",
+			"description": "This t-shirt is rubbish. It's made from material that has been recovered, shredded and respun as part of an innovative process called Remill\u00ae, saving it from landfill. A unique neck label printed on the garment calls out its circular nature. \n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back again when it's worn out.",
+			"specifications": "Circular Economy Organic Cotton T-shirt. Made from 50% post-consumer remanufactured organic cotton \/ 50% organic cotton, 160gsm. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "cb1348fc-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/cb1348fc-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"title": "Women's Remill\u00ae T-shirt",
+			"styleCode": "REB14",
+			"material": "50% Post-Consumer Organic Cotton \/ 50% Organic Cotton",
+			"description": "This t-shirt is rubbish. It's made from material that has been recovered, shredded and respun as part of an innovative process called Remill\u00ae, saving it from landfill. A unique neck label printed onto the garment calls out its circular nature.\n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back again when it's worn out.",
+			"specifications": "Circular Economy Organic Cotton T-shirt. Made from 50% post-consumer remanufactured organic cotton \/ 50% organic cotton, 170g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "cc199206-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/cc199206-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"title": "Men's Short Sleeve Baseball T-shirt",
+			"styleCode": "RNA25",
+			"material": "Certified Organic Cotton",
+			"description": null,
+			"specifications": "Certified Organic Cotton Short Sleeve Baseball T-shirt, 155g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "ccc1b345-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/ccc1b345-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"title": "Women's Long Sleeve T-shirt",
+			"styleCode": "RNB22",
+			"material": "Certified Organic Cotton",
+			"description": "Great for layering, this long sleeve organic cotton women's t-shirt has a regular fit. \n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back when it's worn out.",
+			"specifications": "Organic Cotton Long Sleeve Top. 155g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "ccc1dccb-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/ccc1dccb-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"title": "Men's Long Sleeve T-shirt",
+			"styleCode": "RNA26",
+			"material": "Certified Organic Cotton",
+			"description": "Great for layering, this long-sleeved organic cotton t-shirt has a regular fit. \n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back when it's worn out.",
+			"specifications": "Organic Cotton Long Sleeve T-shirt, 155g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "d469c6f0-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/d469c6f0-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"title": "Men's Organic Cotton Striped T-shirt",
+			"styleCode": "RNA1S",
+			"material": "Certified Organic Cotton",
+			"description": "This is a popular, classic organic cotton tee. It offers amazing quality, on-trend style and sustainability at a price that's competitive with standard blank shirts. \n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back when it's worn out.",
+			"specifications": "Certified Organic Cotton Striped T-shirt, 155g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "d46a0b7f-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/d46a0b7f-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"title": "Men's Tie Dye T-shirt",
+			"styleCode": "RNA1T",
+			"material": "Certified Organic Cotton",
+			"description": "This is a variation on a popular, classic organic cotton tee, with a colourful twist. It offers amazing quality, on-trend style and sustainability at a price that's competitive with standard blank shirts. \n\n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back when it's worn out.",
+			"specifications": "Certified Organic Cotton Tie Dye T-shirt, 155g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "d7b721d5-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/d7b721d5-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"title": "Women's Boxy Tee",
+			"styleCode": "RNB27",
+			"material": "Certified Organic Cotton",
+			"description": "Loved for exercise and adored for lounging around, the boxy t-shirt is a modern take on a versatile organic cotton tee. Cropped and relaxed, add this to your collection for an effortless, cool style. \n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back when it's worn out.",
+			"specifications": "Certified Organic Cotton Boxy Tee, 155g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "d7b754ba-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/d7b754ba-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"title": "Men's Organic Cotton Vest",
+			"styleCode": "RNA30",
+			"material": "Certified Organic Cotton",
+			"description": "Ideal for exercise or warm summer days, this organic cotton vest promises softness and a classic fit. \n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back when it's worn out.",
+			"specifications": "Certified Organic Cotton Vest, 155g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "d7b78a93-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/d7b78a93-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"title": "Kids' Pullover Hoody",
+			"styleCode": "RNC2",
+			"material": "Certified Organic Cotton",
+			"description": "These hoodies are made with amazing organic cotton fabric making them incredibly soft and comfortable. They are a fitted style.\n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back when it's worn out.",
+			"specifications": "Certified Organic Cotton Kids Organic Hoody, 300g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "d7b7bd93-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/d7b7bd93-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"title": "Kids' Organic Long Sleeve T-shirt",
+			"styleCode": "RNC3",
+			"material": "Certified Organic Cotton",
+			"description": "This kids' organic long sleeve t-shirt is shaped to perfection with a simple, comfortable style and is built to last. The secret to its softness is the 100% certified organic cotton construction. Great for sensitive skin and made without nasty chemicals. \n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back when it's worn out.",
+			"specifications": "Certified Organic Cotton kids long sleeve t-shirt, 155g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "d7b7d02d-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/d7b7d02d-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"title": "Kids' Organic Jumper",
+			"styleCode": "RNC4",
+			"material": "Certified Organic Cotton",
+			"description": "This classic crew neck sweater is made from super soft organic cotton fabric and has a classic, fitted shape. \n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back when it's worn out.",
+			"specifications": "Certified Organic Cotton Kids Organic Jumper, 300g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "d9e25f06-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/d9e25f06-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"title": "Men's Remill\u00ae Sweater",
+			"styleCode": "REA4",
+			"material": "50% Post-Consumer Organic Cotton \/ 50% Organic Cotton",
+			"description": "This sweater is rubbish. It's made from material that has been recovered, shredded and respun as part of an innovative process called Remill\u00ae, saving it from landfill. A unique neck label printed on the garment calls out its circular nature. \n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back again when it's worn out.",
+			"specifications": "Circular Economy Organic Cotton Sweater. Made from 50% post-consumer remanufactured organic cotton \/ 50% organic cotton, 300gsm. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "d9e48ce1-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/d9e48ce1-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"title": "Women's Remill\u00ae Sweater",
+			"styleCode": "REB18",
+			"material": "50% Post-Consumer Organic Cotton \/ 50% Organic Cotton",
+			"description": "This sweater is rubbish. It's made from material that has been recovered, shredded and respun as part of an innovative process called Remill\u00ae, saving it from landfill. A unique neck label printed on the garment calls out its circular nature. \n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back again when it's worn out.",
+			"specifications": "Circular Economy Organic Cotton Jumper. Made from 50% post-consumer remanufactured organic cotton \/ 50% organic cotton, 340g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "db1aa00d-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/db1aa00d-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"title": "Large Portrait Art Print (29.7 x 42cm)",
+			"styleCode": "RNP5",
+			"material": "100% Recycled Paper",
+			"description": null,
+			"specifications": "Large Portrait Art Print - 29.7 x 42 cm (11.6 x 16.5 in) (A3) printed on 300gsm 100% recycled paper."
+		},
+		{
+			"id": "db1ac384-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/db1ac384-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"title": "Large Landscape Art Print (42 x 29.7cm)",
+			"styleCode": "RNP6",
+			"material": "100% Recycled Paper",
+			"description": null,
+			"specifications": "Large Landscape Art Print - 42 x 29.7 cm (16.5 x 11.6in) (A3) printed on 300gsm  100% recycled paper."
+		},
+		{
+			"id": "db1adc5d-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/db1adc5d-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"title": "Portrait Art Print (21 x 29.7cm)",
+			"styleCode": "RNP7",
+			"material": "100% Recycled Paper",
+			"description": null,
+			"specifications": "Portrait Art Print - 21 x 29.7 cm (8.2 x 11.6in) (A4) printed on 300gsm 100% recycled paper."
+		},
+		{
+			"id": "db1af54f-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/db1af54f-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"title": "Landscape Art Print (29.7 x 21cm)",
+			"styleCode": "RNP8",
+			"material": "100% Recycled Paper",
+			"description": null,
+			"specifications": "Landscape Art Print - 29.7 x 21 cm (11.6 x 8.2 in) (A4) printed on 300gsm 100% recycled paper."
+		},
+		{
+			"id": "db2159e5-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/db2159e5-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"title": "Small Portrait Art Print (14.8 x 21cm)",
+			"styleCode": "RNP9",
+			"material": "100% Recycled Paper",
+			"description": null,
+			"specifications": "Small Portrait Art Print - 14.8 x 21 cm (6 x 8 in) (A5) printed on 300gsm 100% recycled paper."
+		},
+		{
+			"id": "db216f94-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/db216f94-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"title": "Small Landscape Art Print (21 x 14.8cm)",
+			"styleCode": "RNP10",
+			"material": "100% Recycled Paper",
+			"description": null,
+			"specifications": "Small Landscape Art Print - 21 x 14.8 cm (8 x 6 in) (A5) printed on 300gsm 100% recycled paper."
+		},
+		{
+			"id": "df830a48-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/df830a48-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"title": "Women's Striped Organic Boxy Tee",
+			"styleCode": "RNB27S",
+			"material": "Certified Organic Cotton",
+			"description": "Loved for exercise and adored for lounging around, the boxy t-shirt is a modern take on a versatile organic cotton tee. Cropped and relaxed, add this to your collection for an effortless, cool style. \n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back when it's worn out.",
+			"specifications": "Certified Organic Cotton Striped Boxy Tee, 155g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "df925a3d-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/df925a3d-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"title": "Kids Striped Long Sleeve Tee",
+			"styleCode": "RNC3S",
+			"material": "Certified Organic Cotton",
+			"description": "This kids' organic long sleeve t-shirt is shaped to perfection with a simple, comfortable style and is built to last. The secret to its softness is the 100% certified organic cotton construction. Great for sensitive skin and made without nasty chemicals. The striped design makes this a timeless, versatile choice.\n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back when it's worn out.",
+			"specifications": "Certified Organic Cotton Kids Striped Long Sleeve Tee, 155g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria. GOTS DK25920"
+		},
+		{
+			"id": "fe6d6b02-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/fe6d6b02-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"title": "Women's 3\/4 Sleeve T-shirt",
+			"styleCode": "RNB34",
+			"material": "Certified Organic Cotton",
+			"description": "The 3\/4 sleeve style is an elegant alternative to a full, long sleeve tee. The graceful scoop neckline gives you lots of space to accessorize. The curved hem adds another sophisticated detail. A great transitional piece. \n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back when it's worn out.",
+			"specifications": "Certified Organic Cotton 3\/4 Sleeve T-shirt, 155g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "fe6f5377-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/fe6f5377-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"title": "Women's V-Neck T-shirt",
+			"styleCode": "RNB35",
+			"material": "Certified Organic Cotton",
+			"description": "With an elegant curved hem, the women's organic cotton v-neck t-shirt offers a touch of elegance. \n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back when it's worn out.",
+			"specifications": "Certified Organic Cotton V-Neck T-shirt, 155g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "fe772e13-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/fe772e13-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"title": "Women's Relaxed Fit Tee",
+			"styleCode": "RNB36",
+			"material": "Certified Organic Cotton",
+			"description": "Offering a modern and on-trend silhouette, this relaxed-fit t-shirt features split sides which can be tied up, worn loose, or tucked in to create endless styling options. Featuring rolled shoulders to elevate the design further. \n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back when it's worn out.",
+			"specifications": "Certified Organic Cotton Relaxed Fit T-shirt, 155g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "ff548e0d-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/ff548e0d-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"title": "Men's Organic Cotton Shorts",
+			"styleCode": "RNA34",
+			"material": "Certified Organic Cotton",
+			"description": "Comfy and soft, these organic cotton shorts are perfect for exercise, lounging and running errands. Two pockets and a drawstring waist. \n\nMade by Teemill and designed to be remade: Features a QR on the care label to send it back when it's worn out.",
+			"specifications": "Certified Organic Cotton Shorts, 300g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "ff55972f-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/ff55972f-6cd3-11ed-a9b4-4201c0a8a0e3",
+			"title": "Women's Boxy Jumper",
+			"styleCode": "RNB32",
+			"material": "Certified Organic Cotton",
+			"description": "This cropped organic boxy jumper features a raw hem and is a loose-fitting style to give a bit of edge to any outfit.\n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back when it's worn out.",
+			"specifications": "Certified Organic Cotton Boxy Jumper with a raw hem finish, 300g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "022e009b-6cd4-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/022e009b-6cd4-11ed-a9b4-4201c0a8a0e3",
+			"title": "Men's Joggers",
+			"styleCode": "RNA35",
+			"material": "Certified Organic Cotton",
+			"description": "Complete a cosy outfit with these organic cotton joggers, featuring a drawstring waist and two pockets for effortless comfort. \n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back when it's worn out.",
+			"specifications": "Certified Organic Cotton Joggers, 300g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "022e5029-6cd4-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/022e5029-6cd4-11ed-a9b4-4201c0a8a0e3",
+			"title": "Women's Joggers",
+			"styleCode": "RNB45",
+			"material": "Certified Organic Cotton",
+			"description": "Complete a cosy outfit with these organic cotton joggers, featuring a drawstring waist and two pockets for effortless comfort. \n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back when it's worn out.",
+			"specifications": "Certified Organic Cotton Joggers, 300g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "038c1abc-6cd4-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/038c1abc-6cd4-11ed-a9b4-4201c0a8a0e3",
+			"title": "Longline T-shirt",
+			"styleCode": "RNA33",
+			"material": "Certified Organic Cotton",
+			"description": "With longer sleeves, longer length, and a curved hem, this t-shirt has been designed for those who want an alternative to the classic t-shirt. Designed for everyday comfort and built to last. \n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back when it's worn out.",
+			"specifications": "Certified Organic Cotton T-shirt, 155g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "1158e211-6cd4-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/1158e211-6cd4-11ed-a9b4-4201c0a8a0e3",
+			"title": "Women's Relaxed Fit Hoodie",
+			"styleCode": "RNB33",
+			"material": "Certified Organic Cotton",
+			"description": "This elevated hoodie combines exceptionally soft organic cotton with subtle design features, like our simple shape, side splits and a flattering curvy hem. \n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back when it's worn out.",
+			"specifications": "Certified Organic Cotton Relaxed Fit Hoodie, 300g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "11b28486-6cd4-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/11b28486-6cd4-11ed-a9b4-4201c0a8a0e3",
+			"title": "Women's Waffle-Knit Cardigan",
+			"styleCode": "RNB40",
+			"material": "Certified Organic Cotton",
+			"description": null,
+			"specifications": "Certified Organic Cotton Waffle-Knit Cardigan, 340g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "11b2c7e8-6cd4-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/11b2c7e8-6cd4-11ed-a9b4-4201c0a8a0e3",
+			"title": "Women's Waffle-Knit Jumper",
+			"styleCode": "RNB30",
+			"material": "Certified Organic Cotton",
+			"description": null,
+			"specifications": "Certified Organic Cotton Waffle-Knit Jumper, 340g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "11b672cd-6cd4-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/11b672cd-6cd4-11ed-a9b4-4201c0a8a0e3",
+			"title": "Men's Waffle-Knit Jumper",
+			"styleCode": "RNA36",
+			"material": "Certified Organic Cotton",
+			"description": null,
+			"specifications": "Certified Organic Cotton Waffle-Knit Jumper, 340g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "17540417-6cd4-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/17540417-6cd4-11ed-a9b4-4201c0a8a0e3",
+			"title": "Men's Overshirt",
+			"styleCode": "RNA31",
+			"material": "Certified Organic Cotton",
+			"description": "This versatile Overshirt is the perfect layering piece. It brings relaxed tailoring to all your smart-casual looks, featuring carefully crafted details of generous utility-style pockets and metal poppers. Our Overshirts are made from organic cotton canvas that is built to stand the test of time, available in Black, Khaki and Purple for easy pairing with your favourite tees and jumpers. It's the all-year-round essential to take on any adventure.",
+			"specifications": "Certified Organic Cotton Overshirt, 285gsm. YKK Snap Buttons. Hand wash only. GM free. Not tested on animals. Does not contain animal-derived products. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "2971dea9-6cd4-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/2971dea9-6cd4-11ed-a9b4-4201c0a8a0e3",
+			"title": "Circle Sticker (60 x 60mm)",
+			"styleCode": "RNST1",
+			"material": null,
+			"description": "This paper sticker is designed with the environment in mind. Easy peel calendared greaseproof paper backing and water-based rubber adhesive.",
+			"specifications": "Designed with the environment in mind using natural materials, these paper stickers are printed with water-based ink with an easy-peel calendarised greaseproof paper backing and water-based rubber adhesive. These paper stickers are permanent but work best indoors. Sticker size is 60 x 60mm."
+		},
+		{
+			"id": "3cb428ba-6cd4-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/3cb428ba-6cd4-11ed-a9b4-4201c0a8a0e3",
+			"title": "Landscape Jigsaw Puzzle (1,000 pieces, 700 x 510mm)",
+			"styleCode": "RNK17",
+			"material": "100% recycled cardboard, 1650 microns",
+			"description": "This 1000-piece jigsaw puzzle is made from recycled cardboard. Full-colour printing brings out every small detail for a satisfying puzzling experience. Sent in a cardboard box featuring the puzzle design for reference.",
+			"specifications": "Designed with the environment in mind using natural materials, the 1,000 piece jigsaw puzzle is made from 100% recycled cardboard and UV inks. When complete, it is 700x510mm."
+		},
+		{
+			"id": "3cb44ec2-6cd4-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/3cb44ec2-6cd4-11ed-a9b4-4201c0a8a0e3",
+			"title": "Portrait Jigsaw Puzzle (1,000 pieces, 510 x 700mm)",
+			"styleCode": "RNK18",
+			"material": "100% recycled cardboard, 1650 microns",
+			"description": "This 1000-piece jigsaw puzzle is made from recycled cardboard. Full-colour printing brings out every small detail for a satisfying puzzling experience. Sent in a cardboard box featuring the puzzle design for reference.",
+			"specifications": "Designed with the environment in mind using natural materials, the 1,000 piece jigsaw puzzle is made from 100% recycled cardboard and UV inks. When complete, it is 510 x 700mm."
+		},
+		{
+			"id": "478adc08-6cd4-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/478adc08-6cd4-11ed-a9b4-4201c0a8a0e3",
+			"title": "Women's White Cord Hoodie",
+			"styleCode": "RNB50",
+			"material": "Certified Organic Cotton",
+			"description": "Certified Organic Cotton Pullover Hoodie, 300g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria.",
+			"specifications": "Certified Organic Cotton Pullover Hoodie, 300g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "47999843-6cd4-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/47999843-6cd4-11ed-a9b4-4201c0a8a0e3",
+			"title": "Women's Shacket",
+			"styleCode": "RNB41",
+			"material": "Certified Organic Cotton",
+			"description": "Our women's shacket is a stylish and light outer layer. This shacket is true to size with a cropped fit, or size-up for a more oversized fit. This is a great choice for dressed up for evenings out, or styled casually for days exploring. Lightweight yet durable, the overshirt style is go-to whatever the plans for the day. Made from organic cotton for a high-quality feel.",
+			"specifications": "Certified Organic Cotton Shacket, 285gsm. YKK Buttons. Hand wash only. GM free. Not tested on animals. Does not contain animal-derived products. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "479a31cf-6cd4-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/479a31cf-6cd4-11ed-a9b4-4201c0a8a0e3",
+			"title": "Women's Plain T-shirt",
+			"styleCode": "RNB46",
+			"material": "Certified Organic Cotton",
+			"description": "The women's answer to the men's classic t-shirt shape, this style has been designed to offer a straight fit which is casual and relaxed, without being baggy. \n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back when it's worn out.",
+			"specifications": "Certified Organic Cotton T-shirt, 155g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "493ed150-6cd4-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/493ed150-6cd4-11ed-a9b4-4201c0a8a0e3",
+			"title": "Women's Remill\u00ae Relaxed Fit T-shirt",
+			"styleCode": "REB36",
+			"material": "50% Post-Consumer Organic Cotton \/ 50% Organic Cotton",
+			"description": "This t-shirt is rubbish. It's made from material that has been recovered, shredded and respun as part of an innovative process called Remill\u00ae, saving it from landfill. A unique neck label printed onto the garment calls out its circular nature. Offering a modern and on-trend silhouette, this relaxed-fit t-shirt features split sides which can be tied up, worn loose, or tucked in to create endless styling options. Featuring rolled shoulders to elevate the design further. \n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back again when it's worn out.",
+			"specifications": "Circular Economy Organic Cotton Relaxed Fit T-shirt. Made from 50% post-consumer remanufactured organic cotton \/ 50% organic cotton, 170g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "493f5dae-6cd4-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/493f5dae-6cd4-11ed-a9b4-4201c0a8a0e3",
+			"title": "Men's Remill\u00ae Hoodie",
+			"styleCode": "REA7",
+			"material": "50% Post-Consumer Organic Cotton \/ 50% Organic Cotton",
+			"description": "This hoodie is rubbish. It's made from material that has been recovered, shredded and respun as part of an innovative process called Remill\u00ae, saving it from landfill. A unique neck label printed on the garment calls out its circular nature. This hoodie features two separate pockets and dyed to match cords. \n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back again when it's worn out.",
+			"specifications": "Circular Economy Organic Cotton Hoodie. Made from 50% post-consumer remanufactured organic cotton \/ 50% organic cotton, 340g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "493fcc35-6cd4-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/493fcc35-6cd4-11ed-a9b4-4201c0a8a0e3",
+			"title": "Women's Remill\u00ae Relaxed Fit Hoodie",
+			"styleCode": "REB33",
+			"material": "50% Post-Consumer Organic Cotton \/ 50% Organic Cotton",
+			"description": "This hoodie is rubbish. It's made from material that has been recovered, shredded and respun as part of an innovative process called Remill\u00ae, saving it from landfill. A unique neck label printed on the garment calls out its circular nature. This hoodie has no cords for a clean look and split hems on each side as an elevated detail. \n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back again when it's worn out.",
+			"specifications": "Circular Economy Organic Cotton Hoodie. Made from 50% post-consumer remanufactured organic cotton \/ 50% organic cotton, 340g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "4b2a2d95-6cd4-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/4b2a2d95-6cd4-11ed-a9b4-4201c0a8a0e3",
+			"title": "Men's Remill\u00ae Stripe T-shirt",
+			"styleCode": "REA1S",
+			"material": "50% Post-Consumer Organic Cotton \/ 50% Organic Cotton",
+			"description": "This is a popular, classic organic cotton tee. It offers amazing quality, on-trend style and sustainability at a price that's competitive with standard blank shirts. \n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back when it's worn out.",
+			"specifications": "Circular Economy Organic Cotton T-shirt. Made from 50% post-consumer remanufactured organic cotton \/ 50% organic cotton, 170g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "58dc8dad-6cd4-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/58dc8dad-6cd4-11ed-a9b4-4201c0a8a0e3",
+			"title": "Magic Model Men's Basic T-shirt",
+			"styleCode": "RNGA1",
+			"material": "Certified Organic Cotton",
+			"description": "RNA1 Magic Model Green Screen T-Shirt. Not for printing. Pre printed with the grid ready to send to your stores to create their own magic models.",
+			"specifications": "Certified Organic Cotton t-shirt, 155g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "58dced80-6cd4-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/58dced80-6cd4-11ed-a9b4-4201c0a8a0e3",
+			"title": "Magic Model Men's Sweatshirt",
+			"styleCode": "RNGA4",
+			"material": "Certified Organic Cotton",
+			"description": "RNA4 Magic Model Green Screen Sweatshirt. Not for printing. Pre printed with the grid ready to send to your stores to create their own magic models.",
+			"specifications": "Certified Organic Cotton Sweatshirt, 300g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "58dd3053-6cd4-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/58dd3053-6cd4-11ed-a9b4-4201c0a8a0e3",
+			"title": "Magic Model Men's Hoodie",
+			"styleCode": "RNGA7",
+			"material": "Certified Organic Cotton",
+			"description": "RNA7 Magic Model Green Screen Hoody Not for printing. Pre printed with the grid ready to send to your stores to create their own magic models.",
+			"specifications": "Certified Organic Cotton Pullover Hoody, 300g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "58de741d-6cd4-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/58de741d-6cd4-11ed-a9b4-4201c0a8a0e3",
+			"title": "Magic Model Men's Long Sleeve T-shirt",
+			"styleCode": "RNGA26",
+			"material": "Certified Organic Cotton",
+			"description": "RNA26 Magic Model Green Screen T-Shirt. Not for printing. Pre printed with the grid ready to send to your stores to create their own magic models.",
+			"specifications": "Organic Cotton Long Sleeve T-shirt, 155g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "58e07761-6cd4-11ed-a9b4-4201c0a8a0e3",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/58e07761-6cd4-11ed-a9b4-4201c0a8a0e3",
+			"title": "Magic Model Women's Relaxed Fit Hoodie",
+			"styleCode": "RNGB33",
+			"material": "Certified Organic Cotton",
+			"description": "RNB33 Magic Model Green Screen Hoodie. Not for printing. Pre printed with the grid ready to send to your stores to create their own magic models.",
+			"specifications": "Certified Organic Cotton Relaxed Fit Hoodie, 300g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "98a77059-8d33-47d7-b90f-2ea761857c88",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/98a77059-8d33-47d7-b90f-2ea761857c88",
+			"title": "Tie Dye Joggers",
+			"styleCode": "RNACB35",
+			"material": "Certified Organic Cotton",
+			"description": null,
+			"specifications": "Certified Organic Cotton Joggers, 300g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "98a7736a-66f3-49cd-9893-f63864dd7235",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/98a7736a-66f3-49cd-9893-f63864dd7235",
+			"title": "Bestival Adults Surf Towel",
+			"styleCode": "RNACB19",
+			"material": "Certified Organic Cotton",
+			"description": null,
+			"specifications": "Knee length beach change towel with kangaroo pocket and hood in heavyweight organic cotton terry loop towelling. Made in Portugal and designed on the Isle of Wight. Wash cool, hang dry. 330gsm. 90% Organic Cotton, 10% Recycled Polyester"
+		},
+		{
+			"id": "98a7d593-08b4-4682-a577-4cf43ab31027",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/98a7d593-08b4-4682-a577-4cf43ab31027",
+			"title": "Shopper Tote Bag",
+			"styleCode": "RNT6",
+			"material": "Certified Organic Cotton",
+			"description": "This large organic cotton tote has added structure, featuring 10.5cm side and bottom panels and thick 210gsm material. The woven straps are strong enough to accommodate books and more, whilst elevating any outfit. \n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back when it's worn out.",
+			"specifications": "Certified Organic Cotton Large Tote Bag. Twill Weave 210g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "98ad7923-fe0c-4436-8e98-898c7d45352a",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/98ad7923-fe0c-4436-8e98-898c7d45352a",
+			"title": "Women's Oversized Jumper",
+			"styleCode": "RNB62",
+			"material": "Certified Organic Cotton",
+			"description": "Perfect for layering, this organic cotton oversized jumper has dropped shoulders and a relaxed fit. The thick cuffs and hem add structure. \n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back when it's worn out.",
+			"specifications": "Certified Organic Cotton Relaxed Fit Sweatshirt, 300g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "98cb5d69-d06e-4a47-876a-92f21f345106",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/98cb5d69-d06e-4a47-876a-92f21f345106",
+			"title": "Short Sleeve Baby Grow",
+			"styleCode": "RNC6",
+			"material": "100% Combed Organic Cotton",
+			"description": "100% Organic Coon\ninterlock 200gsm\nNickle free poppers,\n14L YKK Ring Snaps",
+			"specifications": "Certified  Organic Cotton baby grow, 200g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK with low waste printing tech."
+		},
+		{
+			"id": "990240c7-185b-4782-bd09-42661248e2e4",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/990240c7-185b-4782-bd09-42661248e2e4",
+			"title": "Five Guys T-Shirt",
+			"styleCode": "FG-SX001",
+			"material": null,
+			"description": null,
+			"specifications": null
+		},
+		{
+			"id": "997ca6d2-c7b0-4921-9abd-5b2332c78120",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/997ca6d2-c7b0-4921-9abd-5b2332c78120",
+			"title": "Five Guys Sweatshirt",
+			"styleCode": "FG-SX003",
+			"material": null,
+			"description": null,
+			"specifications": null
+		},
+		{
+			"id": "9982b1e3-69c5-49b0-b4be-60eca43d73b7",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9982b1e3-69c5-49b0-b4be-60eca43d73b7",
+			"title": "Mug",
+			"styleCode": "RNK25",
+			"material": "100% Ceramic",
+			"description": "A timeless homeware staple, this ceramic mug is made from quality material and has a bright ORCA coating to make any design pop. 11oz capacity, measuring approximately 12cm tall. Large wrap-around exterior print area. Shipped in robust, recycled and recyclable plastic-free packaging.",
+			"specifications": "11oz 100% Natural Ceramic Mug, printed in the UK with water based inks and renewable energy. Dishwasher and microwave-safe with a durable, high gloss finish. Recycled and recyclable plastic-free packaging. Print area of 185mm x 80mm."
+		},
+		{
+			"id": "9a2202f7-551b-4da6-9341-4182d5c35659",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9a2202f7-551b-4da6-9341-4182d5c35659",
+			"title": "Women's Oversized Tee",
+			"styleCode": "RNB64",
+			"material": "Certified Organic Cotton",
+			"description": "Comfortable and on-trend, this heavier-weight oversized t-shirt feels premium quality and features dropped shoulders and a relaxed fit. Slightly shorter in the hem than the men's version. \n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back when it's worn out.",
+			"specifications": "Certified Organic Cotton t-shirt, 230g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "9a29df42-6e68-4097-8f05-ebc03d4500be",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9a29df42-6e68-4097-8f05-ebc03d4500be",
+			"title": "Women's Striped T-Shirt",
+			"styleCode": "RNB46S",
+			"material": "Certified Organic Cotton",
+			"description": "The women's answer to the men's classic t-shirt shape, this style has been designed to offer a straight fit which is casual and relaxed, without being baggy. \n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back when it's worn out.",
+			"specifications": "Certified Organic Cotton Striped Tee, 155g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "9a29fdac-d0fc-4a1b-97f8-35c966734a88",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9a29fdac-d0fc-4a1b-97f8-35c966734a88",
+			"title": "Men's Oversized Tee",
+			"styleCode": "RNA48",
+			"material": "Certified Organic Cotton",
+			"description": "Comfortable and on-trend, this heavier-weight oversized t-shirt feels premium quality and features dropped shoulders and a relaxed fit. \n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back when it's worn out.",
+			"specifications": "Certified Organic Cotton t-shirt, 230g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "9a63db0b-c247-43d4-9826-f26638d2de6f",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9a63db0b-c247-43d4-9826-f26638d2de6f",
+			"title": "Landscape Art Print",
+			"styleCode": "RNP30",
+			"material": "Fine art paper",
+			"description": "Bring your walls to life with fine art poster prints. Professional quality ultra high resolution and fade-resistant Giclee printing on natural white 210gsm matte fine art paper. Natural, renewable, and sustainable materials.",
+			"specifications": "Printed with water based inks on recyclable paper, with optional timber frame from our FSC certified supplier with acrylic glass. Professional quality full colour fine art poster prints."
+		},
+		{
+			"id": "9a63ea02-8648-4ec4-9824-625631dfbe3a",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9a63ea02-8648-4ec4-9824-625631dfbe3a",
+			"title": "Portrait Art Print",
+			"styleCode": "RNP31",
+			"material": "Fine art paper",
+			"description": "Bring your walls to life with fine art poster prints. Professional quality ultra high resolution and fade-resistant Giclee printing on natural white 210gsm matte fine art paper. Natural, renewable, and sustainable materials.",
+			"specifications": "Printed with water based inks on recyclable paper, with optional timber frame from our FSC certified supplier with acrylic glass. Professional quality full colour fine art poster prints."
+		},
+		{
+			"id": "9a63f32c-36ec-4c21-b435-cb12fddefe97",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9a63f32c-36ec-4c21-b435-cb12fddefe97",
+			"title": "Landscape Recycled Canvas",
+			"styleCode": "RNP33",
+			"material": "Recycled (rPET) Canvas",
+			"description": "Bring your walls to life with fine art poster prints. Professional quality ultra high resolution and fade-resistant printing with a sturdy timber backed frame to freshen up your favourite spaces. Natural, renewable and sustainable materials.",
+			"specifications": "Printed with water based inks on recycled (rPET) canvas, FSC certified timber frame and sustainable packaging. Premium quality canvas art print."
+		},
+		{
+			"id": "9a63f6cd-a42b-4892-9603-aa355336c323",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9a63f6cd-a42b-4892-9603-aa355336c323",
+			"title": "Square Art Print",
+			"styleCode": "RNP32",
+			"material": "Fine art paper",
+			"description": "Bring your walls to life with fine art poster prints. Professional quality ultra high resolution and fade-resistant Giclee printing on natural white 210gsm matte fine art paper. Natural, renewable, and sustainable materials.",
+			"specifications": "Printed with water based inks on recyclable paper, with optional timber frame from our FSC certified supplier with acrylic. Professional quality full colour fine art poster prints."
+		},
+		{
+			"id": "9a63fbff-d7a1-42bb-b2a7-1232f6c5ef30",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9a63fbff-d7a1-42bb-b2a7-1232f6c5ef30",
+			"title": "Portrait Recycled Canvas",
+			"styleCode": "RNP34",
+			"material": "Recycled (rPET) Canvas",
+			"description": "Bring your walls to life with fine art poster prints. Professional quality ultra high resolution and fade-resistant printing with a sturdy timber backed frame to freshen up your favourite spaces. Natural, renewable and sustainable materials.",
+			"specifications": "Printed with water based inks on recycled (rPET) canvas, FSC certified timber frame and sustainable packaging. Premium quality canvas art print."
+		},
+		{
+			"id": "9a63fd5a-03a7-4c38-b1ba-1073bd430e9c",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9a63fd5a-03a7-4c38-b1ba-1073bd430e9c",
+			"title": "Square Recycled Canvas",
+			"styleCode": "RNP35",
+			"material": "Recycled (rPET) Canvas",
+			"description": "Bring your walls to life with fine art poster prints. Professional quality ultra high resolution and fade-resistant printing with a sturdy timber backed frame to freshen up your favourite spaces. Natural, renewable and sustainable materials.",
+			"specifications": "Printed with water based inks on recycled (rPET) canvas, FSC certified timber frame and sustainable packaging. Premium quality canvas art print."
+		},
+		{
+			"id": "9a646164-aeaa-40e6-b92b-10fff7df5bee",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9a646164-aeaa-40e6-b92b-10fff7df5bee",
+			"title": "Men's Oversized Sweatshirt",
+			"styleCode": "RNA47",
+			"material": "Certified Organic Cotton",
+			"description": "Perfect for layering, this organic cotton oversized sweatshirt has dropped shoulders and a relaxed fit. Thick cuffs and hem to add structure. \n\nMade by Teemill and designed to be remade: Features a QR code on the care label to send it back when it's worn out.",
+			"specifications": "Certified Organic Cotton Sweatshirt, 300g\/m2. Wash cool, hang dry. GM free. Not tested on animals. Does not contain animal-derived products. Printed in the UK with low waste printing tech. Made in a renewable energy powered factory audited for a wide range of social and sustainability criteria."
+		},
+		{
+			"id": "9a828bfe-74d5-4bbb-9776-bf306e60fa7f",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9a828bfe-74d5-4bbb-9776-bf306e60fa7f",
+			"title": "Jim\u2019ll Only Landscape Art Print - Heavy Weight",
+			"styleCode": "RNP36",
+			"material": "Not applicable",
+			"description": null,
+			"specifications": "\"FSC certified, natural matte white, 310gsm fine art paper.\nFrame is FSC Certified with acrylic.\""
+		},
+		{
+			"id": "9a828c03-53a7-406b-b9c9-8eec7ab72664",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9a828c03-53a7-406b-b9c9-8eec7ab72664",
+			"title": "Jim\u2019ll Only Portrait Art Print - Heavy Weight",
+			"styleCode": "RNP37",
+			"material": "Not applicable",
+			"description": null,
+			"specifications": "\"FSC certified, natural matte white, 310gsm fine art paper.\nFrame is FSC Certified with acrylic.\""
+		},
+		{
+			"id": "9a828c07-bdb5-493f-92a5-5f819f0ce7d5",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9a828c07-bdb5-493f-92a5-5f819f0ce7d5",
+			"title": "Jim\u2019ll Only Square Art Print - Heavy Weight",
+			"styleCode": "RNP38",
+			"material": "Not applicable",
+			"description": null,
+			"specifications": "\"FSC certified, natural matte white, 310gsm fine art paper.\nFrame is FSC Certified with acrylic.\""
+		},
+		{
+			"id": "9ac8cbef-5f47-4255-9709-1e14bb54f26a",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9ac8cbef-5f47-4255-9709-1e14bb54f26a",
+			"title": "Greetings Card Landscape (5\"x 7\")",
+			"styleCode": "RNP40",
+			"material": "Natural Offset Uncoated Paper",
+			"description": "This greeting card is the perfect canvas for heartfelt (or hilarious) messages. Made from high quality FSC-certified uncoated paper. Sent folded with a white envelope.",
+			"specifications": "340gsm high quality white, woodfree uncoated natural offset paper produced using FSC\u00ae certified pulp."
+		},
+		{
+			"id": "9ac8ce07-10ee-4768-b4af-553c4217c267",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9ac8ce07-10ee-4768-b4af-553c4217c267",
+			"title": "Greetings Card Portrait (7\"x5\")",
+			"styleCode": "RNP41",
+			"material": "Natural Offset Uncoated Paper",
+			"description": "This greeting card is the perfect canvas for heartfelt (or hilarious) messages. Made from high quality FSC-certified uncoated paper. Sent folded with a white envelope.",
+			"specifications": "340gsm high quality white, woodfree uncoated natural offset paper produced using FSC\u00ae certified pulp."
+		},
+		{
+			"id": "9ac8d1c9-34ec-476d-a392-f9facf3be4e5",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9ac8d1c9-34ec-476d-a392-f9facf3be4e5",
+			"title": "Greetings Card Square Landscape (12.5cm x 12.5cm)",
+			"styleCode": "RNP42",
+			"material": "Natural Offset Uncoated Paper",
+			"description": "This greeting card is the perfect canvas for heartfelt (or hilarious) messages. Made from high quality FSC-certified uncoated paper. Sent folded with a white envelope.",
+			"specifications": "340gsm high quality white, woodfree uncoated natural offset paper produced using FSC\u00ae certified pulp."
+		},
+		{
+			"id": "9ac8d380-978f-448f-9282-8a9c05ecb15a",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9ac8d380-978f-448f-9282-8a9c05ecb15a",
+			"title": "Greetings Card Square Portrait (12.5cm x 12.5cm)",
+			"styleCode": "RNP43",
+			"material": "Natural Offset Uncoated Paper",
+			"description": "This greeting card is the perfect canvas for heartfelt (or hilarious) messages. Made from high quality FSC-certified uncoated paper. Sent folded with a white envelope.",
+			"specifications": "340gsm high quality white, woodfree uncoated natural offset paper produced using FSC\u00ae certified pulp."
+		},
+		{
+			"id": "9ac8d4be-ad12-4b68-9053-d8d733ebc674",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9ac8d4be-ad12-4b68-9053-d8d733ebc674",
+			"title": "Postcard Portrait A6",
+			"styleCode": "RNP44",
+			"material": "Natural Offset Uncoated Paper",
+			"description": "This simple postcard is great for sharing memorable moments, photography or slogans. Made from FSC-certified matte paper. Features a standard postcard backing.",
+			"specifications": "340gsm high quality white, woodfree uncoated natural offset paper produced using FSC\u00ae certified pulp."
+		},
+		{
+			"id": "9ac8d81f-2d7a-420e-8b92-93138c5d9f1f",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9ac8d81f-2d7a-420e-8b92-93138c5d9f1f",
+			"title": "Postcard Landscape A6",
+			"styleCode": "RNP45",
+			"material": "Natural Offset Uncoated Paper",
+			"description": "This simple postcard is great for sharing memorable moments, photography or slogans. Made from FSC-certified matte paper. Features a standard postcard backing.",
+			"specifications": "340gsm high quality white, woodfree uncoated natural offset paper produced using FSC\u00ae certified pulp."
+		},
+		{
+			"id": "9b032611-84ee-4405-b724-7fd3c1a3c066",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b032611-84ee-4405-b724-7fd3c1a3c066",
+			"title": "Fishermans Beanie",
+			"styleCode": "RNKSS1",
+			"material": "95% Organic Cotton & 5% Elastane",
+			"description": null,
+			"specifications": "Fisherman Rib Beanie\n95% organic ring spun combed cotton, 5% elastane with four shaping seams. Embroidered using biodegradable lyocell."
+		},
+		{
+			"id": "9b2d16fd-63ea-4d9f-9b3c-c32d511ce279",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b2d16fd-63ea-4d9f-9b3c-c32d511ce279",
+			"title": "Blanket, Recycled",
+			"styleCode": "BLNK_RYC",
+			"material": null,
+			"description": "100% Recycled Polyester fleece blanket available in 3 sizes: Large 200cm x 150cm, Medium 150cm x 112.50cm, Small\/Pet 100cm x 75cm. Edging is overlocked and a simple ribbon label sewn in showing composition and wash instructions. Design area left transparent will print white as per the base fabric colour. Suitable for all over sublimation printing.",
+			"specifications": "Discover the warmth and comfort of our eco-friendly blanket, crafted from 260 GSM 100% recycled polyester. Perfect for cozy evenings, this durable and soft blanket is an essential addition to any home."
+		},
+		{
+			"id": "9b2d20e1-52cf-43b7-a230-9c59668d55b6",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b2d20e1-52cf-43b7-a230-9c59668d55b6",
+			"title": "Coaster, Square",
+			"styleCode": "CSTR_SQ",
+			"material": null,
+			"description": "Hardboard coasters are practical and durable with a glossy photo finish. Finish- Gloss",
+			"specifications": "Crafted for durability and style, this coaster measures 9cm by 9cm with a thickness of 3.17mm, featuring a natural, raw back to prevent slipping. Perfect for safeguarding surfaces, it blends functionality with a touch of elegance."
+		},
+		{
+			"id": "9b3779e2-c439-4e0e-83d3-a6c526fdefb9",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b3779e2-c439-4e0e-83d3-a6c526fdefb9",
+			"title": "Apron, All Over Print",
+			"styleCode": "APRN_AOP",
+			"material": null,
+			"description": "100% Polyester adult apron. Edging is overlocked and a simple ribbon label sewn in showing composition and wash instructions. Design area left transparent will print white as per the base fabric colour. Suitable for all over sublimation printing.",
+			"specifications": "Crafted from durable, 100% polyester, this versatile apron offers exceptional comfort and longevity, perfect for any creative endeavor. Its resilient fabric ensures easy care, making it an ideal choice for both professional and home use."
+		},
+		{
+			"id": "9b381b28-5b60-4fdd-8cad-93a265ba876b",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b381b28-5b60-4fdd-8cad-93a265ba876b",
+			"title": "Blanket, Snuggle",
+			"styleCode": "BLNK_SUG",
+			"material": null,
+			"description": "100% Super Soft Polyester snuggle fleece blanket available in 3 sizes: Large 200cm x 150cm, Medium 150cm x 112.50cm, Small\/Pet 100cm x 75cm. Edging is overlocked and a simple ribbon label sewn in showing composition and wash instructions. Design area left transparent will print white as per the base fabric colour. Suitable for all over sublimation printing.",
+			"specifications": "Discover the warmth and comfort of our blanket, crafted from 100% polyester. Perfect for cozy evenings, this durable and soft blanket is an essential addition to any home."
+		},
+		{
+			"id": "9b39f713-1d5f-4b91-a992-908e963053aa",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b39f713-1d5f-4b91-a992-908e963053aa",
+			"title": "Fullwrap Mug",
+			"styleCode": "MU10_WHT",
+			"material": null,
+			"description": "A bright white straight sided ceramic mug with a high gloss finish. Dishwasher and microwave safe. Shipped in a double-walled cardboard smash-proof mailer box.",
+			"specifications": "Enjoy your favorite beverages in this high-quality, 10oz ceramic mug. Perfect for any hot or cold drink, it features a smooth, durable surface that's ideal for everyday use."
+		},
+		{
+			"id": "9b3b2e7a-7844-48de-979b-57b0f731f786",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b3b2e7a-7844-48de-979b-57b0f731f786",
+			"title": "Cushion, Velour, Square, Two Prints",
+			"styleCode": "CSH_VLS2",
+			"material": null,
+			"description": "Super soft 100% Polyester Velour Square Cushion with a removable cover with a hidden zip on the edge of the cushion. Design area left transparent will print white as per the base fabric colour. Suitable for all over sublimation printing.",
+			"specifications": "Experience the ultimate comfort with our soft and durable polyester cushion, perfect for adding a touch of personalized elegance to any space. This cushion features a high-quality, machine-washable cover for easy care and maintenance, ensuring long-lasting vibrancy in your home or office."
+		},
+		{
+			"id": "9b3b3301-ee9f-46d2-9e47-8a380c6a1255",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b3b3301-ee9f-46d2-9e47-8a380c6a1255",
+			"title": "Cushion, Velour, Rectangular, Double Sided",
+			"styleCode": "CSH_VLR2",
+			"material": null,
+			"description": "Super soft 100% Polyester Velour Rectangular Cushion with a removable cover with a hidden zip on the edge of the cushion. Design area left transparent will print white as per the base fabric colour. Suitable for all over sublimation printing.",
+			"specifications": "Experience the ultimate comfort with our soft and durable polyester cushion, perfect for adding a touch of personalized elegance to any space. This cushion features a high-quality, machine-washable cover for easy care and maintenance, ensuring long-lasting vibrancy in your home or office."
+		},
+		{
+			"id": "9b3b4f5e-ba70-4649-81de-a89b53cf977a",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b3b4f5e-ba70-4649-81de-a89b53cf977a",
+			"title": "Greeting Card, A5, Envelope",
+			"styleCode": "GCRD_A5E",
+			"material": null,
+			"description": "A5 greetings card with blank envelope.Card is blank inside for your own message. Any design area left blank will be printed white.",
+			"specifications": "Experience the personal touch with our high-quality A5 greeting card, crafted from 310gsm paper for a premium feel. Ideal for any occasion, this card ensures your special messages are conveyed in style."
+		},
+		{
+			"id": "9b3b7977-2bae-418d-9d55-d6bd277e9e70",
+			"ref": "https:\/\/api.teemill.com\/v1\/gfn\/catalog\/products\/9b3b7977-2bae-418d-9d55-d6bd277e9e70",
+			"title": "Notebook, Moleskin, A5",
+			"styleCode": "NBOK_MS",
+			"material": null,
+			"description": "A soft moleskin finish 80 page lined A5 notebook with ribbon bookmark. Pocket on the inside back cover for securing loose notes. Includes an elastic pen loop and an elastic closure to keep contents securely in place. Printed on the front only.",
+			"specifications": "This high-quality A5 notebook features durable, lined pages ideal for jotting down notes, sketches, or personal reflections. Crafted to support your creativity, it comes with a smooth, easy-to-carry design. Perfect for daily use, it includes care instructions to ensure longevity."
+		}
+	],
+	"nextPageToken": 2
+}
